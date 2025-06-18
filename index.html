@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nhà thuốc An Khang - Hệ thống bán thuốc Team 9 design 100%</title>
+    <!--Bootstrap-->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <!--CSS-->
+    <link rel="stylesheet" href="styles.css" />
+    <!--Font Awesome-->
+    <script
+      src="https://kit.fontawesome.com/eb0b30c124.js"
+      crossorigin="anonymous"
+    ></script>
+    <!--Font Roboto-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <!--JS-->
+    <script src="js-scripts/normal-render.js" defer></script>
+    <script src="js-scripts/get-profile-product.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="container d-flex justify-content-end align-items-center">
+        <button class="btn text-light text-truncate btn-top-nav">
+          <span class="fa-solid fa-expand"></span> Tra giá thuốc
+        </button>
+        <button
+          class="btn text-light text-truncate btn-top-nav"
+          data-bs-toggle="modal"
+          data-bs-target="#gioHangModal"
+        >
+          <span class="fa-solid fa-cart-shopping"></span> Giỏ hàng
+        </button>
+        <button class="btn text-light text-truncate btn-top-nav">
+          <span class="fa-solid fa-user"></span> Tài khoản
+        </button>
+      </div>
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+          <a class="navbar-brand" href="#"
+            ><img src="images/logo_ankhang.png" alt="logo"
+          /></a>
+          <button
+            class="navbar-toggler border-0"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="fa-solid fa-bars fa-xl text-white"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mb-2 mb-lg-0 mx-auto align-items-lg-center">
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold active"
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  thực phẩm chức năng
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li>
+                    <a class="dropdown-item" href="#">Action</a>
+                  </li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  thiết bị - dụng cụ y tế
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  dược mỹ phẩm
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item text-uppercase" href="duoc-my-pham.html" style="color: #4CB551 !important;">Xem tất cả</a></li>
+                  <li><a class="dropdown-item" href="#">Coming soon...</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  chăm sóc cá nhân
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  chăm sóc trẻ em
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li><a class="dropdown-item text-uppercase" href="cham-soc-tre-em.html" style="color: #4CB551 !important;">Xem tất cả</a></li>
+                  <li><a class="dropdown-item" href="#">Coming soon...</a></li>
+                </ul>
+              </li>
+              
+            </ul>
+            <form class="d-flex bg-light p-0 fs-5" style="border-radius: 15px">
+              <input
+                class="form-control me-2 bg-transparent border-0"
+                type="search"
+                placeholder="Bạn muốn tìm gì?"
+                aria-label="Search"
+              />
+              <button
+                class="btn w-25"
+                type="submit"
+                style="
+                  border-radius: 15px;
+                  background-color: #4cb551;
+                  transform: scale(0.85);
+                "
+              >
+                <span class="fa-solid fa-search text-white"></span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <!--Banner-->
+      <section>
+        <div class="container py-3 mt-2">
+          <div class="row g-3 flex-column flex-md-row">
+            <!-- Banner chính (carousel) -->
+            <div class="col-md-8 col-12">
+              <div
+                id="carouselExampleIndicators"
+                class="carousel slide"
+                data-bs-ride="carousel"
+              >
+                <div class="carousel-indicators">
+                  <button
+                    type="button"
+                    data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide-to="0"
+                    class="active"
+                    aria-current="true"
+                    aria-label="Slide 1"
+                  ></button>
+                  <button
+                    type="button"
+                    data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide-to="1"
+                    aria-label="Slide 2"
+                  ></button>
+                  <button
+                    type="button"
+                    data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide-to="2"
+                    aria-label="Slide 3"
+                  ></button>
+                </div>
+                <div class="carousel-inner rounded-3">
+                  <div class="carousel-item active">
+                    <a href="https://www.nhathuocankhang.com/tin-khuyen-mai/mwg-shop-san-viet-sale-giua-nam-1578579?itm_source=nhathuocankhang&itm_medium=homepage-heroslided-alldevices&itm_campaign=mwg-shop-t6"
+                      ><img
+                        src="images/banner2.png"
+                        class="d-block w-100 banner"
+                        alt="banner"
+                    /></a>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="https://www.nhathuocankhang.com/tin-khuyen-mai/01-06-30-06-thu-cu-doi-moi-but-tiem-tieu-duong-va-binh-xit-hen-suyen-1578236"
+                      ><img
+                        src="images/banner1.png"
+                        class="d-block w-100 banner"
+                        alt="banner"
+                    /></a>
+                  </div>
+                  <div class="carousel-item">
+                    <a href="https://medpro.vn/dich-vu-dat-kham?utm_source=homepage&utm_medium=special-function-icon&utm_campaign=medpro_ankhang"
+                      ><img
+                        src="images/banner3.jpg"
+                        class="d-block w-100 banner"
+                        alt="banner"
+                    /></a>
+                  </div>
+                </div>
+                <button
+                  class="carousel-control-prev"
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide="prev"
+                >
+                  <span
+                    class="carousel-control-prev-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button
+                  class="carousel-control-next"
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide="next"
+                >
+                  <span
+                    class="carousel-control-next-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- Banner phụ (2 ảnh dọc) -->
+            <div class="col-md-4 d-none d-lg-flex flex-column">
+              <a href="#" class="mb-2">
+                <img
+                  src="images/bannerle1.png"
+                  class="img-fluid w-100 rounded-top"
+                  alt="Banner phụ 1"
+                  style="object-fit: cover; height: 207px"
+                />
+              </a>
+              <a href="#">
+                <img
+                  src="images/bannerle2.png"
+                  class="img-fluid w-100 rounded-bottom"
+                  alt="Banner phụ 2"
+                  style="object-fit: cover; height: 207px"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--Khuyen mai-->
+      <section>
+        <div class="container">
+          <a href="#" id="khuyen-mai-50k">
+            <img
+              src="images/khuyen-mai-50k-2.png"
+              alt="khuyenmai"
+              class="img-fluid"
+            />
+          </a>
+        </div>
+      </section>
+      <!--Benh pho bien-->
+      <section>
+        <div class="container mt-4">
+          <nav>
+            <h5 class="fw-bold text-dark fs-3 d-md-none d-block">
+              Bệnh phổ biến mùa này
+            </h5>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+              <button
+                class="nav-link border-0 text-dark fw-bold fs-3 d-none d-md-block"
+                id="nav-home-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#nav-home"
+                type="button"
+                role="tab"
+                aria-controls="nav-home"
+                aria-disabled="true"
+              >
+                Bệnh phổ biến mùa này
+              </button>
+              <button
+                class="nav-link nav-link-custom active"
+                id="nav-home-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#nav-home"
+                type="button"
+                role="tab"
+                aria-controls="nav-home"
+                aria-selected="true"
+              >
+                Sốt xuất huyết
+              </button>
+              <button
+                class="nav-link nav-link-custom"
+                id="nav-profile-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#nav-profile"
+                type="button"
+                role="tab"
+                aria-controls="nav-profile"
+                aria-selected="false"
+              >
+                Bệnh sởi
+              </button>
+              <button
+                class="nav-link nav-link-custom"
+                id="nav-contact-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#nav-contact"
+                type="button"
+                role="tab"
+                aria-controls="nav-contact"
+                aria-selected="false"
+              >
+                COVID
+              </button>
+            </div>
+          </nav>
+          <div
+            class="tab-content py-5"
+            id="nav-tabContent"
+            style="background-color: #51bb56"
+          >
+            <div
+              class="tab-pane fade show active"
+              id="nav-home"
+              role="tabpanel"
+              aria-labelledby="nav-home-tab"
+            >
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-3 d-none d-md-block">
+                    <img
+                      src="images/benhsotxuathuyet.png"
+                      alt="benh"
+                      class="w-75"
+                    />
+                  </div>
+                  <div class="col-md-9 col-12">
+                    <div
+                      id="carouselExampleInterval"
+                      class="carousel slide"
+                      data-bs-ride="carousel"
+                    >
+                      <div class="carousel-inner" id="list-product"></div>
+                      <button
+                        class="carousel-control-prev"
+                        type="button"
+                        data-bs-target="#carouselExampleInterval"
+                        data-bs-slide="prev"
+                      >
+                        <span
+                          class="carousel-control-prev-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button
+                        class="carousel-control-next"
+                        type="button"
+                        data-bs-target="#carouselExampleInterval"
+                        data-bs-slide="next"
+                      >
+                        <span
+                          class="carousel-control-next-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Next</span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="tab-pane fade"
+              id="nav-profile"
+              role="tabpanel"
+              aria-labelledby="nav-profile-tab"
+            >
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-3 d-none d-md-block">
+                    <img src="images/benhsoi.png" alt="benh" class="w-75" />
+                  </div>
+                  <div class="col-md-9 col-12">
+                    <div
+                      id="carouselExampleInterval"
+                      class="carousel slide"
+                      data-bs-ride="carousel"
+                    >
+                      <div class="carousel-inner" id="list-product2"></div>
+                      <button
+                        class="carousel-control-prev"
+                        type="button"
+                        data-bs-target="#carouselExampleInterval"
+                        data-bs-slide="prev"
+                      >
+                        <span
+                          class="carousel-control-prev-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button
+                        class="carousel-control-next"
+                        type="button"
+                        data-bs-target="#carouselExampleInterval"
+                        data-bs-slide="next"
+                      >
+                        <span
+                          class="carousel-control-next-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Next</span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="tab-pane fade"
+              id="nav-contact"
+              role="tabpanel"
+              aria-labelledby="nav-contact-tab"
+            >
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-3 d-none d-md-block">
+                    <img src="images/covid.jpg" alt="benh" class="w-75" />
+                  </div>
+                  <div class="col-md-9 col-12">
+                    <div
+                      id="carouselExampleInterval"
+                      class="carousel slide"
+                      data-bs-ride="carousel"
+                    >
+                      <div class="carousel-inner" id="list-product3"></div>
+                      <button
+                        class="carousel-control-prev"
+                        type="button"
+                        data-bs-target="#carouselExampleInterval"
+                        data-bs-slide="prev"
+                      >
+                        <span
+                          class="carousel-control-prev-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Previous</span>
+                      </button>
+                      <button
+                        class="carousel-control-next"
+                        type="button"
+                        data-bs-target="#carouselExampleInterval"
+                        data-bs-slide="next"
+                      >
+                        <span
+                          class="carousel-control-next-icon"
+                          aria-hidden="true"
+                        ></span>
+                        <span class="visually-hidden">Next</span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--Cham soc gia dinh-->
+      <section>
+        <div class="container mt-5">
+          <img src="images/chamsocgd.png" alt="csgd" class="img-fluid w-100" />
+          <ul
+            class="nav nav-pills py-3 d-flex justify-content-center align-items-center gap-3"
+            id="pills-tab"
+            role="tablist"
+            style="background-color: #f3588b"
+          >
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link nav-link-gtqn active text-uppercase"
+                id="pills-home-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#pills-home"
+                type="button"
+                role="tab"
+                aria-controls="pills-home"
+                aria-selected="true"
+              >
+                Nổi bật
+              </button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button
+                class="nav-link nav-link-gtqn text-uppercase"
+                id="pills-profile-tab"
+                data-bs-toggle="pill"
+                data-bs-target="#pills-profile"
+                type="button"
+                role="tab"
+                aria-controls="pills-profile"
+                aria-selected="true"
+              >
+                Giá tốt quà ngon
+              </button>
+            </li>
+          </ul>
+          <div
+            class="tab-content"
+            id="pills-tabContent"
+            style="background-color: #f3588b"
+          >
+            <div
+              class="tab-pane fade show active"
+              id="pills-home"
+              role="tabpanel"
+              aria-labelledby="pills-home-tab"
+            >
+              <!--list-->
+              <div
+                id="carouselNoiBat"
+                class="carousel slide"
+                data-bs-ride="carousel"
+              >
+                <div class="carousel-inner" id="list-product4"></div>
+                <button
+                  class="carousel-control-prev"
+                  type="button"
+                  data-bs-target="#carouselNoiBat"
+                  data-bs-slide="prev"
+                >
+                  <span
+                    class="carousel-control-prev-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button
+                  class="carousel-control-next"
+                  type="button"
+                  data-bs-target="#carouselNoiBat"
+                  data-bs-slide="next"
+                >
+                  <span
+                    class="carousel-control-next-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+            </div>
+            <div
+              class="tab-pane fade"
+              id="pills-profile"
+              role="tabpanel"
+              aria-labelledby="pills-profile-tab"
+            >
+              <!--list-->
+              <div
+                id="carouselNoiBat"
+                class="carousel slide"
+                data-bs-ride="carousel"
+              >
+                <div class="carousel-inner" id="list-product5"></div>
+                <button
+                  class="carousel-control-prev"
+                  type="button"
+                  data-bs-target="#carouselNoiBat"
+                  data-bs-slide="prev"
+                >
+                  <span
+                    class="carousel-control-prev-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button
+                  class="carousel-control-next"
+                  type="button"
+                  data-bs-target="#carouselNoiBat"
+                  data-bs-slide="next"
+                >
+                  <span
+                    class="carousel-control-next-icon"
+                    aria-hidden="true"
+                  ></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--Bản tin sức khỏe-->
+      <section>
+        <div class="container mt-5">
+          <h5 class="fs-4 fw-bold">Bản tin sức khoẻ</h5>
+        </div>
+        <div class="container mt-4 align-items-center d-flex justify-content-center">
+          
+          <div class="row d-flex justify-content-between align-items-center">
+            <div class="col-md-4 col-12" >
+              <a style="text-decoration: none; color: black;"  href="https://www.nhathuocankhang.com/tin-khuyen-mai/chuong-trinh-tiep-buoc-duoc-si-tuong-lai-2025-1578591">
+                <div class="card" style="width: 30rem; border-radius: 10px">
+                <img
+                  src="images/chuong-trinh-tiep-buoc-duoc-si-tuong-lai-2025- (8)638846319803166874.jpg"
+                  class="card-img-top"
+                  alt="baibao"
+                />
+                <div class="card-body">
+                  <p class="card-text text-truncate fw-bold">
+                    Chương trình “Tiếp Bước Dược Sĩ Tương Lai” 2025 cùng Nhà
+                    thuốc An Khang
+                  </p>
+                  <small class="text-secondary">2 tuần trước</small>
+                </div>
+              </div>
+              </a>
+            </div>
+           <div class="col-md-4 col-12">
+              <a style="text-decoration: none; color: black;" href="https://www.nhathuocankhang.com/ban-tin-suc-khoe/18-loi-ich-cua-viec-nuoi-con-bang-sua-me-trong-6-1578364"><div class="card" style="width: 30rem; border-radius: 10px;">
+                <img
+                  src="images/loi-ich-nuoi-con-tu-sua-me638840208229931054.jpg"
+                  class="card-img-top"
+                  alt="baibao"
+                />
+                <div class="card-body">
+                  <p class="card-text text-truncate fw-bold">
+                    Chương trình “Tiếp Bước Dược Sĩ Tương Lai” 2025 cùng Nhà
+                    thuốc An Khang
+                  </p>
+                  <small class="text-secondary">3 tuần trước</small>
+                </div>
+              </div></a>
+            </div>
+            <div class="col-md-4 col-12">
+              <a style="text-decoration: none; color: black;" href="https://www.nhathuocankhang.com/tin-khuyen-mai/nha-thuoc-an-khang-cung-cong-ty-durex-to-chuc-buoi-workshop-chu-de-coi-mo-di-1578222"><div class="card" style="width: 30rem; border-radius: 10px">
+                <img
+                  src="images/nha-thuoc-an-khang-cung-cong-ty-durex-to-chuc-buoi-workshop-chu-de-coi-mo-di-thumb01638836907813385493.jpg"
+                  class="card-img-top"
+                  alt="baibao"
+                />
+                <div class="card-body">
+                  <p class="card-text text-truncate fw-bold">
+                    Chương trình “Tiếp Bước Dược Sĩ Tương Lai” 2025 cùng Nhà
+                    thuốc An Khang
+                  </p>
+                  <small class="text-secondary">1 tuần trước</small>
+                </div>
+              </div></a>
+            </div>
+              
+        </div>
+      </section>
+      <!--Modal-->
+      <!--gio hang-->
+      <section>
+        <div
+          class="modal fade"
+          id="gioHangModal"
+          tabindex="-1"
+          aria-labelledby="exampleModalLabel"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">
+                  <span class="fa-solid fa-cart-shopping"></span> Giỏ hàng
+                </h5>
+                <button
+                  type="button"
+                  class="btn-close"
+                  data-bs-dismiss="modal"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="modal-body">
+                <div id="cart-items"></div>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-bs-dismiss="modal"
+                >
+                  Đóng
+                </button>
+                <button id="paid" type="button" class="btn btn-success">
+                  Thanh toán
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--thong bao-->
+      <div class="modal" tabindex="-1" id="thongBaoModal">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Thông báo</h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <p id="thongBaoNoiDung">Modal body text goes here.</p>
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Đóng
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <section>
+        <div
+          class="container-fluid px-5 mt-3 py-4"
+          style="background-color: #ebf8ed"
+        >
+          <div class="row">
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  tổng đài
+                </h5>
+                <li class="text-truncate">
+                  Gọi mua (8:00 - 21:30):
+                  <a
+                    style="text-decoration: none; font-weight: bold"
+                    href="tel:1900"
+                    >1900 1234</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  Khiếu nại (8:00 - 21:30):<a
+                    style="text-decoration: none; font-weight: bold"
+                    href="tel:1900"
+                    >1900 1234</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  Hệ thống nhà thuốc
+                </h5>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/noi-quy-nha-thuoc-an-khang"
+                    >Nội quy nhà thuốc</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/chat-luong-phuc-vu-nha-thuoc-an-khang"
+                    >Chất lượng phục vụ</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/chinh-sach-doi-tra-bao-hanh-an-khang"
+                    >Chính sách đổi trả, bảo hành</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/tin-khuyen-mai/tat-tan-tat-ve-chuong-trinh-uu-dai-app-qua-tang-vip-1481845#hmenuid1"
+                    >Tích điểm Quà tặng VIP</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  Hỗ trợ khách hàng
+                </h5>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/dieu-kien-giao-dich-chung-nha-thuoc-an-khang"
+                    >Điều kiện giao dịch chung</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/huong-dan-mua-hang-online-an-khang"
+                    >Hướng dẫn mua hàng online</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/chinh-sach-giao-hang-an-khang"
+                    >Chính sách giao hàng</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/chinh-sach-thanh-toan-an-khang"
+                    >Chính sách thanh toán</a
+                  >
+                </li>
+                
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  Về nhà thuốc An Khang
+                </h5>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/gioi-thieu-nha-thuoc-an-khang"
+                    >Giới thiệu công ty</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/ban-dieu-hanh"
+                    >Ban Điều Hành</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a style="text-decoration: none; color: #515151" href="https://www.nhathuocankhang.com/chinh-sach-bao-mat-an-khang"
+                    >Chính sách xử lý dữ liệu cá nhân</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6 col-md-3">
+              <ul style="list-style: none">
+                <li>
+                  <h5
+                    class="text-uppercase fw-bold fs-5 text-truncate footer-info"
+                  >
+                    kết nối với chúng tôi
+                  </h5>
+                </li>
+                <li class="d-flex gap-2 justify-content-start">
+                  <span>
+                    <a href="youtube.com">
+                      <img
+                        src="images/youtube-icon.png"
+                        alt="youtube-icon"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                  <span>
+                    <a href="facebook.com">
+                      <img
+                        src="images/2023_Facebook_icon.png"
+                        alt="facebook-icon"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                  <span>
+                    <a href="https://zalo.me/2650939002850547338?itm_source=nhathuocankhang&itm_medium=Tu_van_thuoc&itm_campaign=Zalo_chat">
+                      <img
+                        src="images/zalo-icon.png"
+                        alt="zalo-icon"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                </li>
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul style="list-style: none">
+                <li>
+                  <h5
+                    class="text-uppercase fw-bold fs-5 text-truncate footer-info"
+                  >
+                    Chứng nhận bởi
+                  </h5>
+                </li>
+                <li class="d-flex gap-2 justify-content-start">
+                  <span>
+                    <a
+                      href="http://online.gov.vn/Home/WebDetails/41612?AspxAutoDetectCookieSupport=1"
+                    >
+                      <img
+                        src="images/bocongthuong.png"
+                        alt="bocongthuong.png"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                  <span class="rounded-pill">
+                    <a
+                      href="https://www.dmca.com/Protection/Status.aspx?ID=79385c01-eec9-4157-9e93-322fae8b1562&refurl=https://www.nhathuocankhang.com/dung-cu-y-te"
+                    >
+                      <img
+                        src="images/dmca-badge-w100-2x1-02.png"
+                        alt="dmca-badge-w100-2x1-02.png"
+                        style="width: 50px; height: 20px; border-radius: 8px"
+                      />
+                    </a>
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--Call Zalo Icon-->
+      <section class="container-fluid">
+        <a
+          href="http://zalo.me/0914892412"
+          class="zalo-Icon"
+          data-bs-toggle="tooltip"
+          data-bs-placement="top"
+          title="Chat với chúng tôi trên Zalo"
+        >
+          <i
+            style="
+              color: white;
+              text-align: center;
+              font-size: 15px;
+              font-weight: bold;
+            "
+            >Zalo</i
+          >
+        </a>
+        <a
+          href="tel:0914892412"
+          class="call-Icon"
+          data-bs-toggle="tooltip"
+          data-bs-placement="top"
+          title="Liên hệ với chúng tôi qua điện thoại"
+        >
+          <i class="fa-solid fa-phone" style="color: white"></i>
+        </a>
+      </section>
+    </footer>
+    <script>
+      function scrollProducts(direction) {
+        const container = document.getElementById("product-scroll");
+        const scrollAmount = 220; // khoảng cách cuộn mỗi lần
+        container.scrollBy({
+          left: direction * scrollAmount,
+          behavior: "smooth",
+        });
+      }
+    </script>
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        renderCarouselProductCards({
+          jsonPath: "data-json/data-sot-xuat-huyet.json",
+          containerId: "list-product",
+          countproduct: "count-text-id",
+          filterBrand: null,
+          priceMin: null,
+          priceMax: null,
+          sortOrder: "asc",
+        });
+        renderCarouselProductCards({
+          jsonPath: "data-json/data-benh-soi.json",
+          containerId: "list-product2",
+          countproduct: "count-text-id",
+          filterBrand: null,
+          priceMin: null,
+          priceMax: null,
+          sortOrder: "asc",
+        });
+        renderCarouselProductCards({
+          jsonPath: "data-json/data-covid.json",
+          containerId: "list-product3",
+          countproduct: "count-text-id",
+          filterBrand: null,
+          priceMin: null,
+          priceMax: null,
+          sortOrder: "asc",
+        });
+        renderCarouselProductCards({
+          jsonPath: "data-json/data-csgd-noibat.json",
+          containerId: "list-product4",
+          countproduct: "count-text-id",
+          filterBrand: null,
+          priceMin: null,
+          priceMax: null,
+          sortOrder: "asc",
+        });
+        renderCarouselProductCards({
+          jsonPath: "data-json/data-csgs-giatotquangon.json",
+          containerId: "list-product5",
+          countproduct: "count-text-id",
+          filterBrand: null,
+          priceMin: null,
+          priceMax: null,
+          sortOrder: "asc",
+        });
+        AddCartPage();
+        AddCartThanhToan();
+        KhuyenMai50K();
+      });
+    </script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

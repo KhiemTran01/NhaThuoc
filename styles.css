@@ -1,0 +1,470 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 13px;
+}
+
+header {
+  background-color: #4cb551;
+}
+
+body {
+  background-color: #f5f7fb;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: white !important;
+  font-weight: bold;
+  transform: translateX(0px);
+  transition: all 0.5s ease;
+}
+
+.nav-item span {
+  transform: rotateZ(0deg);
+  transition: all 0.4s ease;
+}
+
+.nav-item:hover span {
+  transform: rotateZ(-180deg);
+}
+
+.nav-item .dropdown-menu {
+  display: none;
+  transition: all 0.6s ease;
+}
+
+.nav-item .dropdown-menu .dropdown-item {
+  color: rgb(66, 66, 66) !important;
+}
+
+.nav-item .dropdown-menu .dropdown-item:hover {
+  background-color: #e8f2ea;
+}
+
+.nav-item:hover .dropdown-menu {
+  display: block;
+}
+
+.footer-info {
+  list-style: none;
+  color: #515151;
+}
+
+.banner-mini img {
+  border-radius: 10px;
+}
+
+.banner-mini img {
+  transition: all 0.5s ease;
+  transform: translateY(0px);
+}
+
+.banner-mini:hover img {
+  transform: translateY(-8px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.btn-filter {
+  border: solid 1px #d1d1d1;
+  color: #4cb551;
+  border-radius: 5px !important;
+  transform: translateY(0px);
+  transition: all 0.6s ease;
+  width: 80px;
+  font-size: 10px;
+}
+
+.btn-filter:hover {
+  background-color: #ffffff;
+  color: #4cb551;
+  transform: translateY(-5px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 15px !important;
+}
+
+.btn-filter.active {
+  background-color: #ffffff !important;
+  color: #4cb551 !important;
+  transform: translateY(-5px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+  border: solid 1px #4cb551 !important;
+}
+
+.btn-filter img {
+  width: 80px;
+  height: auto;
+}
+
+.card {
+  cursor: pointer;
+}
+.btn-buy {
+  background: linear-gradient(165deg, #2eff38, #ffe53e, #ff1c18);
+  background-size: 400% 400%;
+  color: white;
+  z-index: 1;
+  font-weight: bold;
+  position: relative;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-buy::after {
+  position: absolute;
+  content: "";
+  display: none;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(165deg, #2eff38, #ffe53e, #ff1c18);
+  background-size: 400% 400%;
+  animation: bgMove 6s ease infinite;
+  filter: blur(1px);
+  color: white;
+  font-weight: bold;
+  z-index: -1;
+}
+
+.btn-buy:hover {
+  background: rgba(0, 0, 0, 0);
+  color: white;
+  font-size: 13.5px;
+}
+
+.btn-buy:hover::after {
+  display: block;
+}
+
+.card {
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  transform: translateY(0px);
+}
+.card:hover {
+  border: solid 1px #3ffd39;
+  border-radius: 15px;
+  transform: translateY(-5px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.packaging {
+  background-color: #e8f1fb !important;
+  border-radius: 10px;
+  width: 45%;
+  height: 7%;
+  align-items: center;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #1f6ac0;
+  font-weight: normal;
+  top: 140px;
+  left: 12px;
+  transform: scale(0.8);
+}
+
+.packaging2 {
+  background-color: #e8f1fb !important;
+  align-items: center;
+  text-align: center;
+  font-size: 1rem;
+  color: #1f6ac0;
+  font-weight: normal;
+  border-radius: 10px 0px 10px 0px;
+  top: 0;
+  left: 1;
+  z-index: 1;
+  line-height: 1.5;
+}
+
+.promotion {
+  background: linear-gradient(165deg, #9fc7ff, #163ece, #01ffff);
+  border-radius: 10px;
+  width: 55%;
+  height: 7%;
+  align-items: center;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #ffffff;
+  font-weight: normal;
+  top: 120px;
+  left: 12px;
+  transform: scale(0.8);
+}
+
+.giam-gia {
+  background-color: #cf0000 !important;
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: -3px;
+  width: 23%;
+  height: 8%;
+  line-height: 1.5;
+  align-items: center;
+  text-align: center;
+  border-radius: 0px 0px 10px 0px;
+  font-size: 11px;
+}
+
+#cart-items {
+  max-height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.call-Icon {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  padding: 25px;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  z-index: 10;
+  opacity: 80%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 150%;
+
+  animation: pulseCall 1.5s infinite;
+}
+
+@keyframes pulseCall {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(255, 0, 0, 0.7);
+    opacity: 65%;
+    transform: rotate(0deg);
+  }
+  1% {
+    transform: rotate(-10deg);
+  }
+  1.5% {
+    transform: rotate(-15deg);
+  }
+  2% {
+    transform: rotate(-20deg);
+  }
+  2.5% {
+    transform: rotate(-25deg);
+  }
+  3% {
+    transform: rotate(-20deg);
+  }
+  3.5% {
+    transform: rotate(-15deg);
+  }
+  4% {
+    transform: rotate(-10deg);
+  }
+  4.5% {
+    transform: rotate(0deg);
+  }
+  5% {
+    transform: rotate(10deg);
+  }
+  5.5% {
+    transform: rotate(15deg);
+  }
+  6% {
+    transform: rotate(20deg);
+  }
+  6.5% {
+    transform: rotate(25deg);
+  }
+  7% {
+    transform: rotate(20deg);
+  }
+  7.5% {
+    transform: rotate(15deg);
+  }
+  8% {
+    transform: rotate(10deg);
+  }
+  8.5% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: scale(1.05);
+    box-shadow: 0 0 0 15px rgba(255, 0, 0, 0);
+    opacity: 85%;
+    transform: rotate(0deg);
+  }
+}
+
+.zalo-Icon {
+  position: fixed;
+  bottom: 105px;
+  right: 25px;
+  width: 50px;
+  height: 50px;
+  background-color: rgb(39, 124, 234);
+  padding: 25px;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  z-index: 10;
+  opacity: 80%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 150%;
+
+  animation: pulseZalo 1.5s infinite;
+}
+
+@keyframes pulseZalo {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(39, 124, 234, 0.7);
+    opacity: 65%;
+    transform: rotate(0deg);
+  }
+  1% {
+    transform: rotate(-10deg);
+  }
+  1.5% {
+    transform: rotate(-15deg);
+  }
+  2% {
+    transform: rotate(-20deg);
+  }
+  2.5% {
+    transform: rotate(-25deg);
+  }
+  3% {
+    transform: rotate(-20deg);
+  }
+  3.5% {
+    transform: rotate(-15deg);
+  }
+  4% {
+    transform: rotate(-10deg);
+  }
+  4.5% {
+    transform: rotate(0deg);
+  }
+  5% {
+    transform: rotate(10deg);
+  }
+  5.5% {
+    transform: rotate(15deg);
+  }
+  6% {
+    transform: rotate(20deg);
+  }
+  6.5% {
+    transform: rotate(25deg);
+  }
+  7% {
+    transform: rotate(20deg);
+  }
+  7.5% {
+    transform: rotate(15deg);
+  }
+  8% {
+    transform: rotate(10deg);
+  }
+  8.5% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: scale(1.05);
+    box-shadow: 0 0 0 15px rgba(39, 124, 234, 0);
+    opacity: 85%;
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes bgMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .carousel-inner img,
+  .banner-gioithieu {
+    height: auto !important;
+  }
+  .packaging2 {
+    font-size: 1rem;
+  }
+}
+
+.scroll-container {
+  scroll-behavior: smooth;
+  white-space: nowrap;
+  padding: 10px 0;
+}
+
+.product-card {
+  width: 180px;
+  flex-shrink: 0;
+}
+
+.scroll-btn {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-50%);
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  border: none;
+  font-size: 30px;
+  width: 40px;
+  height: 60px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.scroll-btn.left {
+  left: -10px;
+}
+
+.scroll-btn.right {
+  right: -10px;
+}
+
+.nav-link-custom.active {
+  background-color: #4cb551 !important;
+  border: none;
+  color: white !important;
+  font-weight: bold;
+}
+
+.nav-link-custom {
+  color: rgb(53, 53, 53) !important;
+  font-weight: bold;
+  background-color: white !important;
+}
+
+.nav-link-gtqn.active {
+  background-color: #ffd595 !important;
+  color: #515151 !important;
+  font-weight: bold;
+}
+
+.nav-link-gtqn {
+  background-color: white !important;
+  color: #515151 !important;
+  font-weight: bold;
+}
