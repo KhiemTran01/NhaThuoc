@@ -1,26 +1,242 @@
 [
   {
-    "id": "SP003",
-    "name": "Dunx xịt mũi Xisat Trẻ Em giảm nghẹt mũi",
+    "id": "CSTE001",
+    "name": "Tắm gội toàn thân Pigeon Hoa Hướng Dương cấp ẩm cho da bé chai 200ml",
     "description": [
-      "Đối với trẻ em, hệ miễn dịch cũng như sức đề kháng chưa hoàn thiện nên rất dễ bị vi khuẩn gây bệnh bên ngoài môi trường tấn công. Bên cạnh đó, thời tiết thay đổi, cơ thể non yếu của bé dễ mắc các triệu chứng như hắt xì, sổ mũi, khó chịu, đau đầu,... Với triệu chứng hắt hơi, sổ mũi khó chịu sử dụng các sản phẩm hỗ trợ lành tính là giải pháp tối ưu giúp cho tình trạng bệnh được cải thiện đáng kể cho bé. Xịt mũi Xisat Trẻ Em màu hồng giúp đường thở thông thoáng và phục hồi độ ẩm cho niêm mạc mũi hiệu quả. Và cũng là một trong số xịt mũi cho bé được nhiều bậc phụ huynh ưa chuộng hiện nay. Xịt mũi Xisat Trẻ Em có thành phần từ nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... với quy trình sản xuất nghiêm ngặt đảm bảo tính vô khuẩn có tác dụng sát khuẩn, kháng viêm và tăng sức đề kháng cho niêm mạc mũi.",
-      "Nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... có tính kháng khuẩn, kháng viêm, săn se niêm mạc. Xisat dạng phun sương dễ đi sâu vào khoang mũi giúp làm sạch dịch nhầy và các tác nhân gây bệnh.",
-      "Dùng để xịt, rửa mũi hàng ngày cho trẻ em. Loại bỏ gỉ mũi, chất nhầy nhờ cơ chế xịt phun sương, tạo các hạt mịn dễ đi sâu vào khoang mũi. Giúp thông thoáng dễ thở và tạo cảm giác mát dịu. Kháng khuẩn, kháng viêm nên ngăn ngừa viêm mũi, viêm xoang, sổ mũi, nghẹt mũi.",
-      "Đặt bé ngồi đầu nghiêng về một bên hoặc nằm đầu cao hơn thân. Nhẹ nhàng xịt vào cửa mũi, ấn vòi xịt dứt khoát 3 nhát (lần). Để dịch thừa chảy ra bên ngoài, sau đó để bé hỉ (xì) mũi. Nhẹ nhàng thấm sạch bằng khăn mềm. Lặp lại cho mũi bên kia. Lau sạch vòi xịt bằng khăn mềm. Cất nơi thoáng mát. Dùng đều đặn 3-4 lần/ngày trước khi đi ngủ, sau khi bơi lội, tiếp xúc với nhiều bụi bặm (đi học về, đi ngoài đường về,...).",
-      "Không tái sử dụng chai xịt, vòi xịt dưới mọi hình thức.",
-      "Bảo quản Nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp. Quy cách đóng gói Chai 75ml. Hạn sử dụng Xem trên bao bì sản phẩm. Nhà sản xuất Merap Group."
+      "Hình thành màng dưỡng ẩm cho da sau bước làm sạch với nước, thấy được sự mượt mà trơn tru của làn da ngay sau khi sử dụng với nước. Các sản phẩm chuyên dụng cho làn da của trẻ luôn cần có lớp màng cấp ẩm này để nuôi dưỡng và bảo vệ làn da của bé.",
+      "Purified Water, Cocamidopropyl Betaine, Sodium Myreth Sulfate, Sodium Cocoamphoacetate, Glycerin, Fragrance, PEG-250 Distearate, Phenoxyethanol, Polyquaternium-10, Citric Acid, Sodium Benzoate, Hydroxyacetophenone, Ethylhexylglycerin, Tetrasodium EDTA, Sodium PCA, Polysorbate 80, Propylene Glycol, Helianthus Annuus (Sunflower) Seed Oil, Lactic Acid, Bisabolol.",
+      "Với công thức cải tiến thành phần chất bảo quản (không chứa Paraben), thành phần Hydroxyacetophenone cùng Ethylhexylglycerin với nồng độ phù hợp, dịu nhẹ, giúp nhẹ nhàng làm sạch làn da cho bé, hỗ trợ cân bằng độ pH, cải thiện hiệu quả kháng khuẩn, giảm sự mất nước, bảo vệ da, mang lại làn da sạch sẽ, mịn màng cùng hương thơm tươi mát.",
+      "Cho một lượng sữa tắm gội Pigeon vào bông tắm hoặc lòng bàn tay, nhẹ nhàng thoa đều lên da và tóc bé.",
+      "Chỉ sử dụng ngoài da. Ngưng sử dụng nếu da bị kích ứng. Giữ xa tầm tay trẻ em.",
+      "Để nơi khô thoáng, đậy nắp sau khi dùng."
     ],
     "images": [
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg"
+      "images/tam-goi-toan-than-2-trong-1-khong-paraben-pigeon-mac-dinh-2.jpg",
+      "images/tam-goi-toan-than-2-trong-1-khong-paraben-pigeon-mac-dinh-4.jpg",
+      "images/tam-goi-toan-than-2-trong-1-khong-paraben-pigeon-mac-dinh-6.jpg"
     ],
-    "discount": "-20%",
-    "packaging": "1 x 75 ml",
+    "discount": "-40%",
+    "packaging": "Chai 200ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "87.000₫",
+    "brand": "Pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE002",
+    "name": "Phấn rôm cho bé Pigeon Prickly Heat bảo vệ làn da bé khỏi ngứa và mẩn đỏ chai 100g",
+    "description": [
+      "Pigeon là sản phẩm của Công ty Pigeon Honyuki Honpo, được thành lập năm 1957 tại Nhật Bản, là thương hiệu chăm sóc cho bé nổi tiếng với nhiều sản phẩm chất lượng như bình sữa, núm vú, đồ dùng cho bé, nước giặt, sữa tắm, dầu gội, phấn thơm,...",
+      "Talc, Calamine, Zinc Oxide, Fragrance, Simmondsia Chinensis (Jojoba) Seed Oil, Bisabolol.",
+      "Phấn rôm sảy Pigeon bảo vệ làn da nhạy cảm của bé giúp ngăn và giảm triệu chứng ngứa, mẩn đỏ do rôm sảy. Phấn còn có tác dụng thấm hút mồ hôi giúp da bé luôn mềm mại và khô thoáng.",
+      "Cho phấn vào lòng bàn tay, thoa đều lên cổ, nách, ngực, lưng hoặc bất kỳ vùng da nào của bé có các triệu chứng mẩn đỏ do rôm sảy.",
+      "Tránh bị rơi vào mắt. Chỉ dùng ngoài da. Ngưng sử dụng nếu da bị kích ứng. Tránh để trẻ hít phấn vào đề phòng ngạt thở. Giữ xa tầm với của trẻ em.",
+      "Để nơi khô thoáng, đậy nắp sau khi dùng."
+    ],
+    "images": [
+      "images/phan-rom-cho-be-pigeon-prickly-heat-100g-1-3.png",
+      "images/phan-rom-cho-be-pigeon-prickly-heat-100g-2-3.png",
+      "images/phan-rom-cho-be-pigeon-prickly-heat-100g-4-3.png"
+    ],
+    "discount": "-15%",
+    "packaging": "Chai 100g",
     "unit": "Chai",
     "promotion": "Mua 2 tặng 1",
-    "originalPrice": "80.000₫",
+    "originalPrice": "49.000₫",
     "brand": "pigeon",
-    "quantity": 0
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE003",
+    "name": "Khẩu trang trẻ em Unicharm 3D Mask Kids màu trắng gói 5 cái",
+    "description": [
+      "Túi 5 cái khẩu trang các loại Unicharm 3D Mask Kids quai đeo co giãn và mềm mại không gây cảm giác đau hay khó chịu tai của bé.",
+      "- Phần thân, lớp lọc: Polyolefin. - Quai đeo: Polyester, Polyolefin.",
+      "Dành cho trẻ em từ 3 - 9 tuổi: theo khuyến nghị của nhà sản xuất (không bắt buộc). Nên đeo thử cho trẻ để xác định kích thước phù hợp.",
+      "Sản phẩm khẩu trang trẻ em Unicharm 3D Mask chỉ sử dụng một lần, không tái sử dụng được sau khi giặt.",
+      "Trong trường hợp bị kích ứng với da, ngưng sử dụng và tới các cơ sở y tế để kiểm tra.",
+      "Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp."
+    ],
+    "images": [
+      "images/tui-5-cai-khau-trang-cac-loai-unicharm-3d-mask-kids-1.jpg",
+      "images/tui-5-cai-khau-trang-cac-loai-unicharm-3d-mask-kids-2.jpg",
+      "images/tui-5-cai-khau-trang-cac-loai-unicharm-3d-mask-kids-3.jpg"
+    ],
+    "discount": "",
+    "packaging": "Gói 5 cái",
+    "unit": "gói",
+    "promotion": "",
+    "originalPrice": "29.000₫",
+    "brand": "Unicharm",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE004",
+    "name": "Sữa tắm gội Thảo Dược Ích Nhi giảm hăm da, rôm sảy cho bé chai 200ml",
+    "description": [
+      "Pigeon là sản phẩm của Công ty Pigeon Honyuki Honpo, được thành lập năm 1957 tại Nhật Bản, là thương hiệu chăm sóc cho bé nổi tiếng với nhiều sản phẩm chất lượng như bình sữa, núm vú, đồ dùng cho bé, nước giặt, sữa tắm, dầu gội, phấn thơm,...",
+      "Purified water, Sodium Laureth sulfate, Disodium laureth sulfosuccinate, Cocamidopropyl betaine, Betaine, PEG-150 distearate, PEG-120 methyl glucose dioleate, Propylene glycol, Phenoxyethanol, Sodium chloride, PEG-40 hydrogenated castor oil, Chamomilla recutita flower extract (Chiết xuất Cúc La Mã), Momordica charantia fruit extract (Chiết xuất Mướp đắng), Lactose (and) whey protein (Lactoserum), PPG-3 caprylyl ether, Disodium EDTA, Guar Hydroxypropyltrimonium Chloride, Camellia sinensis leaf extract (Chiết xuất Trà xanh), Centella asiatica extract (Chiết xuất Rau má), Cymbopogon citratus oil (Tinh dầu Sả chanh), Olive Oil PEG-7 Esters, Coriandrum sativum oil (Tinh dầu Mùi ta), Ocimum gratissimum oil (Tinh dầu Hương nhu), Melaleuca alternifolia oil (Tinh dầu Tràm trà), Lactic acid, CI 19140, CI 42090.",
+      "Lấy một lượng vừa đủ ra tay hoặc bông tắm và xoa nhẹ lên da và tóc. Tạo bọt, tắm sạch và lau khô bằng khăn tắm. Dùng được cho phụ nữ sau sinh, phụ nữ mang thai phòng cảm lạnh.",
+      "Cho phấn vào lòng bàn tay, thoa đều lên cổ, nách, ngực, lưng hoặc bất kỳ vùng da nào của bé có các triệu chứng mẩn đỏ do rôm sảy.",
+      "Không dùng với người mẫn cảm với bất kỳ thành phần nào của sản phẩm.",
+      "Để nơi thoáng mát, tránh ánh nắng trực tiếp."
+    ],
+    "images": [
+      "images/sua-tam-goi-thao-duoc-ich-nhi-hop-200ml-1.jpg",
+      "images/sua-tam-goi-thao-duoc-ich-nhi-hop-200ml-2.jpg",
+      "images/sua-tam-goi-thao-duoc-ich-nhi-hop-200ml-3.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 chai x 200ml",
+    "unit": "hộp",
+    "promotion": "",
+    "originalPrice": "75.000₫",
+    "brand": "Nam Dược",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE005",
+    "name": "Kem bôi dịu da Dizizone Baby làm dịu vết mẫn ngứa, hăm da cho bé tuýp 30g",
+    "description": [
+      "Các sản phẩm chống hăm tã luôn được quan tâm trong việc chăm sóc trẻ em của các mẹ ngày nay. Việc sử dụng kem chống hăm cho bé tã là cách hiệu quả để giữ cho vùng da dưới đồ tã của bé sạch khô, khô ráo và không chà sát với bề mặt tã lót, giúp làm dịu, dưỡng ẩm làn da nhạy cảm của trẻ.",
+      "Kem bôi da, giúp dưỡng ẩm da, làm dịu mát da khi bị viêm da, hăm da, chàm sữa, rôm sảy, mụn nhọt, mẩn ngứa, côn trùng đốt,... giúp da mềm mịn và khỏe mạnh hơn.",
+      "Purified Water, Glyceryl Stearate SE, Coco-Caprylate/Caprate, Zinc Oxide (kẽm oxit), Butyrospermum Parkii (Shea) Butter, Glycerin, Ceteareth-25, Oryza Sativa (Rice) Germ Oil, Dimethicone, Nano Silver (Nano Bạc), Cetearyl Alcohol, D-panthenol, Persea gratissima oil (Dầu bơ), Glycerin (and) Water (and) Calendula Officinalis Flower Extract (Chiết xuất hoa Cúc Tâm Tư) (and) Potassium Sorbate (and) Sodium Benzoate, Glycerin (and) Water (and) Avena Sativa (Oat) Kernel Extract (Chiết xuất Yến Mạch) (and) Potassium Sorbate (and) Sodium Benzoat, Xanthan Gum, Tocopheryl Acetate (Vitamin E), Bisabolol, Phenoxyethanol (and) Ethylhexylglycerin, Thymol (p-Cymen-3-ol), Fragrance, BHT (Butylated Hydroxytoluene).",
+      "Hiệu quả hơn khi sử dụng cùng dung dịch kháng khuẩn Dizigone: Lau rửa để loại bỏ mầm bệnh ở vùng da bị tổn thương bằng dung dịch kháng khuẩn Dizigone trong tối thiểu 30 giây. Thoa lượng vừa đủ kem Dizigone Baby. Sử dụng ngày 3 - 4 lần hoặc nhiều hơn.",
+      "24 tháng kể từ ngày sản xuất.",
+      "Nơi khô mát, tránh ánh nắng trực tiếp."
+    ],
+    "images": [
+      "images/kem-boi-diu-da-cho-be-dizigone-baby-30g-mac-dinh-2.jpg",
+      "images/kem-boi-diu-da-cho-be-dizigone-baby-30g-mac-dinh-4.jpg",
+      "images/kem-boi-diu-da-cho-be-dizigone-baby-30g-mac-dinh-5.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 tuýp x 30g",
+    "unit": "hộp",
+    "promotion": "Mua 5 tặng 2",
+    "originalPrice": "185.000₫",
+    "brand": "Dizigone",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE006",
+    "name": "Khẩu trang y tế Winer Kids Premium 3 lớp có họa tiết hộp 50 cái",
+    "description": [
+      "Chống nắng, giảm thiểu tia UV giúp bảo vệ da. Ôm vừa vặn khuôn mặt, cảm giác thoải mái, dễ chịu không bí thở.",
+      "Vải không dệt, vải lọc chất lượng cao, quai đeo và thanh nẹp mũi.",
+      "Giúp ngăn khói bụi, ô nhiễm. Chống nắng, giảm thiểu tia UV giúp bảo vệ da. Ôm vừa vặn khuôn mặt, cảm giác thoải mái, dễ chịu không bí thở.",
+      "Mở rộng khẩu trang từ vị trí mũi tên, chú ý hướng đeo khẩu trang. Lần lượt đeo hai quai vào vành tai. Điều chỉnh cho vừa vặn.",
+      "Sản phẩm chỉ sử dụng một lần, không tái sử dụng nhiều lần. Trong trường hợp kích ứng da, ngưng sử dụng và tới cơ sở y tế để kiểm tra.",
+      "Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp."
+    ],
+    "images": [
+      "images/khau-trang-y-te-tre-em-winer-premium-3-lop-hop-50-cai-1.jpg",
+      "images/khau-trang-y-te-tre-em-winer-premium-3-lop-hop-50-cai-2.jpg",
+      "images/khau-trang-y-te-tre-em-winer-premium-3-lop-hop-50-cai-3.jpg"
+    ],
+    "discount": "-15%",
+    "packaging": "Hộp 50 cái",
+    "unit": "hộp",
+    "promotion": "",
+    "originalPrice": "50.000₫",
+    "brand": "TH Care",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE007",
+    "name": "Khẩu trang y tế trẻ em Bísou Baby mask họa tiết gấu gói 6 cái",
+    "description": [
+      "Mặt trong mịn màng, dây đeo êm tai, nút tròn điều chỉnh dây đeo tiện lợi - giúp vừa vặn với khuôn mặt thích hợp làm khẩu trang cho bé.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Lật mặt trong khẩu trang. Đeo dây vào tai. Điều chỉnh nút tròn vừa vặn với khuôn mặt bé.",
+      "",
+      "Chỉ dùng 1 lần, không sử dụng lại.",
+      "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp."
+    ],
+    "images": [
+      "images/khau-trang-y-te-tre-em-bisou-baby-mask-hoa-tiet-gau-1.jpg",
+      "images/khau-trang-y-te-tre-em-bisou-baby-mask-hoa-tiet-gau-2.jpg",
+      "images/khau-trang-y-te-tre-em-bisou-baby-mask-hoa-tiet-gau-3.jpg"
+    ],
+    "discount": "",
+    "packaging": "Gói 6 cái",
+    "unit": "hộp",
+    "promotion": "",
+    "originalPrice": "34.000₫",
+    "brand": "Bisou",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE008",
+    "name": "Khẩu trang y tế trẻ em Bísou Baby mask họa tiết gấu gói 6 cái",
+    "description": [
+      "Các sản phẩm chăm sóc trẻ em rất quan trọng để giúp con bạn phát triển và giữ gìn sức khỏe từ những ngày đầu đời của chúng. Hiện nay, các sản phẩm chăm sóc trẻ em mà các mẹ đang chú ý, đầu tư để bảo vệ và chăm sóc cho con yêu của mình: sữa tắm và dầu gội; khăn ướt và bông tắm; kem, bàn chải đánh răng cho bé; sữa dưỡng thể và kem dưỡng da; nước giặt quần áo,...",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/bcdr-lipzo-kids-1-2-h-1.jpg",
+      "images/bcdr-lipzo-kids-1-2-h-5.jpg",
+      "images/bcdr-lipzo-kids-1-2-h-4.jpg"
+    ],
+    "discount": "-40%",
+    "packaging": "Vỉ 1 cây",
+    "unit": "Cái",
+    "promotion": "",
+    "originalPrice": "23.000₫",
+    "brand": "Lipzo",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE009",
+    "name": "Kem Sudocrem giúp bảo vệ da, chống hăm tã cho bé hũ 60g",
+    "description": [
+      "Chống hăm tã là một vấn đề luôn được các mẹ quan tâm nhiều trong việc chăm sóc trẻ em ngày nay. Việc sử dụng các sản phẩm kem chống hăm cho bé, phấn chống hăm,... là cách để giữ cho các vùng da của bé luôn khô ráo, sạch sẽ và giúp da trẻ không chà sát với bề mặt tã lót. ",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/kem-sudocrem-baby-care-cream-giup-bao-ve-da-khoi-ham-ta-hu-60g-1-638611293041348316.jpg",
+      "images/kem-sudocrem-baby-care-cream-giup-bao-ve-da-khoi-ham-ta-hu-60g-2-638611293049800397.jpg",
+      "images/kem-sudocrem-baby-care-cream-giup-bao-ve-da-khoi-ham-ta-hu-60g-3-638611293055976106.jpg"
+    ],
+    "discount": "",
+    "packaging": "Hũ 60g",
+    "unit": "hủ",
+    "promotion": "",
+    "originalPrice": "103.000₫",
+    "brand": "Sudocrem",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE010",
+    "name": "Khẩu trang y tế trẻ em An Phúc K94-4D 3 lớp có họa tiết hộp 20 cái",
+    "description": [
+      "Khẩu trang y tế trẻ em An Phúc K94 4D 3 lớp có họa tiết đạt hiệu quả cao: ngăn ngừa vi khuẩn, bụi bẩn và các bệnh lây qua đường hô hấp nhờ lớp vải bọc cao cấp.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/kem-sudocrem-baby-care-cream-giup-bao-ve-da-khoi-ham-ta-hu-60g-1-638611293041348316.jpg",
+      "images/kem-sudocrem-baby-care-cream-giup-bao-ve-da-khoi-ham-ta-hu-60g-2-638611293049800397.jpg",
+      "images/kem-sudocrem-baby-care-cream-giup-bao-ve-da-khoi-ham-ta-hu-60g-3-638611293055976106.jpg"
+    ],
+    "discount": "",
+    "packaging": "Hộp 20 cái",
+    "unit": "hủ",
+    "promotion": "",
+    "originalPrice": "25.000₫",
+    "brand": "An Phúc",
+    "quantity": 2000
   }
 ]

@@ -1,26 +1,230 @@
 [
   {
-    "id": "SP003",
-    "name": "Dunx xịt mũi Xisat Trẻ Em giảm nghẹt mũi",
+    "id": "DMP001",
+    "name": "Kem Dizigone Nano Bạc kháng khuẩn, ngừa sẹo tuýp 25g",
     "description": [
-      "Đối với trẻ em, hệ miễn dịch cũng như sức đề kháng chưa hoàn thiện nên rất dễ bị vi khuẩn gây bệnh bên ngoài môi trường tấn công. Bên cạnh đó, thời tiết thay đổi, cơ thể non yếu của bé dễ mắc các triệu chứng như hắt xì, sổ mũi, khó chịu, đau đầu,... Với triệu chứng hắt hơi, sổ mũi khó chịu sử dụng các sản phẩm hỗ trợ lành tính là giải pháp tối ưu giúp cho tình trạng bệnh được cải thiện đáng kể cho bé. Xịt mũi Xisat Trẻ Em màu hồng giúp đường thở thông thoáng và phục hồi độ ẩm cho niêm mạc mũi hiệu quả. Và cũng là một trong số xịt mũi cho bé được nhiều bậc phụ huynh ưa chuộng hiện nay. Xịt mũi Xisat Trẻ Em có thành phần từ nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... với quy trình sản xuất nghiêm ngặt đảm bảo tính vô khuẩn có tác dụng sát khuẩn, kháng viêm và tăng sức đề kháng cho niêm mạc mũi.",
-      "Nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... có tính kháng khuẩn, kháng viêm, săn se niêm mạc. Xisat dạng phun sương dễ đi sâu vào khoang mũi giúp làm sạch dịch nhầy và các tác nhân gây bệnh.",
-      "Dùng để xịt, rửa mũi hàng ngày cho trẻ em. Loại bỏ gỉ mũi, chất nhầy nhờ cơ chế xịt phun sương, tạo các hạt mịn dễ đi sâu vào khoang mũi. Giúp thông thoáng dễ thở và tạo cảm giác mát dịu. Kháng khuẩn, kháng viêm nên ngăn ngừa viêm mũi, viêm xoang, sổ mũi, nghẹt mũi.",
-      "Đặt bé ngồi đầu nghiêng về một bên hoặc nằm đầu cao hơn thân. Nhẹ nhàng xịt vào cửa mũi, ấn vòi xịt dứt khoát 3 nhát (lần). Để dịch thừa chảy ra bên ngoài, sau đó để bé hỉ (xì) mũi. Nhẹ nhàng thấm sạch bằng khăn mềm. Lặp lại cho mũi bên kia. Lau sạch vòi xịt bằng khăn mềm. Cất nơi thoáng mát. Dùng đều đặn 3-4 lần/ngày trước khi đi ngủ, sau khi bơi lội, tiếp xúc với nhiều bụi bặm (đi học về, đi ngoài đường về,...).",
-      "Không tái sử dụng chai xịt, vòi xịt dưới mọi hình thức.",
-      "Bảo quản Nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp. Quy cách đóng gói Chai 75ml. Hạn sử dụng Xem trên bao bì sản phẩm. Nhà sản xuất Merap Group."
+      "Kháng khuẩn, hỗ trợ lành vết thương, ngăn ngừa sẹo hiệu quả.Phù hợp cho làn da nhạy cảm như trẻ em, người có đề kháng yếu..",
+      "Sản phẩm hỗ trợ làm sạch mũi, tăng đề kháng cho trẻ nhỏ",
+      "Trẻ em có hệ miễn dịch chưa hoàn thiện.Dễ mắc các triệu chứng như: hắt hơi, sổ mũi, nghẹt mũi do thời tiết hoặc môi trường.",
+      "Nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m, giàu muối và khoáng chất: Cu²⁺, Zn²⁺,...Dạng phun sương, dễ thẩm thấu sâu vào khoang mũi",
+      "Dung tích: 75ml,Bảo ,quản: Nơi khô ráo, tránh ánh nắng trực tiếp.Hạn sử dụng: Xem trên bao bì sản phẩm."
     ],
     "images": [
       "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg"
+      "https://cdn.thegioididong.com/Products/Images/12018/230859/dizigone-nano-bac-tuyp-25g-mac-dinh-4.jpg",
+      "https://cdn.thegioididong.com/Products/Images/12018/230859/dizigone-nano-bac-tuyp-25g-mac-dinh-5.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 tuýp x 25g",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "140.000₫",
+    "brand": "dizigone",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP002",
+    "name": "Kem bôi Dizigone Fuginex làm sạch, kháng khuẩn, làm dịu da tuýp 25g",
+    "description": [
+      "Kem bôi da giúp làm sạch, kháng khuẩn, làm dịu da khi bị: viêm da, mẩn ngứa, da khô rát, bong tróc da, vảy da Dưỡng ẩm da, kích thích quá trình tái tạo tế bào da mới, cho làn da mềm mại và mịn màng hơn.",
+      "Làm sạch, thấm khô và thoa một lượng vừa đủ kem Dizigone Fuginex vào vùng da bị tổn thương.Sử dụng ngày 3 - 4 lần hoặc nhiều hơn.",
+      "Người bị hắc lào/lác đồng tiền, viêm da, nổi mụn mẩn trên da.Người có làn da khô rát, bong tróc, có vảy da.Người có da hay bị ngứa ngáy, kích ứng da do nấm.",
+      "Để xa tầm tay trẻ em, đọc kỹ hướng dẫn sử dụng trước khi dùng.",
+      "Nơi khô mát, tránh ánh nắng trực tiếp.Hạn dùng:24 tháng kể từ ngày sản xuất."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/12018/318959/kem-boi-diu-da-dizigone-fuginex-khang-khuan-kich-thich-tai-tao-da-1-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/12018/318959/kem-boi-diu-da-dizigone-fuginex-khang-khuan-kich-thich-tai-tao-da-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/12018/318959/kem-boi-diu-da-dizigone-fuginex-khang-khuan-kich-thich-tai-tao-da-3.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 tuýp x 25g",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "145.000₫",
+    "brand": "dizigone",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP003",
+    "name": "Kem chống nắng Obagi Sun Shield Tint SPF 50 che khuyết điểm làm đều màu da tuýp 85g",
+    "description": [
+      "Giúp chống nắng cho da, che khuyết điểm dành cho da mặt.Bảo vệ làn da khỏi tia cực tím UVA/UVB và tia hồng ngoại.",
+      "Trẻ em trên 6 tháng tuổi.Loại da khuyên dùng: Da khô, da dầu, da hỗn hợp.vấn đề da khuyên dùng: Da lão hoá, da có nếp nhăn, chống lão hoá.",
+      "Thoa sản phẩm đều khắp mặt. Sử dụng trước 15 phút khi tiếp xúc với ánh nắng mặt trời. Nên thoa lại 2 tiếng/lần.",
+      "Nên sử dụng kem chống nắng phổ rộng có chỉ số từ SPF 30 trở lên để bảo vệ da khỏi tác hại từ tia tử ngoại cùng với việc kết hợp trang bị mũ nón chống nắng, kính râm và tránh ra ngoài vào thời điểm mật độ UV cao (từ 10 giờ sáng đến 2 giờ chiều).",
+      "Tránh ánh nắng trực tiếp. Bảo quản ở nhiệt độ phòng từ 15°C - 25°C. "
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6658/317802/kem-chong-nang-obagi-sun-shield-tint-spf-50-che-khuyet-diem-lam-deu-mau-da-1-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6658/317802/kem-chong-nang-obagi-sun-shield-tint-spf-50-che-khuyet-diem-lam-deu-mau-da-2-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6658/317802/kem-chong-nang-obagi-sun-shield-tint-spf-50-che-khuyet-diem-lam-deu-mau-da-3-1.jpg"
     ],
     "discount": "-20%",
-    "packaging": "1 x 75 ml",
+    "packaging": "1 tuýp x 85g",
     "unit": "Chai",
-    "promotion": "Mua 2 tặng 1",
-    "originalPrice": "80.000₫",
-    "brand": "pigeon",
-    "quantity": 0
+    "promotion": "",
+    "originalPrice": "1.200.000₫",
+    "brand": "Obagi",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP004",
+    "name": "Serum Obagi Professional-C 10% dưỡng sáng da và chống oxy hóa chai 12.5ml",
+    "description": [
+      "Củng cố sức đề kháng của da trước tác động từ môi trường bên ngoài, cấp ẩm do da, giúp da có vẻ ngoài tươi trẻ hơn. Giúp làn da phục hồi sau tổn thương, giảm thiểu vẻ ngoài của nếp nhăn, dưỡng sáng, làm đều màu da.",
+      "Thoa 5 - 7 giọt sản phẩm lên mặt, cổ và ngực.Thoa lên da đã được làm sạch vào buổi sáng trước khi thoa kem chống nắng hoặc trang điểm.",
+      "Da khô, da hỗn hợp, da nhạy cảm.Vấn đề da khuyên dùng: Da thiếu ẩm, da không đều màu, da rối loạn sắc tố, da có nếp nhăn..",
+      "Chỉ sử dụng ngoài da.Tránh tiếp xúc trực tiếp với màng nhầy.Một số người dùng sản phẩm này có thể bị ngứa nhẹ, cảm giác này sẽ giảm dần khi tiếp tục sử dụng.Nếu ngứa trở nên nghiêm trọng, ngừng sử dụng và tham khảo ý kiến bác sĩ.",
+      "Tránh ánh nắng trực tiếp. Đóng chặt nắp khi không sử dụng. Bảo quản ở nơi tối, mát mẻ. Bảo quản ở nhiệt độ phòng từ 15°C - 25°C. - Hạn dùng3 năm kể từ ngày sản xuất. "
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6562/317725/serum-obagi-professional-c-10-duong-sang-da-va-chong-oxy-hoa-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317725/serum-obagi-professional-c-10-duong-sang-da-va-chong-oxy-hoa-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317725/serum-obagi-professional-c-10-duong-sang-da-va-chong-oxy-hoa-3.jpg"
+    ],
+    "discount": "-20%",
+    "packaging": "1 chai x 12.5ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "880.000₫",
+    "brand": "Obagi",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP005",
+    "name": "Kem dưỡng Obagi Clinical Kinetin+ giúp phục hồi da, giảm kích ứng chai 50m",
+    "description": [
+      "Giúp dưỡng ẩm da, giảm kích ứng, phục hồi và làm dịu da",
+      "Bước 1: Lấy lượng sản phẩm tương đương 1-2 lần bơm và thoa lên mặt và cổ.Nhẹ nhàng thoa đều trên da cho đến khi sản phẩm thẩm thấu",
+      "Chỉ sử dụng ngoài da.Tránh tiếp xúc với mắt. Nếu tiếp xúc với mắt, rửa kỹ bằng nước sạch. Tránh xa tầm tay trẻ em.",
+      "Chỉ sử dụng ngoài da.Tránh tiếp xúc trực tiếp với màng nhầy.Một số người dùng sản phẩm này có thể bị ngứa nhẹ, cảm giác này sẽ giảm dần khi tiếp tục sử dụng.Nếu ngứa trở nên nghiêm trọng, ngừng sử dụng và tham khảo ý kiến bác sĩ.",
+      "Tránh ánh nắng trực tiếp. Đóng chặt nắp khi không sử dụng. Bảo quản ở nơi tối, mát mẻ. Bảo quản ở nhiệt độ phòng từ 15°C - 25°C. - Hạn dùng3 năm kể từ ngày sản xuất. "
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6562/317804/kem-duong-obagi-clinical-kinetin-hydrating-cream-phuc-hoi-lam-diu-da-50ml-1-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317804/kem-duong-obagi-clinical-kinetin-hydrating-cream-phuc-hoi-lam-diu-da-50ml-2-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317804/kem-duong-obagi-clinical-kinetin-hydrating-cream-phuc-hoi-lam-diu-da-50ml-3-1.jpg"
+    ],
+    "discount": "-20%",
+    "packaging": "1 chai x 50ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "1.650.000₫",
+    "brand": "Obagi",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP006",
+    "name": "Kem dưỡng ẩm Obagi Hydrate Luxe Moisture-Rich Cream cấp ẩm tức thì hũ 48g",
+    "description": [
+      "Kem dưỡng ẩm Obagi Hydrate Luxe Moisture-Rich Cream tăng cường quá trình hydrat hoá cho da. Công thức được thiết kế đặc biệt tích hợp công nghệ Hydromanil mô phỏng sinh học, công nghệ này có nhiệm vụ giữ nước và hấp thụ nước vào da ngay lập tức, giúp dưỡng ẩm lâu dài.",
+      "Sau khi làm sạch da, thoa một lượng vừa đủ lên da và massage nhẹ nhàng cho đến khi kem dưỡng được thấm hoàn toàn. Sử dụng buổi tối như một phần của chu trình dưỡng da ban đêm",
+      "Tránh để sản phẩm dính vào mắt.Chỉ sử dụng ngoài da.Tránh xa tầm tay trẻ em.",
+      "Tránh ánh nắng trực tiếp. Đóng chặt nắp khi không sử dụng. Bảo quản ở nơi tối, mát mẻ. Bảo quản ở nhiệt độ phòng từ 15°C - 25°C. - Hạn dùng3 năm kể từ ngày sản xuất. "
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6562/317801/kem-duong-am-obagi-hydrate-luxe-moisture-rich-cream-cap-am-tuc-thi-cho-lan-da-kho-1-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317801/kem-duong-am-obagi-hydrate-luxe-moisture-rich-cream-cap-am-tuc-thi-cho-lan-da-kho-2-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317801/kem-duong-am-obagi-hydrate-luxe-moisture-rich-cream-cap-am-tuc-thi-cho-lan-da-kho-3-1.jpg"
+    ],
+    "discount": "-20%",
+    "packaging": "1 hũ x 48g",
+    "unit": "hộp",
+    "promotion": "",
+    "originalPrice": "1.700.000₫",
+    "brand": "Obagi",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP007",
+    "name": "Kem dưỡng ẩm Obagi Hydrate Facial Moisturizer giúp da mịn màng, đủ ẩm chai 48gg",
+    "description": [
+      "Hydrate Facial Moisturizer cung cấp khả năng dưỡng ẩm trong 8 giờ với công nghệ tiên tiến và các thành phần có nguồn gốc tự nhiên như bơ hạt mỡ, bơ xoài, bơ và glycerin, giúp chống lại tình trạng khô da, đồng thời không gây ra mụn.",
+      "Sau khi làm sạch da, thoa một lượng vừa đủ lên da và massage nhẹ nhàng cho đến khi kem dưỡng được thấm hoàn toàn. Sử dụng 2 lần/ngày, vào buổi sáng và tối trên làn da đã làm sạch. Có thể dùng lại khi da cần cấp ẩm ngay lập tức.",
+      "Tránh để sản phẩm dính vào mắt.Chỉ sử dụng ngoài da.Tránh xa tầm tay trẻ em.",
+      "Tránh ánh nắng trực tiếp. Đóng chặt nắp khi không sử dụng. Bảo quản ở nơi tối, mát mẻ. Bảo quản ở nhiệt độ phòng từ 15°C - 25°C. - Hạn dùng3 năm kể từ ngày sản xuất. "
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6562/317800/kem-duong-am-obagi-hydrate-facial-moisturizer-duong-am-da-ca-ngay-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317800/kem-duong-am-obagi-hydrate-facial-moisturizer-duong-am-da-ca-ngay-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/317800/kem-duong-am-obagi-hydrate-facial-moisturizer-duong-am-da-ca-ngay-3.jpg"
+    ],
+    "discount": "-20%",
+    "packaging": "1 hũ x 48g",
+    "unit": "hộp",
+    "promotion": "",
+    "originalPrice": "1.200.000₫",
+    "brand": "Obagi",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP007",
+    "name": "Tẩy tế bào chết Cocoon hạt cà phê Đắk Lắk làm sạch da mặt tuýp 150ml",
+    "description": [
+      "Những hạt cà phê Đắk Lắk xay nhuyễn giàu cafeine hòa quyện với bơ ca cao Tiền Giang giúp bạn loại bỏ lớp tế bào chết già cỗi và xỉn màu, đánh thức làn da tươi mới đầy năng lượng giúp cảm giác mượt mà và mềm mịn lan tỏa.",
+      "Thoa một lượng tẩy tế bào chết vừa đủ lên da ướt. Mát-xa nhẹ nhàng. Rửa sạch lại với nước. Dùng 2 - 3 lần một tuần để đạt hiệu quả tốt nhất.",
+      "Tránh để sản phẩm tẩy tế bào chết da mặt Cocoon tiếp xúc với mắt.Bảo quảnĐể tẩy tế bào chết da mặt Cocoon nơi thoáng mát, tránh ánh sáng trực tiếp.",
+      "Quy cách đóng gói:Tuýp 150ml.",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6641/284031/tay-te-bao-chet-cocoon-ca-phe-lam-sach-da-chet-mat-mac-dinh-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6641/284031/tay-te-bao-chet-cocoon-ca-phe-lam-sach-da-chet-mat-mac-dinh-3.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6641/284031/tay-te-bao-chet-cocoon-ca-phe-lam-sach-da-chet-mat-mac-dinh-4.jpg"
+    ],
+    "discount": "",
+    "packaging": "Tuýp 150ml",
+    "unit": "tuýp",
+    "promotion": "",
+    "originalPrice": "165.000₫",
+    "brand": "Cocoon",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP008",
+    "name": "Nước tẩy trang bí đao Cocoon làm sạch, giảm dầu chai 500ml",
+    "description": [
+      "Làm sạch sâu lớp trang điểm, bụi bẩn và bã nhờn trên bề mặt da.Dịu nhẹ, thông thoáng và không làm bí da.Kiểm soát dầu thừa, hỗ trợ trong việc chăm sóc da mụ",
+      "Thấm đều sản phẩm lên bông tẩy trang, nhẹ nhàng lau khắp mặt để làm sạch lớp trang điểm và bụi bẩn. Dịu nhẹ cho vùng môi và mắt. Loại da phù hợpDa dầu, da mụn, da hỗn hợp thiên dầu.",
+      "Tránh tiếp xúc với mắt và để sản phẩm dưới ánh mặt trời.",
+      "Mùi tinh dầu tràm trà thoang thoảng. Bảo quảnĐể nơi khô ráo, thoáng mát.Tránh ánh nắng trực tiếp.",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/3708/298856/nuoc-tay-trang-bi-dao-cocoon-500ml-mac-dinh-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/3708/298856/nuoc-tay-trang-bi-dao-cocoon-500ml-mac-dinh-4.jpg",
+      "https://cdn.thegioididong.com/Products/Images/3708/298856/nuoc-tay-trang-bi-dao-cocoon-500ml-mac-dinh-5.jpg"
+    ],
+    "discount": "",
+    "packaging": "chai 500ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "295.000₫",
+    "brand": "Cocoon",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP009",
+    "name": "Tẩy tế bào chết Cocoon hạt cà phê làm sạch da chết cơ thể hũ 200ml",
+    "description": [
+      "Làm sạch da chết toàn thân.Mang lại làn da mịn màng ngay sau lần đầu sử dụng.Giúp da sáng mịn, đều màu.",
+      "Thoa một lượng sản phẩm tẩy tế bào chết vừa đủ lên da ướt.Mát-xa nhẹ nhàng từ cổ đến chân để tẩy tế bào chết body, sau đó tắm sạch lại bằng nước.Dùng 2 - 3 lần một tuần để đạt hiệu quả tốt nhất.",
+      "Chỉ sử dụng ngoài da. Đậy nắp kín sau khi sử dụng.",
+      "Thơm đậm mùi cà phê Đắk Lắk và bơ ca cao Tiền Giang.",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6641/284025/tay-te-bao-chet-cocoon-hat-ca-phe-lam-sach-da-chet-co-the-1-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6641/284025/tay-te-bao-chet-cocoon-hat-ca-phe-lam-sach-da-chet-co-the-2-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6641/284025/tay-te-bao-chet-cocoon-hat-ca-phe-lam-sach-da-chet-co-the-3-1.jpg"
+    ],
+    "discount": "",
+    "packaging": "hủ 200ml",
+    "unit": "hủ",
+    "promotion": "",
+    "originalPrice": "125.000₫",
+    "brand": "Cocoon",
+    "quantity": 2000
   }
 ]

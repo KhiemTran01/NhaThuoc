@@ -1,26 +1,237 @@
 [
   {
-    "id": "SP003",
-    "name": "Dunx xịt mũi Xisat Trẻ Em giảm nghẹt mũi",
+    "id": "CSTE013",
+    "name": "Nước tắm gội thảo dược Dr.Papie ngăn ngừa rôm sảy, mụn nhọt, nổi mề đay cho bé chai 500ml",
     "description": [
-      "Đối với trẻ em, hệ miễn dịch cũng như sức đề kháng chưa hoàn thiện nên rất dễ bị vi khuẩn gây bệnh bên ngoài môi trường tấn công. Bên cạnh đó, thời tiết thay đổi, cơ thể non yếu của bé dễ mắc các triệu chứng như hắt xì, sổ mũi, khó chịu, đau đầu,... Với triệu chứng hắt hơi, sổ mũi khó chịu sử dụng các sản phẩm hỗ trợ lành tính là giải pháp tối ưu giúp cho tình trạng bệnh được cải thiện đáng kể cho bé. Xịt mũi Xisat Trẻ Em màu hồng giúp đường thở thông thoáng và phục hồi độ ẩm cho niêm mạc mũi hiệu quả. Và cũng là một trong số xịt mũi cho bé được nhiều bậc phụ huynh ưa chuộng hiện nay. Xịt mũi Xisat Trẻ Em có thành phần từ nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... với quy trình sản xuất nghiêm ngặt đảm bảo tính vô khuẩn có tác dụng sát khuẩn, kháng viêm và tăng sức đề kháng cho niêm mạc mũi.",
-      "Nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... có tính kháng khuẩn, kháng viêm, săn se niêm mạc. Xisat dạng phun sương dễ đi sâu vào khoang mũi giúp làm sạch dịch nhầy và các tác nhân gây bệnh.",
-      "Dùng để xịt, rửa mũi hàng ngày cho trẻ em. Loại bỏ gỉ mũi, chất nhầy nhờ cơ chế xịt phun sương, tạo các hạt mịn dễ đi sâu vào khoang mũi. Giúp thông thoáng dễ thở và tạo cảm giác mát dịu. Kháng khuẩn, kháng viêm nên ngăn ngừa viêm mũi, viêm xoang, sổ mũi, nghẹt mũi.",
-      "Đặt bé ngồi đầu nghiêng về một bên hoặc nằm đầu cao hơn thân. Nhẹ nhàng xịt vào cửa mũi, ấn vòi xịt dứt khoát 3 nhát (lần). Để dịch thừa chảy ra bên ngoài, sau đó để bé hỉ (xì) mũi. Nhẹ nhàng thấm sạch bằng khăn mềm. Lặp lại cho mũi bên kia. Lau sạch vòi xịt bằng khăn mềm. Cất nơi thoáng mát. Dùng đều đặn 3-4 lần/ngày trước khi đi ngủ, sau khi bơi lội, tiếp xúc với nhiều bụi bặm (đi học về, đi ngoài đường về,...).",
-      "Không tái sử dụng chai xịt, vòi xịt dưới mọi hình thức.",
-      "Bảo quản Nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp. Quy cách đóng gói Chai 75ml. Hạn sử dụng Xem trên bao bì sản phẩm. Nhà sản xuất Merap Group."
+      "Hiện nay, các sản phẩm chăm sóc trẻ em được các mẹ quan tâm chủ yếu là các sản phẩm tự nhiên, an toàn và không gây kích ứng cho da của trẻ như: Sữa tắm và dầu gội, sữa dưỡng thể và kem dưỡng da, dầu bôi trị hăm, Khăn ướt và bông tắm, kem đánh răng cho bé,...",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
     ],
     "images": [
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg"
+      "images/nuoc-tam-goi-thao-duoc-dr-papie-500ml-1.jpg",
+      "images/nuoc-tam-goi-thao-duoc-dr-papie-500ml-3.jpg",
+      "images/nuoc-tam-goi-thao-duoc-dr-papie-500ml-4.jpg"
     ],
-    "discount": "-23%",
-    "packaging": "1 x 75 ml",
-    "unit": "Chai",
-    "promotion": "Mua 2 tặng 1",
-    "originalPrice": "80.000₫",
-    "brand": "pigeon",
-    "quantity": 0
+    "discount": "",
+    "packaging": "Chai 500ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "225.000₫",
+    "brand": "Starmed",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE014",
+    "name": "Sữa tắm gội toàn thân Aveeno Baby Daily Moisture dịu nhẹ cho da bé chai 236ml",
+    "description": [
+      "Hiện nay, các sản phẩm chăm sóc trẻ em được các mẹ quan tâm chủ yếu là các sản phẩm tự nhiên, an toàn và không gây kích ứng cho da của trẻ như: Sữa tắm và dầu gội, sữa dưỡng thể và kem dưỡng da, dầu bôi trị hăm, Khăn ướt và bông tắm, kem đánh răng cho bé,...",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/sua-tam-goi-toan-than-aveeno-baby-daily-moisture-diu-nhe-cho-da-be-1-2.jpg",
+      "images/sua-tam-goi-toan-than-aveeno-baby-daily-moisture-diu-nhe-cho-da-be-2.jpg",
+      "images/sua-tam-goi-toan-than-aveeno-baby-daily-moisture-diu-nhe-cho-da-be-3.jpg"
+    ],
+    "discount": "-30%",
+    "packaging": "Chai 236ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "270.000₫",
+    "brand": "Aveeno",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE015",
+    "name": "Dầu tắm em bé Cung Đình làm sạch, giữ ấm cơ thể chai 100ml",
+    "description": [
+      "Dầu tắm em bé Cung Đình là một trong những sản phẩm sữa tắm cho bé dạng dầu được thiết kế đặc biệt cho làn da nhạy cảm của trẻ em, không chứa các chất gây kích ứng hoặc hóa chất gây hại. Nó giúp giữ cho em bé bị trầy xước và không gây kích ứng.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/dau-tam-em-be-cung-dinh-100ml-mac-dinh-2.jpg",
+      "images/dau-tam-em-be-cung-dinh-100ml-mac-dinh-3.jpg",
+      "images/dau-tam-em-be-cung-dinh-100ml-mac-dinh-3.jpg"
+    ],
+    "discount": "-30%",
+    "packaging": "1 chai x 100ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "160.000₫",
+    "brand": "Dầu Tràm Cung Đình",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE016",
+    "name": "Sữa tắm gội cho bé Cetaphil Baby Gentle hương dịu nhẹ chai 400 ml",
+    "description": [
+      "Sữa tắm gội Cetaphil Baby Wash & Shampoo Calendula là sản phẩm tích hợp 2 trong 1, có thể sử dụng như dầu gội hoặc sữa tắm cho bé giúp làm sạch nhẹ nhàng, dịu nhẹ trên da.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/sua-tam-goi-cho-be-cetaphil-baby-gentle-huong-diu-nhe-400ml-1-1.jpg",
+      "images/sua-tam-goi-cho-be-cetaphil-baby-gentle-huong-diu-nhe-400ml-2.jpg",
+      "images/sua-tam-goi-cho-be-cetaphil-baby-gentle-huong-diu-nhe-400ml-3.jpg"
+    ],
+    "discount": "",
+    "packaging": "Chai 400ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "244.000₫",
+    "brand": "Cetaphil",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE017",
+    "name": "Sữa tắm gội Lactacyd Baby Active Play giúp dưỡng ẩm, giảm kích ứng cho da bé chai 250ml",
+    "description": [
+      "Hãy để bé tận hưởng cảm giác sảng khoái và làn da mịn màng với Lactacyd Active Play - dòng nhãn hiệu sữa tắm gội cho bé Lactacyd mà mẹ vẫn luôn tin tưởng, giúp nuôi dưỡng làn da của bé bằng chiết xuất sữa tự nhiên.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/sua-tam-goi-lactacyd-baby-active-play-giup-duong-am-giam-kich-ung-cho-da-be-250ml-1-1.jpg",
+      "images/sua-tam-goi-lactacyd-baby-active-play-giup-duong-am-giam-kich-ung-cho-da-be-250ml-2.jpg",
+      "images/sua-tam-goi-lactacyd-baby-active-play-giup-duong-am-giam-kich-ung-cho-da-be-250ml-3.jpg"
+    ],
+    "discount": "-30%",
+    "packaging": "Chai 400ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "244.000₫",
+    "brand": "Lactacyd",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP021",
+    "name": "Tinh chất chống nắng Sunplay Tone Up Essence Lavender SPF 50+/PA++++ tuýp 50g",
+    "description": [
+      "Water, Ethylhexyl Methoxycinnamate, Butylene Glycol, Phenyl Trimethicone, Titanium Dioxide, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Methyl Methacrylate Crosspolymer, Sodium Hyaluronate, Magnesium Ascorbyl Phosphate, Pearl Powder, Bis-",
+      "Chống mọi tia UV (gây đen sạm, nám, tàn nhang, nếp nhăn, đốm nâu) che phủ tự nhiên, nâng tông da sáng hồng, trong suốt.",
+      "Lắc kỹ trước khi dùng. Thoa đều sản phẩm trước khi ra nắng. Dùng hằng ngày để bảo vệ da tốt nhất. Sau khi ra mồ hôi nhiều, thoa lại để có hiệu quả tốt hơn.",
+      "Ngưng sử dụng và tham khảo ý kiến bác sĩ nếu có dấu hiệu dị ứng..",
+      "3 năm kể từ ngày sản xuất, in trên chai.Nơi khô ráo, thoáng mát, tránh ánh sáng trực tiếp.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6658/244490/tinh-chat-chong-nang-sunplay-tone-up-essence-lavender-spf-50-pa-50g-1-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6658/244490/tinh-chat-chong-nang-sunplay-tone-up-essence-lavender-spf-50-pa-50g-1-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6658/244490/tinh-chat-chong-nang-sunplay-tone-up-essence-lavender-spf-50-pa-50g-1-3.jpg"
+    ],
+    "discount": "20%",
+    "packaging": " 1 tuýp x 50g",
+    "unit": "tuýt",
+    "promotion": "",
+    "originalPrice": "199.000₫",
+    "brand": "Sunplay",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP022",
+    "name": "Sữa rửa mặt Eucerin pH5 Facial Cleanser làm sạch sâu cho da nhạy cảm chai 100ml",
+    "description": [
+      "Aqua, Sodium Cocoamphoacetate, Sodium Myreth Sulfate, Lauryl Glucoside, Citric Acid, Sodium Chloride, Methylpropanediol, PEG-40 Hydrogenated Castor Oil, Coco-Glucoside, Panthenol, Sodium Benzoate, Glycol Distearate, Glycerin, PEG-200",
+      "Chống mọi tia UV (gây đen sạm, nám, tàn nhang, nếp nhăn, đốm nâu) che phủ tự nhiên, nâng tông da sáng hồng, trong suốt.",
+      "Sữa rửa mặt dịu nhẹ với 0% thành phần gây kích ứng giúp làm sạch sâu và dịu nhẹ cho da, cải thiện tình trạng nhạy cảm của da.",
+      "Để xa tầm tay trẻ em.Tránh tiếp xúc trực tiếp với mắt.",
+      "3 năm kể từ ngày sản xuất, in trên chai.Nơi khô ráo, thoáng mát, tránh ánh sáng trực tiếp.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/2504/308529/sua-rua-mat-eucerin-ph5-facial-cleanser-lam-sach-sau-cho-da-nhay-cam-mac-dinh-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/308529/sua-rua-mat-eucerin-ph5-facial-cleanser-lam-sach-sau-cho-da-nhay-cam-mac-dinh-3.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/308529/sua-rua-mat-eucerin-ph5-facial-cleanser-lam-sach-sau-cho-da-nhay-cam-mac-dinh-4.jpg"
+    ],
+    "discount": "20%",
+    "packaging": " Chai 100ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "129.000₫",
+    "brand": "Eucerin",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP023",
+    "name": "Gel rửa mặt Eucerin Acne-Oil Control Pro Acne Solution làm sạch cho da mụn chai 200ml",
+    "description": [
+      "Aqua, Sodium Cocoamphoacetate, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Citric Acid, Sodium Benzoate, Salicylic Acid.",
+      "Gel rửa mặt với 6,3% Sodium Cocoamphoacetate giúp làm sạch da một cách dịu nhẹ cho làn da sạch, tươi mát, mịn màng. Loại bỏ bã nhờn dư thừa.",
+      "Dùng nước ấm làm ướt da mặt, cho sữa rửa mặt vào lòng bàn tay và tạo bọt. Nhẹ nhàng mát xa lên da mặt và rửa sạch lại với nước.",
+      "ĐTránh tiếp xúc trực tiếp với mắt..",
+      "3 năm kể từ ngày sản xuất, in trên chai.Nơi khô ráo, thoáng mát, tránh ánh sáng trực tiếp.."
+    ],
+    "images": [
+      "https://cdnv2.tgdd.vn/mwg-static/ankhang/Products/Images/2504/155894/gel-rua-mat-eucerin-proacne-solution-200ml-1-638784277700953583.jpg",
+      "https://cdnv2.tgdd.vn/mwg-static/ankhang/Products/Images/2504/155894/gel-rua-mat-eucerin-proacne-solution-200ml-2-638784277694696684.jpg",
+      "https://cdnv2.tgdd.vn/mwg-static/ankhang/Products/Images/2504/155894/gel-rua-mat-eucerin-proacne-solution-200ml-3-638784277688348044.jpg"
+    ],
+    "discount": "20%",
+    "packaging": " Chai 200ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "369.000₫",
+    "brand": "Eucerin",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP024",
+    "name": "Sữa rửa mặt Eucerin pH5 Facial Cleanser sạch sâu cho da nhạy cảm chai 400ml",
+    "description": [
+      "Sữa rửa mặt eucerin ph5 chai 400ml nhẹ nhàng làm sạch làn da nhạy cảm, loại bỏ bụi bẩn, bã nhờn và tế bào chết.",
+      "Dùng nước ấm làm ướt da mặt, cho sữa rửa mặt vào lòng bàn tay và tạo bọt. Nhẹ nhàng mát xa lên da mặt và rửa sạch lại với nước.",
+      "Dùng nước ấm làm ướt da mặt, cho sữa rửa mặt vào lòng bàn tay và tạo bọt. Nhẹ nhàng mát xa lên da mặt và rửa sạch lại với nước.",
+      "ĐTránh tiếp xúc trực tiếp với mắt..",
+      "3 năm kể từ ngày sản xuất, in trên chai.Nơi khô ráo, thoáng mát, tránh ánh sáng trực tiếp.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/2504/241558/sua-rua-mat-eucerin-ph5-facial-cleanser-400ml-hinh-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/241558/sua-rua-mat-eucerin-ph5-facial-cleanser-400ml-hinh-3.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/241558/sua-rua-mat-eucerin-ph5-facial-cleanser-400ml-hinh-4.jpg"
+    ],
+    "discount": "20%",
+    "packaging": " Chai 400ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "369.000₫",
+    "brand": "Eucerin",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP025",
+    "name": "Gel Hiruscar Kids Formulation mờ và làm phẳng sẹo cho bé tuýp 10g",
+    "description": [
+      "Aqua, Allium Cepa Bulb Extract, Glycerin, Avena Sativa (Oat) Kernel Extract, Potassium Sorbate, Sorbeth-30, PPG-26-Buteth-26 và PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Caprylyl Glycol, Chlorphenesin, Aloe Barbadensis Leaf Juice",
+      "Hiruscar Kids được bào chế dưới dạng gel dùng ngoài da với công thức đặc biệt dùng cho trẻ em giúp sẹo mờ dần, phẳng và mềm hơn.",
+      "Thoa Hiruscar Kids lên da 2 - 3 lần/ngày, xoa nhẹ nhàng. Sử dụng liên tục sẽ giúp sẹo mờ dần, phẳng và mềm hơn.",
+      "ĐTránh tiếp xúc trực tiếp với mắt..",
+      "3 năm kể từ ngày sản xuất, in trên chai.Nơi khô ráo, thoáng mát, tránh ánh sáng trực tiếp.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/12018/193451/gel-cai-thien-seo-va-vet-tham-cho-tre-hiruscar-kid-2-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/12018/193451/gel-cai-thien-seo-va-vet-tham-cho-tre-hiruscar-kid-3-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/12018/193451/gel-cai-thien-seo-va-vet-tham-cho-tre-hiruscar-kid-4-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": " 1 tuýp x 10g",
+    "unit": "tuýp",
+    "promotion": "",
+    "originalPrice": "209.000₫",
+    "brand": "Medinova",
+    "quantity": 2000
   }
 ]

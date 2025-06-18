@@ -1,26 +1,237 @@
 [
   {
-    "id": "SP003",
-    "name": "Dunx xịt mũi Xisat Trẻ Em giảm nghẹt mũi",
+    "id": "DMP013",
+    "name": "Serum Vichy Mineral 89 giúp da da mềm mịn, căng mướt chai 50ml",
     "description": [
-      "Đối với trẻ em, hệ miễn dịch cũng như sức đề kháng chưa hoàn thiện nên rất dễ bị vi khuẩn gây bệnh bên ngoài môi trường tấn công. Bên cạnh đó, thời tiết thay đổi, cơ thể non yếu của bé dễ mắc các triệu chứng như hắt xì, sổ mũi, khó chịu, đau đầu,... Với triệu chứng hắt hơi, sổ mũi khó chịu sử dụng các sản phẩm hỗ trợ lành tính là giải pháp tối ưu giúp cho tình trạng bệnh được cải thiện đáng kể cho bé. Xịt mũi Xisat Trẻ Em màu hồng giúp đường thở thông thoáng và phục hồi độ ẩm cho niêm mạc mũi hiệu quả. Và cũng là một trong số xịt mũi cho bé được nhiều bậc phụ huynh ưa chuộng hiện nay. Xịt mũi Xisat Trẻ Em có thành phần từ nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... với quy trình sản xuất nghiêm ngặt đảm bảo tính vô khuẩn có tác dụng sát khuẩn, kháng viêm và tăng sức đề kháng cho niêm mạc mũi.",
-      "Nước biển sâu thiên nhiên tinh chiết từ độ sâu 450m giàu muối và khoáng chất như Cu2+, Zn2+... có tính kháng khuẩn, kháng viêm, săn se niêm mạc. Xisat dạng phun sương dễ đi sâu vào khoang mũi giúp làm sạch dịch nhầy và các tác nhân gây bệnh.",
-      "Dùng để xịt, rửa mũi hàng ngày cho trẻ em. Loại bỏ gỉ mũi, chất nhầy nhờ cơ chế xịt phun sương, tạo các hạt mịn dễ đi sâu vào khoang mũi. Giúp thông thoáng dễ thở và tạo cảm giác mát dịu. Kháng khuẩn, kháng viêm nên ngăn ngừa viêm mũi, viêm xoang, sổ mũi, nghẹt mũi.",
-      "Đặt bé ngồi đầu nghiêng về một bên hoặc nằm đầu cao hơn thân. Nhẹ nhàng xịt vào cửa mũi, ấn vòi xịt dứt khoát 3 nhát (lần). Để dịch thừa chảy ra bên ngoài, sau đó để bé hỉ (xì) mũi. Nhẹ nhàng thấm sạch bằng khăn mềm. Lặp lại cho mũi bên kia. Lau sạch vòi xịt bằng khăn mềm. Cất nơi thoáng mát. Dùng đều đặn 3-4 lần/ngày trước khi đi ngủ, sau khi bơi lội, tiếp xúc với nhiều bụi bặm (đi học về, đi ngoài đường về,...).",
-      "Không tái sử dụng chai xịt, vòi xịt dưới mọi hình thức.",
-      "Bảo quản Nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp. Quy cách đóng gói Chai 75ml. Hạn sử dụng Xem trên bao bì sản phẩm. Nhà sản xuất Merap Group."
+      "89% nước khoáng cô đặc phối hợp với Hyaluronic Acid giúp phục hồi và tái tạo hàng rào bảo vệ da, đồng thời bảo vệ da khỏi các tác nhân có hại như ô nhiễm, stress,...",
+      "Sử dụng sáng và tối, sau bước làm sạch và làm dịu da cùng nước khoáng Vichy.",
+      "Tránh ánh nắng trực tiếp.Để nơi khô ráo, thoáng mát.Đậy nắp kín sau khi sử dụng.",
+      "tránh tiếp xúc với mắt và xa tầm tay trẻ em",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
     ],
     "images": [
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
-      "images/bepanthen-balm-30g-thumb-600x600.jpg"
+      "https://cdn.thegioididong.com/Products/Images/6562/189725/tinh-chat-khoang-co-dac-bao-ve-da-gup-da-cang-min-mac-dinh-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/189725/tinh-chat-khoang-co-dac-bao-ve-da-gup-da-cang-min-mac-dinh-4.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/189725/tinh-chat-khoang-co-dac-bao-ve-da-gup-da-cang-min-mac-dinh-5.jpg"
     ],
-    "discount": "-20%",
-    "packaging": "1 x 75 ml",
-    "unit": "Chai",
-    "promotion": "Mua 2 tặng 1",
-    "originalPrice": "80.000₫",
-    "brand": "pigeon",
-    "quantity": 0
+    "discount": "20%",
+    "packaging": "1 chai x 50ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "1.195.000₫",
+    "brand": "Vichy",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP014",
+    "name": "Kem dưỡng Vichy Liftactiv Collagen Specialist ngừa lão hóa hũ 50ml",
+    "description": [
+      "Sau tuổi 25, mỗi năm da mất đi 1% lượng Collagen làm da trông thiếu sức sống, thiếu độ đàn hồi, săn chắc, xuất hiện các nếp nhăn.",
+      "Dùng hàng ngày vào mỗi sáng sau bước làm sạch với sữa rửa mặt, cân bằng với nước dưỡng da (nước hoa hồng), làm dịu với nước khoáng dưỡng da và sau bước đặc trị với Serum (Tinh chất)..",
+      "Dành cho mọi loại da, ngay cả da nhạy cảm.",
+      "tránh tiếp xúc với mắt và xa tầm tay trẻ em",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6562/222923/kem-duong-vichy-liftactiv-collagen-specialist-50ml-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/222923/kem-duong-vichy-liftactiv-collagen-specialist-50ml-3.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6562/222923/kem-duong-vichy-liftactiv-collagen-specialist-50ml-4.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "1 chai x 50ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "1.230.000₫",
+    "brand": "Vichy",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP015",
+    "name": "Xịt khoáng Vichy Eau Thermale Mineralizing Thermal Water giữ ẩm, bảo vệ da chai 50ml",
+    "description": [
+      "Hydrogen Carbonates 4818,63 mg/l, Bore 970 μg/l, Calcium 165.61 mg/l, Fer 810 μg/l, Fluorures 7.67 mg/l, Lithium 5.17 mg/l, Magnesium 12.08 mg/l, Manganese 200 μg/l, Orthophosphates 210 μg/l, Potassium 103.56 mg/l, Silicium 11.78 mg/l, Sodium 1862.88 mg/l, Strontium 1.63 mg/l, Soufre 182.39 mg/l, Ammonium 390 μg/l.",
+      "Khởi nguồn từ lòng núi lửa tại Pháp, xuyên qua độ sâu hơn 4000m và trải qua quá trình hàng ngàn năm, nước khoáng nóng Vichy chứa 15 khoáng chất quý hiếm giúp cân bằng độ PH, hỗ trợ lớp màng giữ ẩm tự nhiên của da và bảo vệ da trước các tác nhân gây hại từ môi trường bên ngoài.",
+      "Dùng nhiều lần trong ngày. Đặt chai nước khoáng song song mặt, cách khoảng 1 gang tay. Xịt đều 1 - 2 lần vòng quanh mặt. Vỗ nhẹ nhàng vài lần và thấm phần nước khoáng còn đọng lại bằng bông tẩy trang/khăn giấy.",
+      "tránh tiếp xúc với mắt và xa tầm tay trẻ em",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/6642/174297/xit-khoang-duong-da-vichy-mineralizing-thermal-wat-hinh-2.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6642/174297/xit-khoang-duong-da-vichy-mineralizing-thermal-wat-hinh-3.jpg",
+      "https://cdn.thegioididong.com/Products/Images/6642/174297/xit-khoang-duong-da-vichy-mineralizing-thermal-wat-hinh-4.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 chai x 50ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "200.000₫",
+    "brand": "Vichy",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP016",
+    "name": "Sữa rửa mặt Cetaphil Gentle Skin Cleanser làm sạch dịu nhẹ chai 125ml",
+    "description": [
+      "Aqua, Glycerin, Cetearyl Alcohol, Panthenol, Niacinamide, Pantolactone, Xanthan Gum, Sodium Cocoyl Isethionate, Sodium Benzoate, Citric Acid..",
+      "Làm sạch da.",
+      "Dùng với nước: Thoa đều lên vùng mặt và mát xa nhẹ nhàng. Sau đó rửa sạch với nước.",
+      "Dành cho mọi loại da, đặc biệt là da nhạy cảm.",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/2504/283191/sua-rua-mat-diu-nhe-cetaphil-gentle-skin-cleanser-1-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/283191/sua-rua-mat-diu-nhe-cetaphil-gentle-skin-cleanser-2-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/283191/sua-rua-mat-diu-nhe-cetaphil-gentle-skin-cleanser-3-1.jpg"
+    ],
+    "discount": "",
+    "packaging": " chai 250ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "162.000₫",
+    "brand": "cetaphil",
+    "quantity": 2000
+  },
+  {
+    "id": "DMP017",
+    "name": "Sữa rửa mặt Cetaphil Gentle Skin Cleanser dịu nhẹ, làm sạch da chai 500ml",
+    "description": [
+      "Aqua, Glycerin, Cetearyl Alcohol, Panthenol, Niacinamide, Pantolactone, Xanthan Gum, Sodium Cocoyl Isethionate, Sodium Benzoate, Citric Acid.",
+      "Làm sạch da.",
+      "Dùng với nước: Thoa đều lên vùng mặt và mát xa nhẹ nhàng. Sau đó rửa sạch với nước.",
+      "Dành cho mọi loại da, đặc biệt là da nhạy cảm.",
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+    ],
+    "images": [
+      "https://cdn.thegioididong.com/Products/Images/2504/297293/sua-rua-mat-cetaphil-diu-nhe-500ml-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/297293/sua-rua-mat-cetaphil-diu-nhe-500ml-2-1.jpg",
+      "https://cdn.thegioididong.com/Products/Images/2504/297293/sua-rua-mat-cetaphil-diu-nhe-500ml-3.jpg"
+    ],
+    "discount": "20%",
+    "packaging": " chai 500ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "406.000₫₫",
+    "brand": "cetaphil",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE011",
+    "name": "Kem Bepanthen Balm ngừa hăm tã, kích ứng da cho bé tuýp 30g",
+    "description": [
+      "Kem Bepanthen Balm là một sản phẩm được thiết kế để ngăn ngừa và điều trị hăm tã, kích ứng da do da của bé bị ướt, nhờn hoặc cọ sát liên tục. Đây là một sản phẩm chất lượng được nhiều bà mẹ tin dùng và đánh giá cao.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/bepanthen-balm-30g-0-638617483783248331.jpg",
+      "images/bepanthen-balm-30g-1-638617479246406810.jpg",
+      "images/bepanthen-balm-30g-2-638617479255528658.jpg"
+    ],
+    "discount": "-5%",
+    "packaging": "1 tuýp x 30g",
+    "unit": "Tube",
+    "promotion": "",
+    "originalPrice": "72.000₫",
+    "brand": "Bayer",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE012",
+    "name": "Kem đánh răng dược liệu Ngọc Châu trẻ em ngừa sâu răng tuýp 70g",
+    "description": [
+      "Hiện nay, các sản phẩm chăm sóc trẻ em được các mẹ quan tâm chủ yếu là các sản phẩm tự nhiên, an toàn và không gây kích ứng cho da của trẻ như: Sữa tắm và dầu gội, sữa dưỡng thể và kem dưỡng da, dầu bôi trị hăm, Khăn ướt và bông tắm, kem đánh răng cho bé,...",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/bepanthen-balm-30g-0-638617483783248331.jpg",
+      "images/bepanthen-balm-30g-1-638617479246406810.jpg",
+      "images/bepanthen-balm-30g-2-638617479255528658.jpg"
+    ],
+    "discount": "-5%",
+    "packaging": "1 tuýp x 70g",
+    "unit": "hộp",
+    "promotion": "",
+    "originalPrice": "41.000₫",
+    "brand": "Hoa Linh",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE013",
+    "name": "Nước tắm gội thảo dược Dr.Papie ngăn ngừa rôm sảy, mụn nhọt, nổi mề đay cho bé chai 500ml",
+    "description": [
+      "Hiện nay, các sản phẩm chăm sóc trẻ em được các mẹ quan tâm chủ yếu là các sản phẩm tự nhiên, an toàn và không gây kích ứng cho da của trẻ như: Sữa tắm và dầu gội, sữa dưỡng thể và kem dưỡng da, dầu bôi trị hăm, Khăn ướt và bông tắm, kem đánh răng cho bé,...",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/nuoc-tam-goi-thao-duoc-dr-papie-500ml-1.jpg",
+      "images/nuoc-tam-goi-thao-duoc-dr-papie-500ml-3.jpg",
+      "images/nuoc-tam-goi-thao-duoc-dr-papie-500ml-4.jpg"
+    ],
+    "discount": "",
+    "packaging": "Chai 500ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "225.000₫",
+    "brand": "Starmed",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE014",
+    "name": "Sữa tắm gội toàn thân Aveeno Baby Daily Moisture dịu nhẹ cho da bé chai 236ml",
+    "description": [
+      "Hiện nay, các sản phẩm chăm sóc trẻ em được các mẹ quan tâm chủ yếu là các sản phẩm tự nhiên, an toàn và không gây kích ứng cho da của trẻ như: Sữa tắm và dầu gội, sữa dưỡng thể và kem dưỡng da, dầu bôi trị hăm, Khăn ướt và bông tắm, kem đánh răng cho bé,...",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/sua-tam-goi-toan-than-aveeno-baby-daily-moisture-diu-nhe-cho-da-be-1-2.jpg",
+      "images/sua-tam-goi-toan-than-aveeno-baby-daily-moisture-diu-nhe-cho-da-be-2.jpg",
+      "images/sua-tam-goi-toan-than-aveeno-baby-daily-moisture-diu-nhe-cho-da-be-3.jpg"
+    ],
+    "discount": "-30%",
+    "packaging": "Chai 236ml",
+    "unit": "chai",
+    "promotion": "",
+    "originalPrice": "270.000₫",
+    "brand": "Aveeno",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE015",
+    "name": "Dầu tắm em bé Cung Đình làm sạch, giữ ấm cơ thể chai 100ml",
+    "description": [
+      "Dầu tắm em bé Cung Đình là một trong những sản phẩm sữa tắm cho bé dạng dầu được thiết kế đặc biệt cho làn da nhạy cảm của trẻ em, không chứa các chất gây kích ứng hoặc hóa chất gây hại. Nó giúp giữ cho em bé bị trầy xước và không gây kích ứng.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/dau-tam-em-be-cung-dinh-100ml-mac-dinh-2.jpg",
+      "images/dau-tam-em-be-cung-dinh-100ml-mac-dinh-3.jpg",
+      "images/dau-tam-em-be-cung-dinh-100ml-mac-dinh-3.jpg"
+    ],
+    "discount": "-30%",
+    "packaging": "1 chai x 100ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "160.000₫",
+    "brand": "Dầu Tràm Cung Đình",
+    "quantity": 2000
   }
 ]

@@ -1,0 +1,5330 @@
+[
+  {
+    "id": "SP001",
+    "name": "Bột Sủi Thanh Nhiệt Sensa Cools Fizz hộp 6 gói x 7g",
+    "description": [],
+    "images": [
+      "images/bot-sui-thanh-nhiet-sensa-cools-6-goi-mac-dinh-2.jpg",
+      "images/bot-sui-thanh-nhiet-sensa-cools-6-goi-mac-dinh-2jpg",
+      "images/bot-sui-thanh-nhiet-sensa-cools-6-goi-mac-dinh-2.jpg"
+    ],
+    "discount": "",
+    "packaging": "6 gói x 7g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "26.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP002",
+    "name": "Bột Thanh Nhiệt Datino hộp 10 gói",
+    "description": [],
+    "images": [
+      "images/bot-thanh-nhiet-datino-ho-tro-thanh-nhiet-mat-gan-loi-tieu-hop-10-goi-mac-dinh-2.jpg",
+      "images/bot-thanh-nhiet-datino-ho-tro-thanh-nhiet-mat-gan-loi-tieu-hop-10-goi-mac-dinh-2.jpg",
+      "images/bot-thanh-nhiet-datino-ho-tro-thanh-nhiet-mat-gan-loi-tieu-hop-10-goi-mac-dinh-2.jpg"
+    ],
+    "discount": "",
+    "packaging": "10 gói x 8g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "37.800₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP003",
+    "name": "Thực Phẩm Bảo Vệ Sức Khỏe Nước Uống Giải Rượu Condition 100ml",
+    "description": [],
+    "images": [
+      "images/nuoc-giai-ruou-kolmar-condition-ho-tro-giai-doc-bao-ve-gan-100ml-new-2025-1-638853265681382350.jpg",
+      "images/nuoc-giai-ruou-kolmar-condition-ho-tro-giai-doc-bao-ve-gan-100ml-new-2025-1-638853265681382350.jpg",
+      "images/nuoc-giai-ruou-kolmar-condition-ho-tro-giai-doc-bao-ve-gan-100ml-new-2025-1-638853265681382350.jpg"
+    ],
+    "discount": "",
+    "packaging": "Chai 100ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "55.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP004",
+    "name": "Viên uống tăng cường chức năng Gan Naturenz lọ 100 Viên",
+    "description": [],
+    "images": [
+      "images/naturenz-1-3.jpg",
+      "images/naturenz-1-3.jpg",
+      "images/naturenz-1-3.jpg"
+    ],
+    "discount": "",
+    "packaging": "10 vỉ x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "173.000₫;",
+    "brand": "Vitabiotics (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP005",
+    "name": "Vitabiotics Liveril hộp 30 viên",
+    "description": [],
+    "images": [
+      "images/vitabiotics-liveril-hop-30-vien-1-1.jpg",
+      "images/vitabiotics-liveril-hop-30-vien-1-1.jpg",
+      "images/vitabiotics-liveril-hop-30-vien-1-1.jpg"
+    ],
+    "discount": "",
+    "packaging": "Hộp 5 vỉ x 6 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "442.000₫",
+    "brand": "Vitabiotics (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP006",
+    "name": "Thực phẩm bảo vệ sức khỏe Giải Độc Gan Cà Gai Leo Kawa Hộp 40 Viên",
+    "description": [],
+    "images": [
+      "images/thuc-pham-bao-ve-suc-khoe-giai-doc-gan-ca-gai-leo-kawa-hop-40-vien-mac-dinh-2.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-giai-doc-gan-ca-gai-leo-kawa-hop-40-vien-mac-dinh-22.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-giai-doc-gan-ca-gai-leo-kawa-hop-40-vien-mac-dinh-2.jpg"
+    ],
+    "discount": "",
+    "packaging": "4 vỉ x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "135.200₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP007",
+    "name": "Mega Liver lọ 30 viên",
+    "description": [],
+    "images": [
+      "images/vien-uong-mat-gan-giai-doc-gan-mega-liver-30-vien-01-638687496437929411.jpg",
+      "images/vien-uong-mat-gan-giai-doc-gan-mega-liver-30-vien-01-638687496437929411.jpg",
+      "images/vien-uong-mat-gan-giai-doc-gan-mega-liver-30-vien-01-638687496437929411.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 lọ x 30 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "425.000₫",
+    "brand": "",
+    "quantity": 2000
+  },
+  {
+    "id": "SP008",
+    "name": "GiảI ĐộC Gan Tuệ Linh Plus hộp 60 viên",
+    "description": [],
+    "images": [
+      "images/giai-doc-gan-tue-linh-plus-h-60v-mac-dinh-2.jpg",
+      "images/giai-doc-gan-tue-linh-plus-h-60v-mac-dinh-2.jpg",
+      "images/giai-doc-gan-tue-linh-plus-h-60v-mac-dinh-2.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "198.000₫",
+    "brand": "Blackmores (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP009",
+    "name": "Hepalyse W 100Ml",
+    "description": [],
+    "images": [
+      "images/nuoc-uong-giup-ho-tro-giai-doc-gan-hepalyse-w-100m-2-1.jpg",
+      "images/nuoc-uong-giup-ho-tro-giai-doc-gan-hepalyse-w-100m-2-1.jpg",
+      "images/nuoc-uong-giup-ho-tro-giai-doc-gan-hepalyse-w-100m-2-1.jpg"
+    ],
+    "discount": "",
+    "packaging": "Chai 100ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "54.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP010",
+    "name": "Siro Boganic Kid 100ml",
+    "description": [],
+    "images": [
+      "images/siro-boganic-kid-100ml-1.jpg",
+      "images/siro-boganic-kid-100ml-1.jpg",
+      "images/siro-boganic-kid-100ml-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 chai x 100ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "53.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP011",
+    "name": "Thực phẩm bảo vệ sức khỏe Nước Uống Giải Rượu Condition 100ml hộp 10 Chai",
+    "description": [],
+    "images": [
+      "images/nuoc-giai-ruou-kolmar-condition-ho-tro-giai-doc-gan-bao-ve-gan-100ml-10-chai-new-2025-1-638853261806790230.jpg",
+      "images/nuoc-giai-ruou-kolmar-condition-ho-tro-giai-doc-gan-bao-ve-gan-100ml-10-chai-new-2025-1-638853261806790230.jpg",
+      "images/nuoc-giai-ruou-kolmar-condition-ho-tro-giai-doc-gan-bao-ve-gan-100ml-10-chai-new-2025-1-638853261806790230.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "10 chai x 100ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "550.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP012",
+    "name": "Cao Nước Atiso Ngọc Duy Không Đường Hộp 10 ống x 10Ml",
+    "description": [],
+    "images": [
+      "images/cao-nuoc-atiso-ngoc-duy-khong-duong-giup-bo-gan-loi-mat-hop-10-ong-x-10ml-mac-dinh-2.jpg",
+      "images/cao-nuoc-atiso-ngoc-duy-khong-duong-giup-bo-gan-loi-mat-hop-10-ong-x-10ml-mac-dinh-2.jpg",
+      "images/cao-nuoc-atiso-ngoc-duy-khong-duong-giup-bo-gan-loi-mat-hop-10-ong-x-10ml-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "10 ống x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "55.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP013",
+    "name": "Rohto Alcofree 50ml",
+    "description": [],
+    "images": [
+      "images/rohto-alcofree-50ml-hop-10chai-5.jpg",
+      "images/rohto-alcofree-50ml-hop-10chai-5.jpg",
+      "images/rohto-alcofree-50ml-hop-10chai-5.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 50ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "37.980₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP014",
+    "name": "Blackmores Milk Thistle Lọ/42V",
+    "description": [],
+    "images": [
+      "images/blackmores-milk-thistle-42-vien-mau-cu-moi-1-638611445110299643.jpg",
+      "images/blackmores-milk-thistle-42-vien-mau-cu-moi-1-638611445110299643.jpg",
+      "images/blackmores-milk-thistle-42-vien-mau-cu-moi-1-638611445110299643.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 42 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "428.450₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP015",
+    "name": "Thực Phẩm Bảo Vệ Sức Khỏe Onepharm Liver Maxs Hộp 30 Viên",
+    "description": [],
+    "images": [
+      "images/thuc-pham-bao-ve-suc-khoe-onepharm-liver-maxs-hop-30-vien-mac-dinh-2.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-onepharm-liver-maxs-hop-30-vien-mac-dinh-2.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-onepharm-liver-maxs-hop-30-vien-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 lọ x 30 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "169.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP016",
+    "name": "Nước Giải Rượu Condition hộp 10 chai x 75ml",
+    "description": [],
+    "images": [
+      "images/nuoc-giai-ruou-inno-n-condition-75ml-10-chai-1.jpg",
+      "images/nuoc-giai-ruou-inno-n-condition-75ml-10-chai-1.jpg",
+      "images/nuoc-giai-ruou-inno-n-condition-75ml-10-chai-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "10 chai x 75ml",
+    "unit": "Chai",
+    "promotion": "Mua 2 tặng 1",
+    "originalPrice": "425.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP017",
+    "name": "Nước Giải Rượu Condition 75Ml",
+    "description": [],
+    "images": [
+      "images/nuoc-giai-ruou-condition-75ml-1.jpg",
+      "images/nuoc-giai-ruou-condition-75ml-1.jpg",
+      "images/nuoc-giai-ruou-condition-75ml-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 75ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "50.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP018",
+    "name": "Rohto Alcofree hộp 10 chai x 50ml",
+    "description": [],
+    "images": [
+      "images/rohto-alcofree-50ml-h-10ch-h-1-638651250397992814.jpg",
+      "images/rohto-alcofree-50ml-h-10ch-h-1-638651250397992814.jpg",
+      "images/rohto-alcofree-50ml-h-10ch-h-1-638651250397992814.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "10 chai x 50ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "379.980₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP019",
+    "name": "Phụ Bì Khang hộp 30 viên",
+    "description": [],
+    "images": [
+      "images/vien-uong-ho-tro-dieu-tri-me-day-phu-bi-khang-30-v-mac-dinh-2.jpg",
+      "images/vien-uong-ho-tro-dieu-tri-me-day-phu-bi-khang-30-v-mac-dinh-2.jpg",
+      "images/vien-uong-ho-tro-dieu-tri-me-day-phu-bi-khang-30-v-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "3 vỉ x 10 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "185.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP020",
+    "name": "Bổ Gan Thái Minh hộp 20 viên",
+    "description": [],
+    "images": [
+      "images/bo-gan-thai-minh-hop-20-vien-hinh-2.jpg",
+      "images/bo-gan-thai-minh-hop-20-vien-hinh-2.jpg",
+      "images/bo-gan-thai-minh-hop-20-vien-hinh-2.jpg"
+    ],
+    "discount": "-30%",
+    "packaging": "Hộp 2 vỉ x 10 viên",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "87.500₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP001",
+    "name": "Ginkcebol 120mg hộp 100 viên",
+    "description": [
+      "Hỗ trợ tăng cường tuần hoàn não, cải thiện trí nhớ",
+      "Chứa chiết xuất Ginkgo Biloba 120mg",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-uong-ginkceton-120mg-1.jpg",
+      "images/vien-uong-ginkceton-120mg-1.jpg",
+      "images/vien-uong-ginkceton-120mg-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 10 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "Mua 2 tính tiền 1",
+    "originalPrice": "270.000đ",
+    "brand": "ECO Pharma (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP002",
+    "name": "Forlife Memore Plus",
+    "description": [
+      "Hỗ trợ cải thiện trí nhớ và khả năng tập trung",
+      "Chứa Ginkgo Biloba và vitamin B",
+      "Phù hợp cho người làm việc trí óc"
+    ],
+    "images": [
+      "images/vien-uong-cai-thien-tri-nho-memore-plus-60-vien-2-1.jpg",
+      "images/vien-uong-cai-thien-tri-nho-memore-plus-60-vien-2-1.jpg",
+      "images/vien-uong-cai-thien-tri-nho-memore-plus-60-vien-2-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "570.000đ",
+    "brand": "Forlife (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP003",
+    "name": "Hoạt Huyết Minh Não Khang Extra hộp 20 viên",
+    "description": [
+      "Hỗ trợ tuần hoàn máu não, giảm đau đầu",
+      "Chứa cao Đinh lăng và thảo dược tự nhiên",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/hoat-huyet-ninh-khuong-1.jpg",
+      "images/hoat-huyet-ninh-khuong-1.jpg",
+      "images/hoat-huyet-ninh-khuong-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 vỉ x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "175.750đ",
+    "brand": "Traphaco (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP004",
+    "name": "Mega Brain",
+    "description": [
+      "Hỗ trợ tăng cường trí nhớ và chức năng não",
+      "Chứa Omega-3 và Ginkgo Biloba",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-uong-mega-brain-60-vien-1-638675223463338346.jpg",
+      "images/vien-uong-mega-brain-60-vien-1-638675223463338346.jpg",
+      "images/vien-uong-mega-brain-60-vien-1-638675223463338346.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "478.000đ",
+    "brand": "Mega (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP005",
+    "name": "An Tâm Ngủ Ngon Kawa",
+    "description": [
+      "Hỗ trợ giấc ngủ, giảm căng thẳng",
+      "Chứa chiết xuất Kava và thảo dược tự nhiên",
+      "Phù hợp cho người mất ngủ"
+    ],
+    "images": [
+      "images/an-tam-ngu-ngon-kawa-hop-30vien-1.jpg",
+      "images/an-tam-ngu-ngon-kawa-hop-30vien-1.jpg",
+      "images/an-tam-ngu-ngon-kawa-hop-30vien-1.jpg"
+    ],
+    "discount": "30%",
+    "packaging": "3 vỉ x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "118.300₫",
+    "brand": "Antam (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP006",
+    "name": "Migrin Plus",
+    "description": [
+      "Hỗ trợ giảm đau đầu, tăng cường tuần hoàn máu",
+      "Chứa Ginkgo Biloba và Magie",
+      "Phù hợp cho người bị đau nửa đầu"
+    ],
+    "images": [
+      "images/migrin-plus-h-20v-1.jpg",
+      "images/migrin-plus-h-20v-1.jpg",
+      "images/migrin-plus-h-20v-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "2 vỉ x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "186.000₫",
+    "brand": "ECO Pharma (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP007",
+    "name": "Bổ Não Otiv",
+    "description": [
+      "Hỗ trợ cải thiện trí nhớ và giảm căng thẳng",
+      "Chứa Ginkgo Biloba và Blueberry",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/bo-nao-otiv-hop-60-vien-1.jpg",
+      "images/bo-nao-otiv-hop-60-vien-1.jpg",
+      "images/bo-nao-otiv-hop-60-vien-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "590.000₫",
+    "brand": "Otiv (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP008",
+    "name": "Melatonin 5mg Nature's Bounty",
+    "description": [
+      "Hỗ trợ giấc ngủ tự nhiên, giảm mất ngủ",
+      "Chứa Melatonin 5mg",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-uong-ho-tro-giac-ngu-nature-s-bounty-melatoni-mac-dinh-2.jpg",
+      "images/vien-uong-ho-tro-giac-ngu-nature-s-bounty-melatoni-mac-dinh-2.jpg",
+      "images/vien-uong-ho-tro-giac-ngu-nature-s-bounty-melatoni-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "190.000₫",
+    "brand": "Nature's Bounty (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP009",
+    "name": "Healthy Care Kids High Strength DHA",
+    "description": [
+      "Bổ sung DHA cho não bộ trẻ em",
+      "Hỗ trợ phát triển trí não và thị lực",
+      "Phù hợp cho trẻ từ 2 tuổi"
+    ],
+    "images": [
+      "images/healthy-care-kids-high-strength-dha-h-60v-1-2.jpg",
+      "images/healthy-care-kids-high-strength-dha-h-60v-1-2.jpg",
+      "images/healthy-care-kids-high-strength-dha-h-60v-1-2.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "232.000₫",
+    "brand": "Healthy Care (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP010",
+    "name": "Forlife Sleep Well",
+    "description": [
+      "Hỗ trợ giấc ngủ sâu, giảm căng thẳng",
+      "Chứa Melatonin và thảo dược tự nhiên",
+      "Phù hợp cho người mất ngủ"
+    ],
+    "images": [
+      "images/sleep-well-2.jpg",
+      "images/sleep-well-2.jpg",
+      "images/sleep-well-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "440.000₫",
+    "brand": "Forlife (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP011",
+    "name": "Healthy Care Ginkgo Biloba",
+    "description": [
+      "Hỗ trợ cải thiện tuần hoàn máu não",
+      "Giúp tăng cường trí nhớ và khả năng tập trung"
+    ],
+    "images": [
+      "healthy-care-ginkgo-biloba-2000-h-100v-1-1.jpg",
+      "healthy-care-ginkgo-biloba-2000-h-100v-1-1.jpg",
+      "healthy-care-ginkgo-biloba-2000-h-100v-1-1.jpg"
+    ],
+    "originalPrice": "304.000đ",
+    "packaging": "Lọ 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "brand": "Healthy Care",
+    "quantity": 1
+  },
+  {
+    "id": "SP012",
+    "name": "Thực Phẩm Bảo Vệ Sức Khoẻ Ultra Brain hộp 60 viên",
+    "description": [
+      "Hỗ trợ bổ não, tăng cường trí nhớ",
+      "Giúp cải thiện tình trạng thiếu máu não"
+    ],
+    "images": [
+      "images/drlife-ultra-brain-ho-tro-suc-khoe-tim-mach-nao-bo-thi-luc-chai-60-vien-mac-dinh-2.jpg",
+      "images/drlife-ultra-brain-ho-tro-suc-khoe-tim-mach-nao-bo-thi-luc-chai-60-vien-mac-dinh-2.jpg",
+      "images/drlife-ultra-brain-ho-tro-suc-khoe-tim-mach-nao-bo-thi-luc-chai-60-vien-mac-dinh-2.jpg"
+    ],
+    "originalPrice": "250.000đ",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "brand": "Delta",
+    "quantity": 1
+  },
+  {
+    "id": "SP013",
+    "name": "Otiv",
+    "description": [
+      "Giúp tăng cường tuần hoàn não",
+      "Giảm thiểu stress, mất ngủ và đau đầu"
+    ],
+    "images": [
+      "images/otiv-30v-1.jpg",
+      "images/otiv-30v-1.jpg",
+      "images/otiv-30v-1.jpg"
+    ],
+    "discount": "30%",
+    "originalPrice": "330.000đ",
+    "packaging": "1 lọ x 30 viên",
+    "unit": "Chai",
+    "promotion": "",
+    "brand": "Ecogreen",
+    "quantity": 1
+  },
+  {
+    "id": "SP014",
+    "name": "Fitobimbi sonno",
+    "description": [
+      "Giúp bé ngủ ngon và sâu giấc",
+      "Chiết xuất từ thảo dược thiên nhiên"
+    ],
+    "images": [
+      "images/fitobimbi-sonno-ch-30ml-1-1.jpg",
+      "images/fitobimbi-sonno-ch-30ml-1-1.jpg",
+      "images/fitobimbi-sonno-ch-30ml-1-1.jpg"
+    ],
+    "discount": "15%",
+    "originalPrice": "345.000đ",
+    "packaging": "1 chai x 30ml",
+    "unit": "Chai",
+    "promotion": "",
+    "brand": "Pharmalife",
+    "quantity": 1
+  },
+  {
+    "id": "SP015",
+    "name": "Hoạt Huyết Kawa",
+    "description": [
+      "Giúp hoạt huyết, giảm đau đầu, hoa mắt",
+      "Hỗ trợ tăng cường lưu thông máu lên não"
+    ],
+    "images": [
+      "images/hoat-huyet-kawa-hop-40-vien-1-2.jpg",
+      "images/hoat-huyet-kawa-hop-40-vien-1-2.jpg",
+      "images/hoat-huyet-kawa-hop-40-vien-1-2.jpg"
+    ],
+    "discount": "20%",
+    "originalPrice": "169.000đ",
+    "packaging": "4 vỉ x 10 viên",
+    "unit": "Hộp",
+    "promotion": "MUA 2 TÍNH TIỀN 1",
+    "brand": "Kawa",
+    "quantity": 1
+  },
+  {
+    "id": "SP016",
+    "name": "Vương Não Khang",
+    "description": [
+      "Hỗ trợ tăng cường tuần hoàn não",
+      "Giúp giảm chóng mặt, mất ngủ"
+    ],
+    "images": [
+      "images/vuong-nao-khang-h-30g-2.jpg",
+      "images/vuong-nao-khang-h-30g-2.jpg",
+      "images/vuong-nao-khang-h-30g-2.jpg"
+    ],
+    "discount": "10%",
+    "originalPrice": "215.000đ",
+    "packaging": "30 gói x 3g",
+    "unit": "Hộp",
+    "promotion": "",
+    "brand": "Nam Dược",
+    "quantity": 1
+  },
+  {
+    "id": "SP017",
+    "name": "Kim Thính",
+    "description": [
+      "Hỗ trợ giảm ù tai, nghe kém",
+      "Tăng cường tuần hoàn và chức năng tai"
+    ],
+    "images": [
+      "images/kim-thinh-hop-30vien-mac-dinh-2.jpg",
+      "images/kim-thinh-hop-30vien-mac-dinh-2.jpg",
+      "images/kim-thinh-hop-30vien-mac-dinh-2.jpg"
+    ],
+    "discount": "15%",
+    "originalPrice": "210.000đ",
+    "packaging": "3 vỉ x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "brand": "Traphaco",
+    "quantity": 1
+  },
+  {
+    "id": "SP018",
+    "name": "Boni Happy",
+    "description": ["Giúp giảm căng thẳng, lo âu", "Hỗ trợ giấc ngủ ngon hơn"],
+    "images": [
+      "images/boni-happy-60v-2.jpg",
+      "images/boni-happy-60v-2.jpg",
+      "images/boni-happy-60v-2.jpg"
+    ],
+    "discount": "25%",
+    "originalPrice": "415.000đ",
+    "packaging": "1 lọ x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "brand": "Canada – Mỹ",
+    "quantity": 1
+  },
+  {
+    "id": "SP019",
+    "name": "Boni Sleep",
+    "description": [
+      "Hỗ trợ cải thiện chất lượng giấc ngủ",
+      "Giúp an thần, ngủ ngon và sâu hơn"
+    ],
+    "images": [
+      "images/boni-sleep-30v-2.jpg",
+      "images/boni-sleep-30v-2.jpg",
+      "images/boni-sleep-30v-2.jpg"
+    ],
+    "discount": "20%",
+    "originalPrice": "405.000đ",
+    "packaging": "1 lọ x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "brand": "Canada – Mỹ",
+    "quantity": 1
+  },
+  {
+    "id": "SP020",
+    "name": "Tâm An Khang",
+    "description": [
+      "Giúp ngủ ngon, tinh thần thư giãn",
+      "Chiết xuất từ dược liệu thiên nhiên"
+    ],
+    "images": [
+      "images/tam-an-khang-boi-bo-suc-khoe-an-than-giup-ngu-ngon-hop-30-vien-mac-dinh-2.jpg",
+      "images/tam-an-khang-boi-bo-suc-khoe-an-than-giup-ngu-ngon-hop-30-vien-mac-dinh-2.jpg",
+      "images/tam-an-khang-boi-bo-suc-khoe-an-than-giup-ngu-ngon-hop-30-vien-mac-dinh-2.jpg"
+    ],
+    "originalPrice": "168.300đ",
+    "packaging": "1 lọ x 30 viên",
+    "unit": "Hộp",
+    "promotion": "-15%",
+    "brand": "An Khang",
+    "quantity": 1
+  },
+  {
+    "id": "SP001",
+    "name": "Viên ngậm Hotexcol",
+    "description": [
+      "Hỗ trợ giảm đau họng, giảm ho, làm dịu cổ họng",
+      "Chứa chiết xuất thảo dược tự nhiên",
+      "Phù hợp cho người lớn và trẻ em trên 6 tuổi"
+    ],
+    "images": [
+      "images/vien-ngam-hotexcol-1.jpg",
+      "images/vien-ngam-hotexcol-1.jpg",
+      "images/vien-ngam-hotexcol-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 10 x 4 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "119.000₫",
+    "brand": "Hotexcol (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP002",
+    "name": "Hevivo 100ml",
+    "description": [
+      "Hỗ trợ giảm ho, long đờm, làm thông thoáng đường thở",
+      "Chứa thảo dược tự nhiên và vitamin C",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/hevivo-100ml-1.jpg",
+      "images/hevivo-100ml-1.jpg",
+      "images/hevivo-100ml-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 100ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "140.000₫",
+    "brand": "Hevivo (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP003",
+    "name": "Mega We Care Eugica Ivy Syrup",
+    "description": [
+      "Hỗ trợ giảm ho, long đờm, làm dịu cổ họng",
+      "Chứa chiết xuất thường xuân (Ivy) và thảo dược",
+      "Phù hợp cho người lớn và trẻ em trên 2 tuổi"
+    ],
+    "images": [
+      "images/mega-we-care-eugica-ivy-syrup-1.jpg",
+      "images/mega-we-care-eugica-ivy-syrup-1.jpg",
+      "images/mega-we-care-eugica-ivy-syrup-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 100ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "80.000₫",
+    "brand": "Mega We Care (Ấn Độ)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP004",
+    "name": "Thiên Môn Bổ Phổi Siro Lớn",
+    "description": [
+      "Hỗ trợ tăng cường chức năng phổi, giảm ho",
+      "Chứa thảo dược tự nhiên như thiên môn đông",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/thien-mon-bo-phoi-siro-lon-1.jpg",
+      "images/thien-mon-bo-phoi-siro-lon-1.jpg",
+      "images/thien-mon-bo-phoi-siro-lon-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 280ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "67.000₫",
+    "brand": "Thiên Môn (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP005",
+    "name": "Xịt Họng Thảo Dược Eugica Mouth Spray 10ml",
+    "description": [
+      "Hỗ trợ làm dịu đau họng, kháng khuẩn tự nhiên",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/xit-hong-thao-duoc-eugica-10ml-1.jpg",
+      "images/xit-hong-thao-duoc-eugica-10ml-1.jpg",
+      "images/xit-hong-thao-duoc-eugica-10ml-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 10ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "60.000₫",
+    "brand": "Mega We Care (Ấn Độ)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP006",
+    "name": "Siro Ho Bobbaby",
+    "description": [
+      "Hỗ trợ giảm ho, long đờm cho trẻ em",
+      "Chứa thảo dược tự nhiên, an toàn cho trẻ",
+      "Phù hợp cho trẻ từ 6 tháng tuổi"
+    ],
+    "images": [
+      "images/siro-ho-bobbaby-1.jpg",
+      "images/siro-ho-bobbaby-1.jpg",
+      "images/siro-ho-bobbaby-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 30 gói x 5ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "150.000₫",
+    "brand": "BobBaby (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP007",
+    "name": "ích Nhi Siro Ho",
+    "description": [
+      "Hỗ trợ giảm ho, làm dịu cổ họng cho trẻ",
+      "Chứa thảo dược tự nhiên, an toàn cho trẻ em",
+      "Phù hợp cho trẻ từ 1 tuổi"
+    ],
+    "images": [
+      "images/ich-nhi-siro-ho-1.jpg",
+      "images/ich-nhi-siro-ho-1.jpg",
+      "images/ich-nhi-siro-ho-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 90ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "60.000₫",
+    "brand": "ích Nhi (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP008",
+    "name": "Siro Ho Ivy Extra",
+    "description": [
+      "Hỗ trợ giảm ho, long đờm hiệu quả",
+      "Chứa chiết xuất thường xuân (Ivy) và mật ong",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/siro-ho-ivy-extra-1.jpg",
+      "images/siro-ho-ivy-extra-1.jpg",
+      "images/siro-ho-ivy-extra-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 90ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "70.000₫",
+    "brand": "Ivy Extra (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP009",
+    "name": "ích Nhi Siro Ho 3+",
+    "description": [
+      "Hỗ trợ giảm ho, tăng cường sức đề kháng cho trẻ",
+      "Chứa thảo dược tự nhiên, an toàn cho trẻ",
+      "Phù hợp cho trẻ từ 3 tuổi"
+    ],
+    "images": [
+      "images/ich-nhi-siro-ho-3-1.jpg",
+      "images/ich-nhi-siro-ho-3-1.jpg",
+      "images/ich-nhi-siro-ho-3-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 90ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "60.000₫",
+    "brand": "ích Nhi (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP010",
+    "name": "Bộ Phế JV 10ml",
+    "description": [
+      "Hỗ trợ tăng cường chức năng phổi, giảm ho",
+      "Chứa thảo dược tự nhiên, an toàn cho trẻ",
+      "Phù hợp cho trẻ em và người lớn"
+    ],
+    "images": [
+      "images/bo-phe-jv-10ml-1.jpg",
+      "images/bo-phe-jv-10ml-1.jpg",
+      "images/bo-phe-jv-10ml-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 20 ống x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "103.200₫",
+    "brand": "JV (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP011",
+    "name": "Siro Ho Fortuss Osotan",
+    "description": [
+      "Hỗ trợ giảm ho, long đờm hiệu quả",
+      "Chứa thảo dược tự nhiên và mật ong",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/siro-ho-fortuss-osotan-1.jpg",
+      "images/siro-ho-fortuss-osotan-1.jpg",
+      "images/siro-ho-fortuss-osotan-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 180g",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "260.000₫",
+    "brand": "Osotan (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP012",
+    "name": "Thiên Môn Bổ Phổi 90ml",
+    "description": [
+      "Hỗ trợ tăng cường chức năng phổi, giảm ho",
+      "Chứa thiên môn đông và thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/thien-mon-bo-phoi-90ml-1.jpg",
+      "images/thien-mon-bo-phoi-90ml-1.jpg",
+      "images/thien-mon-bo-phoi-90ml-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 90ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "44.000₫",
+    "brand": "Thiên Môn (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP013",
+    "name": "Xoang Bổ Duyên",
+    "description": [
+      "Hỗ trợ giảm viêm xoang, thông thoáng đường thở",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị viêm xoang mãn tính"
+    ],
+    "images": [
+      "images/xoang-bo-duyen-1.jpg",
+      "images/xoang-bo-duyen-1.jpg",
+      "images/xoang-bo-duyen-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 10 x 6 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "107.000₫",
+    "brand": "Bổ Duyên (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP014",
+    "name": "BoniDetox",
+    "description": [
+      "Hỗ trợ tăng cường chức năng phổi, giảm ho",
+      "Chứa thảo dược tự nhiên và vitamin C",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/bonidetox-1.jpg",
+      "images/bonidetox-1.jpg",
+      "images/bonidetox-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "360.000₫",
+    "brand": "Boni (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP015",
+    "name": "Keo Ong Propolis Xịt Trị Cảm",
+    "description": [
+      "Hỗ trợ giảm đau họng, tăng cường sức đề kháng",
+      "Chứa propolis tự nhiên",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/keo-ong-propolis-xit-tri-cam-1.jpg",
+      "images/keo-ong-propolis-xit-tri-cam-1.jpg",
+      "images/keo-ong-propolis-xit-tri-cam-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 30ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "270.000₫",
+    "brand": "Keo Ong (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP016",
+    "name": "Tiêu Khiết Thanh",
+    "description": [
+      "Hỗ trợ thanh nhiệt, giảm ho, làm dịu cổ họng",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/tieu-khiet-thanh-1.jpg",
+      "images/tieu-khiet-thanh-1.jpg",
+      "images/tieu-khiet-thanh-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "160.000₫",
+    "brand": "Traphaco (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP017",
+    "name": "Brauer Kids Honey Chesty Cough",
+    "description": [
+      "Hỗ trợ giảm ho ngực cho trẻ em",
+      "Chứa mật ong và thảo dược tự nhiên",
+      "Phù hợp cho trẻ từ 2 tuổi"
+    ],
+    "images": [
+      "images/brauer-kids-honey-chesty-cough-1.jpg",
+      "images/brauer-kids-honey-chesty-cough-1.jpg",
+      "images/brauer-kids-honey-chesty-cough-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Chai 100ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "103.200₫",
+    "brand": "Brauer (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP018",
+    "name": "Siro Ho Cam ích Nhi",
+    "description": [
+      "Hỗ trợ giảm ho, long đờm cho trẻ em",
+      "Chứa thảo dược tự nhiên, an toàn cho trẻ",
+      "Phù hợp cho trẻ từ 1 tuổi"
+    ],
+    "images": [
+      "images/siro-ho-cam-ich-nhi-1.jpg",
+      "images/siro-ho-cam-ich-nhi-1.jpg",
+      "images/siro-ho-cam-ich-nhi-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 30 gói x 5ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "95.000₫",
+    "brand": "ích Nhi (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP019",
+    "name": "Xịt Họng Otosan Throat Spray",
+    "description": [
+      "Hỗ trợ làm dịu đau họng, kháng khuẩn tự nhiên",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/xit-hong-otosan-throat-spray-1.jpg",
+      "images/xit-hong-otosan-throat-spray-1.jpg",
+      "images/xit-hong-otosan-throat-spray-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 30ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "290.000₫",
+    "brand": "Otosan (Ý)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP020",
+    "name": "Keo Ong Propolis Xịt Bạc Hà",
+    "description": [
+      "Hỗ trợ giảm đau họng, tăng cường sức đề kháng",
+      "Chứa propolis và bạc hà tự nhiên",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/keo-ong-propolis-xit-bac-ha-1.jpg",
+      "images/keo-ong-propolis-xit-bac-ha-1.jpg",
+      "images/keo-ong-propolis-xit-bac-ha-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 30ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "270.000₫",
+    "brand": "Keo Ong (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK001",
+    "name": "Thuốc phám bảo vệ sức khỏe iCare Bone",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe xương khớp",
+      "Chứa canxi và vitamin D3",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/icare-bone-1.jpg",
+      "images/icare-bone-1.jpg",
+      "images/icare-bone-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 80 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "378.000₫",
+    "brand": "iCare (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK002",
+    "name": "Mega Flex",
+    "description": [
+      "Hỗ trợ cải thiện chức năng khớp, giảm đau",
+      "Chứa glucosamine và chondroitin",
+      "Phù hợp cho người bị thoái hóa khớp"
+    ],
+    "images": [
+      "images/mega-flex-1.jpg",
+      "images/mega-flex-1.jpg",
+      "images/mega-flex-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "450.000₫",
+    "brand": "Mega (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK003",
+    "name": "Thuốc phám bảo vệ sức khỏe Pharmekal mobi flex",
+    "description": [
+      "Hỗ trợ giảm đau khớp, tăng cường sụn khớp",
+      "Chứa glucosamine và chondroitin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/pharmekal-mobi-flex-1.jpg",
+      "images/pharmekal-mobi-flex-1.jpg",
+      "images/pharmekal-mobi-flex-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "664.000₫",
+    "brand": "Pharmekal (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK004",
+    "name": "Jex Natural Joint Pain Relief",
+    "description": [
+      "Hỗ trợ giảm đau khớp tự nhiên",
+      "Chứa thảo dược và glucosamine",
+      "Phù hợp cho người bị đau khớp mãn tính"
+    ],
+    "images": [
+      "images/jex-natural-joint-pain-relief-1.jpg",
+      "images/jex-natural-joint-pain-relief-1.jpg",
+      "images/jex-natural-joint-pain-relief-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "630.000₫",
+    "brand": "Jex (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK005",
+    "name": "Thuốc phám bảo vệ sức khỏe Khuong Thao Dan gold",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe xương, giảm đau",
+      "Chứa thảo dược và canxi",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/khuong-thao-dan-gold-1.jpg",
+      "images/khuong-thao-dan-gold-1.jpg",
+      "images/khuong-thao-dan-gold-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 120 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "615.000₫",
+    "brand": "Khuong Thao Dan (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK006",
+    "name": "Viên Khớp Tâm Bình",
+    "description": [
+      "Hỗ trợ giảm đau khớp, cải thiện vận động",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị thoái hóa khớp"
+    ],
+    "images": [
+      "images/vien-khop-tam-binh-1.jpg",
+      "images/vien-khop-tam-binh-1.jpg",
+      "images/vien-khop-tam-binh-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 80 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "270.000₫",
+    "brand": "Tâm Bình (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK007",
+    "name": "Thuốc phám bảo vệ sức khỏe iCare Flex",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe khớp",
+      "Chứa glucosamine và chondroitin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/icare-flex-1.jpg",
+      "images/icare-flex-1.jpg",
+      "images/icare-flex-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "378.000₫",
+    "brand": "iCare (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK008",
+    "name": "Thuốc phám bảo vệ sức khỏe Khuong Thao Dan gold",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe xương, giảm đau",
+      "Chứa thảo dược và canxi",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/khuong-thao-dan-gold-1.jpg",
+      "images/khuong-thao-dan-gold-1.jpg",
+      "images/khuong-thao-dan-gold-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "173.000₫",
+    "brand": "Khuong Thao Dan (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK009",
+    "name": "Viên uống tế nhuc chan tay Bảo Nguyên",
+    "description": [
+      "Hỗ trợ giảm tê nhức tay chân, cải thiện tuần hoàn",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-uong-te-nhuc-chan-tay-bao-nguyen-1.jpg",
+      "images/vien-uong-te-nhuc-chan-tay-bao-nguyen-1.jpg",
+      "images/vien-uong-te-nhuc-chan-tay-bao-nguyen-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "211.500₫",
+    "brand": "Bảo Nguyên (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK010",
+    "name": "BoniGut",
+    "description": [
+      "Hỗ trợ giảm đau gút, cải thiện chức năng khớp",
+      "Chứa thảo dược và vitamin C",
+      "Phù hợp cho người bị gút"
+    ],
+    "images": [
+      "images/bonigut-1.jpg",
+      "images/bonigut-1.jpg",
+      "images/bonigut-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 1 x 30 viên",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "405.000₫",
+    "brand": "Boni (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK011",
+    "name": "Isosphaera Viên Gáy",
+    "description": [
+      "Hỗ trợ giảm đau cổ, cải thiện tuần hoàn",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị đau cổ vai gáy"
+    ],
+    "images": [
+      "images/isosphaera-vien-gay-1.jpg",
+      "images/isosphaera-vien-gay-1.jpg",
+      "images/isosphaera-vien-gay-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "76.000₫",
+    "brand": "Isosphaera (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK012",
+    "name": "Viên uống hỗ trợ xương khớp Ecolife glucosamin",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe khớp",
+      "Chứa glucosamine và chondroitin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/ecolife-glucosamin-1.jpg",
+      "images/ecolife-glucosamin-1.jpg",
+      "images/ecolife-glucosamin-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "89.000₫",
+    "brand": "Ecolife (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK013",
+    "name": "Drifus Strong Bone",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe xương",
+      "Chứa canxi, vitamin D3 và magie",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/drifus-strong-bone-1.jpg",
+      "images/drifus-strong-bone-1.jpg",
+      "images/drifus-strong-bone-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "250.000₫",
+    "brand": "Drifus (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK014",
+    "name": "Viên uống hỗ trợ xương khớp Nguyễn",
+    "description": [
+      "Hỗ trợ giảm đau khớp, tăng cường sụn",
+      "Chứa glucosamine và chondroitin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-uong-ho-tro-xuong-khop-nguyen-1.jpg",
+      "images/vien-uong-ho-tro-xuong-khop-nguyen-1.jpg",
+      "images/vien-uong-ho-tro-xuong-khop-nguyen-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "79.200₫",
+    "brand": "Nguyễn (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK015",
+    "name": "Jex Natural Joint Pain Relief",
+    "description": [
+      "Hỗ trợ giảm đau khớp tự nhiên",
+      "Chứa thảo dược và glucosamine",
+      "Phù hợp cho người bị đau khớp mãn tính"
+    ],
+    "images": [
+      "images/jex-natural-joint-pain-relief-1..jpg",
+      "images/jex-natural-joint-pain-relief-1..jpg",
+      "images/jex-natural-joint-pain-relief-1..jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "350.000₫",
+    "brand": "Jex (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK016",
+    "name": "Viên Glucosamine Orthio",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe khớp",
+      "Chứa glucosamine và chondroitin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-glucosamine-orthio-1.jpg",
+      "images/vien-glucosamine-orthio-1.jpg",
+      "images/vien-glucosamine-orthio-1.jpg"
+    ],
+    "discount": "13%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "575.000₫",
+    "brand": "Orthio (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK017",
+    "name": "Balgute",
+    "description": [
+      "Hỗ trợ giảm đau gút, cải thiện chức năng khớp",
+      "Chứa thảo dược và vitamin C",
+      "Phù hợp cho người bị gút"
+    ],
+    "images": [
+      "images/balgute-1.jpg",
+      "images/balgute-1.jpg",
+      "images/balgute-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 20 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "240.300₫",
+    "brand": "Balgute (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK018",
+    "name": "Cốt Thoái Vương",
+    "description": [
+      "Hỗ trợ giảm đau khớp, cải thiện vận động",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị thoái hóa khớp"
+    ],
+    "images": [
+      "images/cot-thoai-vuong-1.jpg",
+      "images/cot-thoai-vuong-1.jpg",
+      "images/cot-thoai-vuong-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "160.000₫",
+    "brand": "Traphaco (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK019",
+    "name": "Viên Gout Tâm Bình",
+    "description": [
+      "Hỗ trợ giảm đau gút, cải thiện chức năng thận",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị gút"
+    ],
+    "images": [
+      "images/vien-gout-tam-binh-1.jpg",
+      "images/vien-gout-tam-binh-1.jpg",
+      "images/vien-gout-tam-binh-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "185.000₫",
+    "brand": "Tâm Bình (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "XK020",
+    "name": "Jointace",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe khớp",
+      "Chứa glucosamine, chondroitin và vitamin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/jointace-1.jpg",
+      "images/jointace-1.jpg",
+      "images/jointace-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 15 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "487.000₫",
+    "brand": "Jointace (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC001",
+    "name": "Thuốc phám bảo vệ sức khỏe Blackmores Omega Double High",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, tim mạch và não bộ",
+      "Chứa EPA và DHA cao cấp",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/blackmores-omega-double-high-1.jpg",
+      "images/blackmores-omega-double-high-1.jpg",
+      "images/blackmores-omega-double-high-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "552.500₫",
+    "brand": "Blackmores (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC002",
+    "name": "Thuốc phám bảo vệ sức khỏe Omega Vit",
+    "description": [
+      "Hỗ trợ cải thiện thị lực, sức khỏe mắt",
+      "Chứa Omega-3 và vitamin A",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/omega-vit-1.jpg",
+      "images/omega-vit-1.jpg",
+      "images/omega-vit-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 chai x 100ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "330.000₫",
+    "brand": "Omega Vit (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC003",
+    "name": "Brauer Baby & Kids Ultra Pure Dha 60 Soft Gels",
+    "description": [
+      "Hỗ trợ phát triển trí não và mắt cho trẻ",
+      "Chứa DHA tinh khiết",
+      "Phù hợp cho trẻ từ 2 tuổi"
+    ],
+    "images": [
+      "images/brauer-baby-kids-ultra-pure-dha-1.jpg",
+      "images/brauer-baby-kids-ultra-pure-dha-1.jpg",
+      "images/brauer-baby-kids-ultra-pure-dha-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "388.800₫",
+    "brand": "Brauer (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC004",
+    "name": "VinagaDha",
+    "description": [
+      "Hỗ trợ sức khỏe mắt và trí não",
+      "Chứa DHA và EPA",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/vinagadha-1.jpg",
+      "images/vinagadha-1.jpg",
+      "images/vinagadha-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "68.000₫",
+    "brand": "Vinaga (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC005",
+    "name": "Thuốc phám bảo vệ sức khỏe Sáng Mắt Kwawa",
+    "description": [
+      "Hỗ trợ cải thiện thị lực, giảm mỏi mắt",
+      "Chứa DHA và lutein",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/sang-mat-kwawa-1.jpg",
+      "images/sang-mat-kwawa-1.jpg",
+      "images/sang-mat-kwawa-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "111.300₫",
+    "brand": "Kwawa (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC006",
+    "name": "Thuốc phám bảo vệ sức khỏe Alaska Omega 3 ecoliFree",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, tim mạch",
+      "Chứa Omega-3 tinh khiết",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/alaska-omega-3-ecolifree-1.jpg",
+      "images/alaska-omega-3-ecolifree-1.jpg",
+      "images/alaska-omega-3-ecolifree-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "170.000₫",
+    "brand": "Alaska (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC007",
+    "name": "Thuốc phám bảo vệ sức khỏe KidsGenius Fish Oil 60 Viên",
+    "description": [
+      "Hỗ trợ phát triển não bộ và mắt cho trẻ",
+      "Chứa DHA và EPA",
+      "Phù hợp cho trẻ từ 4 tuổi"
+    ],
+    "images": [
+      "images/kidsgenius-fish-oil-60-vien-1.jpg",
+      "images/kidsgenius-fish-oil-60-vien-1.jpg",
+      "images/kidsgenius-fish-oil-60-vien-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "388.000₫",
+    "brand": "KidsGenius (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC008",
+    "name": "Thuốc phám bảo vệ sức khỏe Omega Vit Plus",
+    "description": [
+      "Hỗ trợ sức khỏe mắt và tim mạch",
+      "Chứa Omega-3 và vitamin D",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/omega-vit-plus-1.jpg",
+      "images/omega-vit-plus-1.jpg",
+      "images/omega-vit-plus-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "245.000₫",
+    "brand": "Omega Vit (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC009",
+    "name": "Viên uống bổ mắt Vitamins for life bright eye",
+    "description": [
+      "Hỗ trợ cải thiện thị lực, giảm mỏi mắt",
+      "Chứa lutein và zeaxanthin",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/vitamins-for-life-bright-eye-1.jpg",
+      "images/vitamins-for-life-bright-eye-1.jpg",
+      "images/vitamins-for-life-bright-eye-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "472.000₫",
+    "brand": "Vitamins for life (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC010",
+    "name": "Wit",
+    "description": [
+      "Hỗ trợ sức khỏe mắt và não bộ",
+      "Chứa Omega-3 và vitamin A",
+      "Phù hợp cho người lớn"
+    ],
+    "images": ["images/wit-1.jpg", "images/wit-1.jpg", "images/wit-1.jpg"],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "330.000₫",
+    "brand": "Wit (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC011",
+    "name": "Costar Omega 3",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, tim mạch",
+      "Chứa EPA và DHA cao cấp",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/costar-omega-3-1.jpg",
+      "images/costar-omega-3-1.jpg",
+      "images/costar-omega-3-1.jpg"
+    ],
+    "discount": "25%",
+    "packaging": "Lọ 365 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "742.500₫",
+    "brand": "Costar (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC012",
+    "name": "Thuốc phám bảo vệ sức khỏe Biomacius Omega 3",
+    "description": [
+      "Hỗ trợ sức khỏe mắt và não bộ",
+      "Chứa Omega-3 tinh khiết",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/biomacius-omega-3-1.jpg",
+      "images/biomacius-omega-3-1.jpg",
+      "images/biomacius-omega-3-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 chai x 30ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "385.000₫",
+    "brand": "Biomacius (Pháp)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC013",
+    "name": "Thuốc phám bảo vệ sức khỏe Ruhto VS",
+    "description": [
+      "Hỗ trợ cải thiện thị lực, giảm mỏi mắt",
+      "Chứa lutein và vitamin A",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/ruhto-vs-1.jpg",
+      "images/ruhto-vs-1.jpg",
+      "images/ruhto-vs-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "388.800₫",
+    "brand": "Ruhto (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC014",
+    "name": "Omega 3 Pharmekal",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, tim mạch",
+      "Chứa EPA và DHA",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/omega-3-pharmekal-1.jpg",
+      "images/omega-3-pharmekal-1.jpg",
+      "images/omega-3-pharmekal-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "239.400₫",
+    "brand": "Pharmekal (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC015",
+    "name": "Mega Optimum Omega 3.6.9",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, da và tim mạch",
+      "Chứa Omega-3, 6, 9",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/mega-optimum-omega-3-6-9-1.jpg",
+      "images/mega-optimum-omega-3-6-9-1.jpg",
+      "images/mega-optimum-omega-3-6-9-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "486.000₫",
+    "brand": "Mega (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC016",
+    "name": "Costar Omega 3",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, tim mạch",
+      "Chứa EPA và DHA cao cấp",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/costar-omega-3-1.jpg",
+      "images/costar-omega-3-1.jpg",
+      "images/costar-omega-3-1.jpg"
+    ],
+    "discount": "30%",
+    "packaging": "Lọ 100 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "399.000₫",
+    "brand": "Costar (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC017",
+    "name": "Thuốc phám bảo vệ sức khỏe Omega 3-6-9 JV",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, da và tim mạch",
+      "Chứa Omega-3, 6, 9",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/omega-3-6-9-jv-1.jpg",
+      "images/omega-3-6-9-jv-1.jpg",
+      "images/omega-3-6-9-jv-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "139.300₫",
+    "brand": "JV (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC018",
+    "name": "Thuốc phám bảo vệ sức khỏe Springleaf Kids Genius Fish Oil",
+    "description": [
+      "Hỗ trợ phát triển não bộ và mắt cho trẻ",
+      "Chứa DHA và EPA",
+      "Phù hợp cho trẻ từ 2 tuổi"
+    ],
+    "images": [
+      "images/springleaf-kids-genius-fish-oil-1.jpg",
+      "images/springleaf-kids-genius-fish-oil-1.jpg",
+      "images/springleaf-kids-genius-fish-oil-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Lọ 120 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "745.000₫",
+    "brand": "Springleaf (Thái Lan)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC019",
+    "name": "Viên uống Đào Nhuyễn Thể Springleaf Wild Red Krill Oil",
+    "description": [
+      "Hỗ trợ sức khỏe mắt và tim mạch",
+      "Chứa Omega-3 và astaxanthin",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/springleaf-wild-red-krill-oil-1.jpg",
+      "images/springleaf-wild-red-krill-oil-1.jpg",
+      "images/springleaf-wild-red-krill-oil-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "756.500₫",
+    "brand": "Springleaf (Thái Lan)",
+    "quantity": 2000
+  },
+  {
+    "id": "DC020",
+    "name": "Healthy Care Fish Oil Omega 3 1000Mg",
+    "description": [
+      "Hỗ trợ sức khỏe mắt, tim mạch",
+      "Chứa Omega-3 tinh khiết",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/healthy-care-fish-oil-omega-3-1000mg-1.jpg",
+      "images/healthy-care-fish-oil-omega-3-1000mg-1.jpg",
+      "images/healthy-care-fish-oil-omega-3-1000mg-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Lọ 400 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "621.000₫",
+    "brand": "Healthy Care (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD001",
+    "name": "Drifibe Blood Sugar Support",
+    "description": [
+      "Hỗ trợ kiểm soát đường huyết",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/drifibe-blood-sugar-support-1.jpg",
+      "images/drifibe-blood-sugar-support-1.jpg",
+      "images/drifibe-blood-sugar-support-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "375.000₫",
+    "brand": "Drifibe (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD002",
+    "name": "Bonidabet",
+    "description": [
+      "Hỗ trợ ổn định đường huyết",
+      "Chứa thảo dược và vitamin",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/bonidabet-1.jpg",
+      "images/bonidabet-1.jpg",
+      "images/bonidabet-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "405.000₫",
+    "brand": "Bonidabet (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD003",
+    "name": "Diabeta",
+    "description": [
+      "Hỗ trợ kiểm soát đường huyết, giảm biến chứng",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/diabeta-1.jpg",
+      "images/diabeta-1.jpg",
+      "images/diabeta-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 4 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "108.000₫",
+    "brand": "Diabeta (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD004",
+    "name": "TdCare",
+    "description": [
+      "Hỗ trợ ổn định đường huyết",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/tdcare-1.jpg",
+      "images/tdcare-1.jpg",
+      "images/tdcare-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "143.000₫",
+    "brand": "TdCare (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD005",
+    "name": "Dương Huyết Vương Đan Khang",
+    "description": [
+      "Hỗ trợ kiểm soát đường huyết",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/duong-huyet-vuong-dan-khang-1.jpg",
+      "images/duong-huyet-vuong-dan-khang-1.jpg",
+      "images/duong-huyet-vuong-dan-khang-1.jpg"
+    ],
+    "discount": "5%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "241.300₫",
+    "brand": "Đan Khang (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD006",
+    "name": "Thanh Đường Kawai",
+    "description": [
+      "Hỗ trợ giảm đường huyết, cải thiện sức khỏe",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/thanh-duong-kawai-1.jpg",
+      "images/thanh-duong-kawai-1.jpg",
+      "images/thanh-duong-kawai-1.jpg"
+    ],
+    "discount": "50%",
+    "packaging": "Hộp 4 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "169.000₫",
+    "brand": "Kawai (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD007",
+    "name": "Glutex",
+    "description": [
+      "Hỗ trợ kiểm soát đường huyết",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/glutex-1.jpg",
+      "images/glutex-1.jpg",
+      "images/glutex-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 5 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "200.000₫",
+    "brand": "Glutex (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD008",
+    "name": "New Nordic Mulberry",
+    "description": [
+      "Hỗ trợ ổn định đường huyết",
+      "Chứa chiết xuất dâu tằm",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/new-nordic-mulberry-1.jpg",
+      "images/new-nordic-mulberry-1.jpg",
+      "images/new-nordic-mulberry-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 20 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "197.500₫",
+    "brand": "New Nordic (Thụy Điển)",
+    "quantity": 2000
+  },
+  {
+    "id": "TD009",
+    "name": "Vitabiotics Diabetone",
+    "description": [
+      "Hỗ trợ sức khỏe tổng thể cho người tiểu đường",
+      "Chứa vitamin và khoáng chất",
+      "Phù hợp cho người tiểu đường"
+    ],
+    "images": [
+      "images/vitabiotics-diabetone-1.jpg",
+      "images/vitabiotics-diabetone-1.jpg",
+      "images/vitabiotics-diabetone-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 15 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "398.000₫",
+    "brand": "Vitabiotics (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH001",
+    "name": "Thuốc phám bảo vệ sức khỏe Enterogermina 2b",
+    "description": [
+      "Hỗ trợ cân bằng hệ vi sinh đường ruột",
+      "Chứa lợi khuẩn Bacillus clausii",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/enterogermina-2b-1.jpg",
+      "images/enterogermina-2b-1.jpg",
+      "images/enterogermina-2b-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 20 ống x 5ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "165.000₫",
+    "brand": "Enterogermina (Ý)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH002",
+    "name": "Da Day Gastro 20 gói x 10ml",
+    "description": [
+      "Hỗ trợ tiêu hóa, giảm đầy hơi, khó tiêu",
+      "Chứa enzyme tiêu hóa và thảo dược",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/da-day-gastro-20-goi-1.jpg",
+      "images/da-day-gastro-20-goi-1.jpg",
+      "images/da-day-gastro-20-goi-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 20 gói x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "119.000₫",
+    "brand": "Da Day (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH003",
+    "name": "Thuốc phám bảo vệ sức khỏe Biomicus Complete",
+    "description": [
+      "Hỗ trợ cân bằng hệ vi sinh, tăng cường tiêu hóa",
+      "Chứa lợi khuẩn và prebiotic",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/biomicus-complete-1.jpg",
+      "images/biomicus-complete-1.jpg",
+      "images/biomicus-complete-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 chai 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "480.000₫",
+    "brand": "Biomicus (Pháp)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH004",
+    "name": "Novagel Đan Khang",
+    "description": [
+      "Hỗ trợ giảm acid dạ dày, bảo vệ niêm mạc",
+      "Chứa alginate và chất làm dịu",
+      "Phù hợp cho người bị trào ngược"
+    ],
+    "images": [
+      "images/novagel-dan-khang-1.jpg",
+      "images/novagel-dan-khang-1.jpg",
+      "images/novagel-dan-khang-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 20 gói x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "110.000₫",
+    "brand": "Novagel (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH005",
+    "name": "BioGaia Probiotics Baby Drops",
+    "description": [
+      "Hỗ trợ tiêu hóa cho trẻ sơ sinh",
+      "Chứa lợi khuẩn Lactobacillus reuteri",
+      "Phù hợp cho trẻ từ 0-12 tháng"
+    ],
+    "images": [
+      "images/biogaia-probiotics-baby-drops-1.jpg",
+      "images/biogaia-probiotics-baby-drops-1.jpg",
+      "images/biogaia-probiotics-baby-drops-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 5ml",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "460.000₫",
+    "brand": "BioGaia (Thụy Điển)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH006",
+    "name": "Đại Tràng Tâm Bình",
+    "description": [
+      "Hỗ trợ cải thiện chức năng đại tràng",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị rối loạn tiêu hóa"
+    ],
+    "images": [
+      "images/dai-trang-tam-binh-1.jpg",
+      "images/dai-trang-tam-binh-1.jpg",
+      "images/dai-trang-tam-binh-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "125.000₫",
+    "brand": "Tâm Bình (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH007",
+    "name": "Thuốc phám bảo vệ sức khỏe Livespo Clausy",
+    "description": [
+      "Hỗ trợ cân bằng hệ vi sinh đường ruột",
+      "Chứa lợi khuẩn Bacillus clausii",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/livespo-clausy-1.jpg",
+      "images/livespo-clausy-1.jpg",
+      "images/livespo-clausy-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 20 ống x 5ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "119.000₫",
+    "brand": "Livespo (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH008",
+    "name": "Thuốc phám bảo vệ sức khỏe Carbo Nam Việt",
+    "description": [
+      "Hỗ trợ giảm đầy hơi, khó tiêu",
+      "Chứa than hoạt tính và thảo dược",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/carbo-nam-viet-1.jpg",
+      "images/carbo-nam-viet-1.jpg",
+      "images/carbo-nam-viet-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 100 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "10.000₫",
+    "brand": "Nam Việt (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH009",
+    "name": "Nova Curmin Đan Khang",
+    "description": [
+      "Hỗ trợ bảo vệ gan, cải thiện tiêu hóa",
+      "Chứa curcumin và thảo dược",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nova-curmin-dan-khang-1.jpg",
+      "images/nova-curmin-dan-khang-1.jpg",
+      "images/nova-curmin-dan-khang-1.jpg"
+    ],
+    "discount": "5%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "190.000₫",
+    "brand": "Nova (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH010",
+    "name": "PregMom",
+    "description": [
+      "Hỗ trợ tiêu hóa cho bà bầu",
+      "Chứa vitamin và khoáng chất",
+      "Phù hợp cho phụ nữ mang thai"
+    ],
+    "images": [
+      "images/pregmom-1.jpg",
+      "images/pregmom-1.jpg",
+      "images/pregmom-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 20 gói x 5ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "324.000₫",
+    "brand": "PregMom (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH011",
+    "name": "Thuốc phám bảo vệ sức khỏe Optibac For Women",
+    "description": [
+      "Hỗ trợ cân bằng hệ vi sinh âm đạo",
+      "Chứa lợi khuẩn Lactobacillus",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/optibac-for-women-1.jpg",
+      "images/optibac-for-women-1.jpg",
+      "images/optibac-for-women-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "522.000₫",
+    "brand": "Optibac (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH012",
+    "name": "CumarGold New",
+    "description": [
+      "Hỗ trợ tiêu hóa, bảo vệ gan",
+      "Chứa curcumin và nghệ nano",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/cumargold-new-1.jpg",
+      "images/cumargold-new-1.jpg",
+      "images/cumargold-new-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 4 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "360.000₫",
+    "brand": "CumarGold (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH013",
+    "name": "Men Vi Sinh Puro",
+    "description": [
+      "Hỗ trợ cân bằng hệ vi sinh đường ruột",
+      "Chứa lợi khuẩn đa chủng",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/men-vi-sinh-puro-1.jpg",
+      "images/men-vi-sinh-puro-1.jpg",
+      "images/men-vi-sinh-puro-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 20 gói x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "180.000₫",
+    "brand": "Puro (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH014",
+    "name": "Thuốc phám bảo vệ sức khỏe Antibio Pro 1g",
+    "description": [
+      "Hỗ trợ phục hồi tiêu hóa sau kháng sinh",
+      "Chứa lợi khuẩn và prebiotic",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/antibio-pro-1g-1.jpg",
+      "images/antibio-pro-1g-1.jpg",
+      "images/antibio-pro-1g-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 20 gói x 1g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "108.000₫",
+    "brand": "Antibio (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH015",
+    "name": "Thuốc phám bảo vệ sức khỏe Bio Toi Lợi Khí Hấp Colon",
+    "description": [
+      "Hỗ trợ tiêu hóa, giảm đầy hơi",
+      "Chứa lợi khuẩn và thảo dược",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/bio-toi-loi-khi-hap-colon-1.jpg",
+      "images/bio-toi-loi-khi-hap-colon-1.jpg",
+      "images/bio-toi-loi-khi-hap-colon-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 10 gói x 5ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "163.000₫",
+    "brand": "Bio Toi (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH016",
+    "name": "Bình Vị Thái Minh",
+    "description": [
+      "Hỗ trợ giảm acid dạ dày, bảo vệ niêm mạc",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị đau dạ dày"
+    ],
+    "images": [
+      "images/binh-vi-thai-minh-1.jpg",
+      "images/binh-vi-thai-minh-1.jpg",
+      "images/binh-vi-thai-minh-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "59.500₫",
+    "brand": "Thái Minh (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH017",
+    "name": "Thuốc phám bảo vệ sức khỏe Bob Baby Đan Khang",
+    "description": [
+      "Hỗ trợ tiêu hóa cho trẻ em",
+      "Chứa lợi khuẩn và vitamin",
+      "Phù hợp cho trẻ từ 6 tháng tuổi"
+    ],
+    "images": [
+      "images/bob-baby-dan-khang-1.jpg",
+      "images/bob-baby-dan-khang-1.jpg",
+      "images/bob-baby-dan-khang-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 20 gói x 5g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "95.000₫",
+    "brand": "Bob Baby (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH018",
+    "name": "Tràng Phục Linh Plus",
+    "description": [
+      "Hỗ trợ cải thiện chức năng đại tràng",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị rối loạn tiêu hóa"
+    ],
+    "images": [
+      "images/trang-phuc-linh-plus-1.jpg",
+      "images/trang-phuc-linh-plus-1.jpg",
+      "images/trang-phuc-linh-plus-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 80 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "670.000₫",
+    "brand": "Tràng Phục Linh (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH019",
+    "name": "Tràng Phục Linh",
+    "description": [
+      "Hỗ trợ cải thiện chức năng đại tràng",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị rối loạn tiêu hóa"
+    ],
+    "images": [
+      "images/trang-phuc-linh-1.jpg",
+      "images/trang-phuc-linh-1.jpg",
+      "images/trang-phuc-linh-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 15 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "185.000₫",
+    "brand": "Tràng Phục Linh (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TH020",
+    "name": "Pepsin Can Ulsa",
+    "description": [
+      "Hỗ trợ tiêu hóa, giảm ợ chua",
+      "Chứa pepsin và chất làm dịu dạ dày",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/pepsin-can-ulsa-1.jpg",
+      "images/pepsin-can-ulsa-1.jpg",
+      "images/pepsin-can-ulsa-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 5 x 4 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "48.600₫",
+    "brand": "Can Ulsa (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM001",
+    "name": "Thuốc phám bảo vệ sức khỏe NattoEnzym DHA EPA",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, giảm cholesterol",
+      "Chứa nattokinase, DHA và EPA",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nattoenzym-dha-epa-1.jpg",
+      "images/nattoenzym-dha-epa-1.jpg",
+      "images/nattoenzym-dha-epa-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "460.000₫",
+    "brand": "NattoEnzym (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM002",
+    "name": "Thuốc phám bảo vệ sức khỏe Mammon Nattokinase",
+    "description": [
+      "Hỗ trợ cải thiện tuần hoàn máu, tim mạch",
+      "Chứa nattokinase tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/mammon-nattokinase-1.jpg",
+      "images/mammon-nattokinase-1.jpg",
+      "images/mammon-nattokinase-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "668.000₫",
+    "brand": "Mammon (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM003",
+    "name": "Ích Tâm Khang",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, giảm huyết áp",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/ich-tam-khang-1.jpg",
+      "images/ich-tam-khang-1.jpg",
+      "images/ich-tam-khang-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "195.000₫",
+    "brand": "Ích Tâm (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM004",
+    "name": "Thuốc phám bảo vệ sức khỏe Mammon CoQ10",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, tăng cường năng lượng",
+      "Chứa CoQ10 và vitamin",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/mammon-coq10-1.jpg",
+      "images/mammon-coq10-1.jpg",
+      "images/mammon-coq10-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "599.000₫",
+    "brand": "Mammon (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM005",
+    "name": "Nattoenzym",
+    "description": [
+      "Hỗ trợ cải thiện tuần hoàn máu, tim mạch",
+      "Chứa nattokinase",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nattoenzym-1.jpg",
+      "images/nattoenzym-1.jpg",
+      "images/nattoenzym-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 1 x 90 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "350.000₫",
+    "brand": "Nattoenzym (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM006",
+    "name": "M5 Máu Tâm Bình",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, giảm mệt mỏi",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/m5-mau-tam-binh-1.jpg",
+      "images/m5-mau-tam-binh-1.jpg",
+      "images/m5-mau-tam-binh-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 5 x 12 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "205.000₫",
+    "brand": "Tâm Bình (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM007",
+    "name": "Thuốc phám bảo vệ sức khỏe Genki Fami Nattokinase",
+    "description": [
+      "Hỗ trợ cải thiện tuần hoàn máu, tim mạch",
+      "Chứa nattokinase",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/genki-fami-nattokinase-1.jpg",
+      "images/genki-fami-nattokinase-1.jpg",
+      "images/genki-fami-nattokinase-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 90 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "698.400₫",
+    "brand": "Genki Fami (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM008",
+    "name": "Nattospes",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, giảm cholesterol",
+      "Chứa nattokinase",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nattospes-1.jpg",
+      "images/nattospes-1.jpg",
+      "images/nattospes-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "160.000₫",
+    "brand": "Nattospes (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM009",
+    "name": "Faz",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, tăng cường tuần hoàn",
+      "Chứa CoQ10 và vitamin",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/faz-1.jpg",
+      "images/faz-1.jpg",
+      "images/faz-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "300.000₫",
+    "brand": "Faz (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM010",
+    "name": "Viên uống Nattokinase 2000Fu Orthiro",
+    "description": [
+      "Hỗ trợ cải thiện tuần hoàn máu, tim mạch",
+      "Chứa nattokinase 2000FU",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nattokinase-2000fu-orthiro-1.jpg",
+      "images/nattokinase-2000fu-orthiro-1.jpg",
+      "images/nattokinase-2000fu-orthiro-1.jpg"
+    ],
+    "discount": "25%",
+    "packaging": "Lọ 1 x 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "382.000₫",
+    "brand": "Orthiro (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM011",
+    "name": "Garlic Oil Tỏi Lĩnh",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, giảm cholesterol",
+      "Chứa tinh dầu tỏi",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/garlic-oil-toi-linh-1.jpg",
+      "images/garlic-oil-toi-linh-1.jpg",
+      "images/garlic-oil-toi-linh-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "70.000₫",
+    "brand": "Tỏi Lĩnh (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM012",
+    "name": "Thuốc phám bảo vệ sức khỏe Hà Ap Khang",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, giảm huyết áp",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/ha-ap-khang-1.jpg",
+      "images/ha-ap-khang-1.jpg",
+      "images/ha-ap-khang-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "168.300₫",
+    "brand": "Ap Khang (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM013",
+    "name": "Kingphar Omega 3.6.9 Plus Q10",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, tăng cường năng lượng",
+      "Chứa Omega-3, 6, 9 và CoQ10",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/kingphar-omega-3-6-9-plus-q10-1.jpg",
+      "images/kingphar-omega-3-6-9-plus-q10-1.jpg",
+      "images/kingphar-omega-3-6-9-plus-q10-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "132.600₫",
+    "brand": "Kingphar (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM014",
+    "name": "Kingphar Viên Mỡ Máu",
+    "description": [
+      "Hỗ trợ giảm cholesterol, sức khỏe tim mạch",
+      "Chứa thảo dược và vitamin",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/kingphar-vien-mo-mau-1.jpg",
+      "images/kingphar-vien-mo-mau-1.jpg",
+      "images/kingphar-vien-mo-mau-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 40 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "115.600₫",
+    "brand": "Kingphar (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TM015",
+    "name": "Blackmores Co Q10 150mg",
+    "description": [
+      "Hỗ trợ sức khỏe tim mạch, tăng cường năng lượng",
+      "Chứa CoQ10 tinh khiết",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/blackmores-co-q10-150mg-1.jpg",
+      "images/blackmores-co-q10-150mg-1.jpg",
+      "images/blackmores-co-q10-150mg-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Lọ 30 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "492.300₫",
+    "brand": "Blackmores (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB001",
+    "name": "Cotripro Gel",
+    "description": [
+      "Hỗ trợ làm dịu vùng trĩ, giảm ngứa",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/cotripro-gel-1.jpg",
+      "images/cotripro-gel-1.jpg",
+      "images/cotripro-gel-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Tuýp 25g",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "270.000₫",
+    "brand": "Cotripro (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB002",
+    "name": "Cotripro",
+    "description": [
+      "Hỗ trợ điều trị trĩ, giảm đau và sưng",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/cotripro-1.jpg",
+      "images/cotripro-1.jpg",
+      "images/cotripro-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "133.000₫",
+    "brand": "Cotripro (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB003",
+    "name": "Thuốc phám bảo vệ sức khỏe Chất Xo IV",
+    "description": [
+      "Hỗ trợ điều trị táo bón, cải thiện tiêu hóa",
+      "Chứa chất xơ tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/chat-xo-iv-1.jpg",
+      "images/chat-xo-iv-1.jpg",
+      "images/chat-xo-iv-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 20 gói x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "129.000₫",
+    "brand": "Chất Xo (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB004",
+    "name": "Boni vein",
+    "description": [
+      "Hỗ trợ cải thiện tuần hoàn, giảm triệu chứng trĩ",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/boni-vein-1.jpg",
+      "images/boni-vein-1.jpg",
+      "images/boni-vein-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "260.000₫",
+    "brand": "Boni (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB005",
+    "name": "An Trí Vương",
+    "description": [
+      "Hỗ trợ điều trị trĩ, giảm đau và sưng",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/an-tri-vuong-1.jpg",
+      "images/an-tri-vuong-1.jpg",
+      "images/an-tri-vuong-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "175.000₫",
+    "brand": "An Trí (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB006",
+    "name": "Thuốc phám bảo vệ sức khỏe Diosmin Chibba",
+    "description": [
+      "Hỗ trợ điều trị trĩ, tăng cường tuần hoàn",
+      "Chứa diosmin tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/diosmin-chibba-1.jpg",
+      "images/diosmin-chibba-1.jpg",
+      "images/diosmin-chibba-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "250.000₫",
+    "brand": "Chibba (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB007",
+    "name": "Healit Rectan",
+    "description": [
+      "Hỗ trợ làm lành vùng trĩ, giảm đau",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/healit-rectan-1.jpg",
+      "images/healit-rectan-1.jpg",
+      "images/healit-rectan-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 5 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "35.800₫",
+    "brand": "Healit (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB008",
+    "name": "Forlax vein forte",
+    "description": [
+      "Hỗ trợ điều trị táo bón, làm mềm phân",
+      "Chứa macrogol tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/forlax-vein-forte-1.jpg",
+      "images/forlax-vein-forte-1.jpg",
+      "images/forlax-vein-forte-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "569.500₫",
+    "brand": "Forlax (Pháp)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB009",
+    "name": "Thuốc phám bảo vệ sức khỏe Antri Abipha",
+    "description": [
+      "Hỗ trợ điều trị trĩ, giảm sưng và đau",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/antri-abipha-1.jpg",
+      "images/antri-abipha-1.jpg",
+      "images/antri-abipha-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "133.000₫",
+    "brand": "Abipha (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB010",
+    "name": "Kem Bôi Trĩ Hemoclin Gel 37G",
+    "description": [
+      "Hỗ trợ làm dịu vùng trĩ, giảm ngứa",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/hemoclin-gel-37g-1.jpg",
+      "images/hemoclin-gel-37g-1.jpg",
+      "images/hemoclin-gel-37g-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Tuýp 37g",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "345.000₫",
+    "brand": "Hemoclin (Ý)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB011",
+    "name": "Bột Bổ Sung Chất Xo Infogoss",
+    "description": [
+      "Hỗ trợ điều trị táo bón, cải thiện tiêu hóa",
+      "Chứa chất xơ tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/infogoss-1.jpg",
+      "images/infogoss-1.jpg",
+      "images/infogoss-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 30 gói x 3g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "117.800₫",
+    "brand": "Infogoss (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB012",
+    "name": "Tottri",
+    "description": [
+      "Hỗ trợ điều trị trĩ, giảm đau và sưng",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/tottri-1.jpg",
+      "images/tottri-1.jpg",
+      "images/tottri-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "163.000₫",
+    "brand": "Tottri (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB013",
+    "name": "An Trí Vương Gel 20g",
+    "description": [
+      "Hỗ trợ làm dịu vùng trĩ, giảm ngứa",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/an-tri-vuong-gel-20g-1.jpg",
+      "images/an-tri-vuong-gel-20g-1.jpg",
+      "images/an-tri-vuong-gel-20g-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Tuýp 20g",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "99.000₫",
+    "brand": "An Trí (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB014",
+    "name": "Gel Bôi Trĩ Tmax Tuy/20Gam",
+    "description": [
+      "Hỗ trợ làm dịu vùng trĩ, giảm đau",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/tmax-tuy-20gam-1.jpg",
+      "images/tmax-tuy-20gam-1.jpg",
+      "images/tmax-tuy-20gam-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Tuýp 20g",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "94.500₫",
+    "brand": "Tmax (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB015",
+    "name": "Viên Đặt Trĩ Supposito Emoran Hộp/6 Viên",
+    "description": [
+      "Hỗ trợ điều trị trĩ, giảm sưng và đau",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/emoran-supposito-1.jpg",
+      "images/emoran-supposito-1.jpg",
+      "images/emoran-supposito-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 6 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "180.000₫",
+    "brand": "Emoran (Ý)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB016",
+    "name": "Bột Trộn Trong Contipass",
+    "description": [
+      "Hỗ trợ điều trị táo bón, làm mềm phân",
+      "Chứa chất xơ tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/contipass-1.jpg",
+      "images/contipass-1.jpg",
+      "images/contipass-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 20 gói x 6g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "396.000₫",
+    "brand": "Contipass (Pháp)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB017",
+    "name": "Kem Bôi Trĩ Emoran Tuy/30Ml",
+    "description": [
+      "Hỗ trợ làm dịu vùng trĩ, giảm ngứa",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/emoran-tuy-30ml-1.jpg",
+      "images/emoran-tuy-30ml-1.jpg",
+      "images/emoran-tuy-30ml-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Tuýp 30ml",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "190.000₫",
+    "brand": "Emoran (Ý)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB018",
+    "name": "Kem Bôi Trĩ Hemoclin",
+    "description": [
+      "Hỗ trợ làm dịu vùng trĩ, giảm đau",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/hemoclin-1.jpg",
+      "images/hemoclin-1.jpg",
+      "images/hemoclin-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Tuýp 37g",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "345.000₫",
+    "brand": "Hemoclin (Ý)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB019",
+    "name": "Golistin Soda 45Ml (Vat 5%)",
+    "description": [
+      "Hỗ trợ điều trị táo bón, làm mềm phân",
+      "Chứa natri bicarbonat",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/golistin-soda-45ml-1.jpg",
+      "images/golistin-soda-45ml-1.jpg",
+      "images/golistin-soda-45ml-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Chai 45ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "55.000₫",
+    "brand": "Golistin (Ý)",
+    "quantity": 2000
+  },
+  {
+    "id": "TB020",
+    "name": "Kem Gel Tinh Mạch Diosmin Expert 50Ml",
+    "description": [
+      "Hỗ trợ giảm sưng và đau vùng trĩ",
+      "Chứa diosmin tự nhiên",
+      "Phù hợp cho người bị trĩ"
+    ],
+    "images": [
+      "images/diosmin-expert-50ml-1.jpg",
+      "images/diosmin-expert-50ml-1.jpg",
+      "images/diosmin-expert-50ml-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Tuýp 50ml",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "409.600₫",
+    "brand": "Diosmin (Pháp)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT001",
+    "name": "Nga Phu Khang",
+    "description": [
+      "Hỗ trợ tăng cường miễn dịch, hỗ trợ điều trị ung thư",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nga-phu-khang-1.jpg",
+      "images/nga-phu-khang-1.jpg",
+      "images/nga-phu-khang-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "220.000₫",
+    "brand": "Nga Phu (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT002",
+    "name": "Cumargold Kare",
+    "description": [
+      "Hỗ trợ ngăn ngừa và hỗ trợ điều trị ung thư",
+      "Chứa nghệ nano curcumin",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/cumargold-kare-1.jpg",
+      "images/cumargold-kare-1.jpg",
+      "images/cumargold-kare-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "370.000₫",
+    "brand": "Cumargold (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT003",
+    "name": "An Nữ Đan",
+    "description": [
+      "Hỗ trợ điều trị ung thư vú, tăng cường sức khỏe",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/an-nu-dan-1.jpg",
+      "images/an-nu-dan-1.jpg",
+      "images/an-nu-dan-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "170.000₫",
+    "brand": "An Nữ (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT004",
+    "name": "Ích Chi Huyết Vương",
+    "description": [
+      "Hỗ trợ tăng cường miễn dịch, hỗ trợ điều trị ung thư",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/ich-chi-huyet-vuong-1.jpg",
+      "images/ich-chi-huyet-vuong-1.jpg",
+      "images/ich-chi-huyet-vuong-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "210.000₫",
+    "brand": "Ích Chi (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT005",
+    "name": "Critta Trị Nhũ Hồi Cương PV",
+    "description": [
+      "Hỗ trợ điều trị ung thư vú, giảm triệu chứng",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/critta-tri-nhu-hoi-cuong-pv-1.jpg",
+      "images/critta-tri-nhu-hoi-cuong-pv-1.jpg",
+      "images/critta-tri-nhu-hoi-cuong-pv-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Lọ 1 x 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "56.000₫",
+    "brand": "Critta (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT006",
+    "name": "Kendal fucoidan super plus",
+    "description": [
+      "Hỗ trợ tăng cường miễn dịch, hỗ trợ điều trị ung thư",
+      "Chứa fucoidan tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/kendal-fucoidan-super-plus-1.jpg",
+      "images/kendal-fucoidan-super-plus-1.jpg",
+      "images/kendal-fucoidan-super-plus-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "2.958.000₫",
+    "brand": "Kendal (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT007",
+    "name": "An phu bảo nguyên",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, hỗ trợ điều trị ung thư",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/an-phu-bao-nguyen-1.jpg",
+      "images/an-phu-bao-nguyen-1.jpg",
+      "images/an-phu-bao-nguyen-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "113.050₫",
+    "brand": "An Phu (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "UT008",
+    "name": "Ích Chi Huyết Vương",
+    "description": [
+      "Hỗ trợ tăng cường miễn dịch, hỗ trợ điều trị ung thư",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/ich-chi-huyet-vuong-1.jpg",
+      "images/ich-chi-huyet-vuong-1.jpg",
+      "images/ich-chi-huyet-vuong-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "1.200.000₫",
+    "brand": "Ích Chi (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN001",
+    "name": "Eugica Candy",
+    "description": [
+      "Hỗ trợ giảm đau họng, làm dịu cổ họng",
+      "Chứa chiết xuất thảo dược tự nhiên",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/eugica-candy-1.jpg",
+      "images/eugica-candy-1.jpg",
+      "images/eugica-candy-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Gói 15 viên",
+    "unit": "Gói",
+    "promotion": "",
+    "originalPrice": "15.000₫",
+    "brand": "Eugica (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN002",
+    "name": "Viacol",
+    "description": [
+      "Hỗ trợ giảm đau họng, kháng khuẩn tự nhiên",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/viacol-1.jpg",
+      "images/viacol-1.jpg",
+      "images/viacol-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 5 x 4 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "39.500₫",
+    "brand": "Viacol (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN003",
+    "name": "Eugica Candy Cool Extra",
+    "description": [
+      "Hỗ trợ làm dịu họng, giảm ho nhẹ",
+      "Chứa menthol và thảo dược",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/eugica-candy-cool-extra-1.jpg",
+      "images/eugica-candy-cool-extra-1.jpg",
+      "images/eugica-candy-cool-extra-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Gói 15 viên",
+    "unit": "Gói",
+    "promotion": "",
+    "originalPrice": "20.000₫",
+    "brand": "Eugica (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN004",
+    "name": "Kẹo Fisherman's Friend Hương Bạc Hà",
+    "description": [
+      "Hỗ trợ giảm đau họng, làm thông thoáng đường thở",
+      "Chứa menthol và eucalyptus",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/fishermans-friend-bac-ha-1.jpg",
+      "images/fishermans-friend-bac-ha-1.jpg",
+      "images/fishermans-friend-bac-ha-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Gói 25g",
+    "unit": "Gói",
+    "promotion": "",
+    "originalPrice": "22.100₫",
+    "brand": "Fisherman's Friend (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN005",
+    "name": "Viasol Húng Chanh New",
+    "description": [
+      "Hỗ trợ giảm đau họng, làm dịu cổ họng",
+      "Chứa húng chanh và vitamin C",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/viasol-hung-chanh-new-1.jpg",
+      "images/viasol-hung-chanh-new-1.jpg",
+      "images/viasol-hung-chanh-new-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "49.100₫",
+    "brand": "Viasol (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN006",
+    "name": "Viasol Húng Chanh",
+    "description": [
+      "Hỗ trợ giảm đau họng, tăng cường sức đề kháng",
+      "Chứa húng chanh và thảo dược",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/viasol-hung-chanh-1.jpg",
+      "images/viasol-hung-chanh-1.jpg",
+      "images/viasol-hung-chanh-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "42.100₫",
+    "brand": "Viasol (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN007",
+    "name": "Kẹo Gừng Việt Nam",
+    "description": [
+      "Hỗ trợ giảm buồn nôn, làm dịu dạ dày",
+      "Chứa gừng tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/keo-gung-viet-nam-1.jpg",
+      "images/keo-gung-viet-nam-1.jpg",
+      "images/keo-gung-viet-nam-1.jpg"
+    ],
+    "discount": "30%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "32.400₫",
+    "brand": "Việt Nam (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN008",
+    "name": "Kẹo Ngậm Chanh Sả Genat",
+    "description": [
+      "Hỗ trợ giảm đau họng, làm dịu cổ họng",
+      "Chứa chanh sả và vitamin C",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/keo-ngam-chanh-sa-genat-1.jpg",
+      "images/keo-ngam-chanh-sa-genat-1.jpg",
+      "images/keo-ngam-chanh-sa-genat-1.jpg"
+    ],
+    "discount": "30%",
+    "packaging": "Hộp 100 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "46.200₫",
+    "brand": "Genat (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN009",
+    "name": "Kẹo Thơm Mỡ Zalocol",
+    "description": [
+      "Hỗ trợ giảm đau họng, làm thông thoáng đường thở",
+      "Chứa tinh dầu tự nhiên",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/keo-thom-mo-zalocol-1.jpg",
+      "images/keo-thom-mo-zalocol-1.jpg",
+      "images/keo-thom-mo-zalocol-1.jpg"
+    ],
+    "discount": "30%",
+    "packaging": "Hộp 5 x 4 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "35.000₫",
+    "brand": "Zalocol (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN010",
+    "name": "Viên Ngậm Manukan Cinnamon",
+    "description": [
+      "Hỗ trợ giảm đau họng, kháng khuẩn tự nhiên",
+      "Chứa quế và mật ong Manuka",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/vien-ngam-manukan-cinnamon-1.jpg",
+      "images/vien-ngam-manukan-cinnamon-1.jpg",
+      "images/vien-ngam-manukan-cinnamon-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 2 x 8 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "64.000₫",
+    "brand": "Manukan (New Zealand)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN011",
+    "name": "Kẹo Thơm Mỡ Gezcol",
+    "description": [
+      "Hỗ trợ giảm đau họng, làm dịu cổ họng",
+      "Chứa tinh dầu tự nhiên",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/keo-thom-mo-gezcol-1.jpg",
+      "images/keo-thom-mo-gezcol-1.jpg",
+      "images/keo-thom-mo-gezcol-1.jpg"
+    ],
+    "discount": "30%",
+    "packaging": "Hộp 5 x 4 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "35.000₫",
+    "brand": "Gezcol (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "KN012",
+    "name": "Kẹo Viacol Plus",
+    "description": [
+      "Hỗ trợ giảm đau họng, tăng cường sức đề kháng",
+      "Chứa chiết xuất thảo dược và vitamin C",
+      "Phù hợp cho người lớn và trẻ em"
+    ],
+    "images": [
+      "images/viacol-plus-1.jpg",
+      "images/viacol-plus-1.jpg",
+      "images/viacol-plus-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Tuýp 20 viên",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "40.970₫",
+    "brand": "Viacol (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP001",
+    "name": "Edk500",
+    "description": [
+      "Hỗ trợ làm đẹp da, tăng cường sức khỏe",
+      "Chứa vitamin E và dưỡng chất",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/edk500-1.jpg",
+      "images/edk500-1.jpg",
+      "images/edk500-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "166.000₫",
+    "brand": "Edk (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP002",
+    "name": "Viên uống Chống Lão Hóa Jv",
+    "description": [
+      "Hỗ trợ chống lão hóa, làm đẹp da",
+      "Chứa collagen và vitamin C",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-uong-chong-lao-hoa-jv-1.jpg",
+      "images/vien-uong-chong-lao-hoa-jv-1.jpg",
+      "images/vien-uong-chong-lao-hoa-jv-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "223.000₫",
+    "brand": "Jv (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP003",
+    "name": "Acnacare",
+    "description": [
+      "Hỗ trợ điều trị mụn, làm sạch da",
+      "Chứa kẽm và thảo dược",
+      "Phù hợp cho người có da dầu"
+    ],
+    "images": [
+      "images/acnacare-1.jpg",
+      "images/acnacare-1.jpg",
+      "images/acnacare-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "116.100₫",
+    "brand": "Acnacare (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP004",
+    "name": "Vitabiotics Perfectil Skin, Hair & Nails",
+    "description": [
+      "Hỗ trợ làm đẹp da, tóc và móng",
+      "Chứa vitamin, khoáng chất và chiết xuất thực vật",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/vitabiotics-perfectil-skin-hair-nails-1.jpg",
+      "images/vitabiotics-perfectil-skin-hair-nails-1.jpg",
+      "images/vitabiotics-perfectil-skin-hair-nails-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 2 x 15 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "545.000₫",
+    "brand": "Vitabiotics (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP005",
+    "name": "Nucos White Placenta",
+    "description": [
+      "Hỗ trợ làm trắng da, chống lão hóa",
+      "Chứa nhau thai cừu và collagen",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/nucos-white-placenta-1.jpg",
+      "images/nucos-white-placenta-1.jpg",
+      "images/nucos-white-placenta-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "476.000₫",
+    "brand": "Nucos (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP006",
+    "name": "Nucos Ống Bổ Sung Collagen",
+    "description": [
+      "Hỗ trợ làm đẹp da, tăng độ đàn hồi",
+      "Chứa collagen thủy phân và vitamin C",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nucos-ong-bo-sung-collagen-1.jpg",
+      "images/nucos-ong-bo-sung-collagen-1.jpg",
+      "images/nucos-ong-bo-sung-collagen-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 10 chai x 30ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "700.000₫",
+    "brand": "Nucos (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP007",
+    "name": "Mega Beauty Collagen",
+    "description": [
+      "Hỗ trợ làm đẹp da, tăng cường sức khỏe",
+      "Chứa collagen và vitamin",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/mega-beauty-collagen-1.jpg",
+      "images/mega-beauty-collagen-1.jpg",
+      "images/mega-beauty-collagen-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 80 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "720.000₫",
+    "brand": "Mega (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP008",
+    "name": "Viên uống chống lão hóa Sắc Ngọc Khang",
+    "description": [
+      "Hỗ trợ chống lão hóa, làm đẹp da",
+      "Chứa thảo dược và vitamin E",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/vien-uong-chong-lao-hoa-sac-ngoc-khang-1.jpg",
+      "images/vien-uong-chong-lao-hoa-sac-ngoc-khang-1.jpg",
+      "images/vien-uong-chong-lao-hoa-sac-ngoc-khang-1.jpg"
+    ],
+    "discount": "35%",
+    "packaging": "Hộp 10 gói x 12g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "479.200₫",
+    "brand": "Sắc Ngọc Khang (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP009",
+    "name": "Thạch Collagen Canh Young Nhãn Sâm Mối",
+    "description": [
+      "Hỗ trợ làm đẹp da, tăng độ ẩm",
+      "Chứa collagen và nhãn sâm",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/thach-collagen-canh-young-nhan-sam-moi-1.jpg",
+      "images/thach-collagen-canh-young-nhan-sam-moi-1.jpg",
+      "images/thach-collagen-canh-young-nhan-sam-moi-1.jpg"
+    ],
+    "discount": "35%",
+    "packaging": "Hộp 10 gói x 12g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "105.300₫",
+    "brand": "Canh Young (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP010",
+    "name": "Hauora Maxi White",
+    "description": [
+      "Hỗ trợ làm trắng da, chống lão hóa",
+      "Chứa glutathione và vitamin C",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/hauora-maxi-white-1.jpg",
+      "images/hauora-maxi-white-1.jpg",
+      "images/hauora-maxi-white-1.jpg"
+    ],
+    "discount": "40%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "285.000₫",
+    "brand": "Hauora (New Zealand)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP011",
+    "name": "Nucos Spa 13.500",
+    "description": [
+      "Hỗ trợ làm đẹp da, thư giãn tinh thần",
+      "Chứa collagen và tinh chất spa",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/nucos-spa-13-500-1.jpg",
+      "images/nucos-spa-13-500-1.jpg",
+      "images/nucos-spa-13-500-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 10 chai x 50ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "1.827.500₫",
+    "brand": "Nucos (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP012",
+    "name": "Qik Hair For Women",
+    "description": [
+      "Hỗ trợ mọc tóc, giảm rụng tóc",
+      "Chứa biotin và kẽm",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/qik-hair-for-women-1.jpg",
+      "images/qik-hair-for-women-1.jpg",
+      "images/qik-hair-for-women-1.jpg"
+    ],
+    "discount": "5%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "275.000₫",
+    "brand": "Qik (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP013",
+    "name": "Sắc Ngọc Khang",
+    "description": [
+      "Hỗ trợ làm đẹp da, chống lão hóa",
+      "Chứa thảo dược và vitamin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/sac-ngoc-khang-1.jpg",
+      "images/sac-ngoc-khang-1.jpg",
+      "images/sac-ngoc-khang-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "207.000₫",
+    "brand": "Sắc Ngọc Khang (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP014",
+    "name": "Thạch Collagen Canh Young",
+    "description": [
+      "Hỗ trợ làm đẹp da, tăng độ đàn hồi",
+      "Chứa collagen và vitamin C",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/thach-collagen-canh-young-1.jpg",
+      "images/thach-collagen-canh-young-1.jpg",
+      "images/thach-collagen-canh-young-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 10 gói x 12g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "189.000₫",
+    "brand": "Canh Young (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP015",
+    "name": "L-Cystine 500mg Korea",
+    "description": [
+      "Hỗ trợ làm đẹp tóc, móng và da",
+      "Chứa L-Cystine và vitamin B",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/l-cystine-500mg-korea-1.jpg",
+      "images/l-cystine-500mg-korea-1.jpg",
+      "images/l-cystine-500mg-korea-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 12 x 5 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "97.500₫",
+    "brand": "Korea (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP016",
+    "name": "Maxxhair",
+    "description": [
+      "Hỗ trợ mọc tóc, giảm rụng tóc",
+      "Chứa biotin, kẽm và L-Cystine",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/maxxhair-1.jpg",
+      "images/maxxhair-1.jpg",
+      "images/maxxhair-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "200.000₫",
+    "brand": "Maxxhair (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP017",
+    "name": "Spathion White Slim",
+    "description": [
+      "Hỗ trợ giảm cân, làm đẹp da",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/spathion-white-slim-1.jpg",
+      "images/spathion-white-slim-1.jpg",
+      "images/spathion-white-slim-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "540.000₫",
+    "brand": "Spathion (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP018",
+    "name": "Mega Slim",
+    "description": [
+      "Hỗ trợ giảm cân, cải thiện vóc dáng",
+      "Chứa L-Carnitine và chiết xuất trà xanh",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/mega-slim-1.jpg",
+      "images/mega-slim-1.jpg",
+      "images/mega-slim-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "856.000₫",
+    "brand": "Mega (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP019",
+    "name": "Sắc Ngọc Khang +",
+    "description": [
+      "Hỗ trợ làm đẹp da, tăng cường sức đề kháng",
+      "Chứa thảo dược và vitamin",
+      "Phù hợp cho người lớn tuổi"
+    ],
+    "images": [
+      "images/sac-ngoc-khang-plus-1.jpg",
+      "images/sac-ngoc-khang-plus-1.jpg",
+      "images/sac-ngoc-khang-plus-1.jpg"
+    ],
+    "discount": "8%",
+    "packaging": "Chai 1 x 60 viên",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "432.400₫",
+    "brand": "Sắc Ngọc Khang (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP020",
+    "name": "Springleaf Inner Beauty Collagen 6-In-1",
+    "description": [
+      "Hỗ trợ làm đẹp da, tóc và móng",
+      "Chứa collagen, vitamin và khoáng chất",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/springleaf-inner-beauty-collagen-6-in-1-1.jpg",
+      "images/springleaf-inner-beauty-collagen-6-in-1-1.jpg",
+      "images/springleaf-inner-beauty-collagen-6-in-1-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "472.000₫",
+    "brand": "Springleaf (Thái Lan)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL001",
+    "name": "Thuốc phám bảo vệ sức khỏe Viagra Biotic",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/viagra-biotic-1.jpg",
+      "images/viagra-biotic-1.jpg",
+      "images/viagra-biotic-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "173.000₫",
+    "brand": "Viagra (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL002",
+    "name": "Thuốc phám bảo vệ sức khỏe Angelina Gold",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nữ",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/angelina-gold-1.jpg",
+      "images/angelina-gold-1.jpg",
+      "images/angelina-gold-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "720.000₫",
+    "brand": "Angelina (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL003",
+    "name": "Welson for men",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa nhân sâm và kẽm",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/welson-for-men-1.jpg",
+      "images/welson-for-men-1.jpg",
+      "images/welson-for-men-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "596.250₫",
+    "brand": "Welson (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL004",
+    "name": "Bào Xuất Gold",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý, cải thiện sức khỏe",
+      "Chứa đông trùng hạ thảo",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/bao-xuat-gold-1.jpg",
+      "images/bao-xuat-gold-1.jpg",
+      "images/bao-xuat-gold-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "120.000₫",
+    "brand": "Bào Xuất (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL005",
+    "name": "Blackmores Evening Primrose Oil",
+    "description": [
+      "Hỗ trợ cân bằng nội tiết, tăng cường sức khỏe",
+      "Chứa dầu hoa anh thảo",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/blackmores-evening-primrose-oil-1.jpg",
+      "images/blackmores-evening-primrose-oil-1.jpg",
+      "images/blackmores-evening-primrose-oil-1.jpg"
+    ],
+    "discount": "30%",
+    "packaging": "Lọ 190 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "678.300₫",
+    "brand": "Blackmores (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL006",
+    "name": "Ich Thân Vương",
+    "description": [
+      "Hỗ trợ bổ thận, tăng cường sinh lực",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/ich-than-vuong-1.jpg",
+      "images/ich-than-vuong-1.jpg",
+      "images/ich-than-vuong-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "210.000₫",
+    "brand": "Ich Thân (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL007",
+    "name": "Vương Bảo",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa nhân sâm và kẽm",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/vuong-bao-1.jpg",
+      "images/vuong-bao-1.jpg",
+      "images/vuong-bao-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "485.000₫",
+    "brand": "Vương Bảo (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL008",
+    "name": "Mega Optimum Dim Bioperine",
+    "description": [
+      "Hỗ trợ cân bằng nội tiết, tăng cường sức khỏe",
+      "Chứa DIM và Bioperine",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/mega-optimum-dim-bioperine-1.jpg",
+      "images/mega-optimum-dim-bioperine-1.jpg",
+      "images/mega-optimum-dim-bioperine-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "793.000₫",
+    "brand": "Mega (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL009",
+    "name": "Viên uống Tinh Chất Hầu Tử Orthiro",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa tinh chất hầu tử",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/tinh-chat-hau-tu-orthiro-1.jpg",
+      "images/tinh-chat-hau-tu-orthiro-1.jpg",
+      "images/tinh-chat-hau-tu-orthiro-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "363.000₫",
+    "brand": "Orthiro (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL010",
+    "name": "Vitabiotics Menopace",
+    "description": [
+      "Hỗ trợ cân bằng nội tiết, giảm triệu chứng mãn kinh",
+      "Chứa vitamin và khoáng chất",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/vitabiotics-menopace-1.jpg",
+      "images/vitabiotics-menopace-1.jpg",
+      "images/vitabiotics-menopace-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 15 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "341.000₫",
+    "brand": "Vitabiotics (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL011",
+    "name": "Marilyn",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nữ",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/marilyn-1.jpg",
+      "images/marilyn-1.jpg",
+      "images/marilyn-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "200.000₫",
+    "brand": "Marilyn (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL012",
+    "name": "Thuốc phám bảo vệ sức khỏe Alps Men's Ginseng",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa nhân sâm",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/alps-mens-ginseng-1.jpg",
+      "images/alps-mens-ginseng-1.jpg",
+      "images/alps-mens-ginseng-1.jpg"
+    ],
+    "discount": "25%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "1.400.000₫",
+    "brand": "Alps (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL013",
+    "name": "Welson for women",
+    "description": [
+      "Hỗ trợ cân bằng nội tiết, tăng cường sức khỏe",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/welson-for-women-1.jpg",
+      "images/welson-for-women-1.jpg",
+      "images/welson-for-women-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "596.250₫",
+    "brand": "Welson (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL014",
+    "name": "Angela Gold",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nữ",
+      "Chứa chiết xuất tự nhiên",
+      "Phù hợp cho nữ giới"
+    ],
+    "images": [
+      "images/angela-gold-1.jpg",
+      "images/angela-gold-1.jpg",
+      "images/angela-gold-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "370.000₫",
+    "brand": "Angela (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL015",
+    "name": "Rocket 1h",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam tức thì",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/rocket-1h-1.jpg",
+      "images/rocket-1h-1.jpg",
+      "images/rocket-1h-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 6 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "300.000₫",
+    "brand": "Rocket (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL016",
+    "name": "Vuong Ngoc Dan",
+    "description": [
+      "Hỗ trợ bổ thận, tăng cường sinh lực",
+      "Chứa nhân sâm và thảo dược",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/vuong-ngoc-dan-1.jpg",
+      "images/vuong-ngoc-dan-1.jpg",
+      "images/vuong-ngoc-dan-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 1 x 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "578.000₫",
+    "brand": "Vương Ngọc (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL017",
+    "name": "Kingup",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa nhân sâm và kẽm",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/kingup-1.jpg",
+      "images/kingup-1.jpg",
+      "images/kingup-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "750.000₫",
+    "brand": "Kingup (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL018",
+    "name": "Kim Dan Khang",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa thảo dược tự nhiên",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/kim-dan-khang-1.jpg",
+      "images/kim-dan-khang-1.jpg",
+      "images/kim-dan-khang-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "160.000₫",
+    "brand": "Kim Dan (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL019",
+    "name": "Stonebye",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa chiết xuất thảo dược",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/stonebye-1.jpg",
+      "images/stonebye-1.jpg",
+      "images/stonebye-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 3 x 15 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "250.000₫",
+    "brand": "Stonebye (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SL020",
+    "name": "Alps Men's Ginseng",
+    "description": [
+      "Hỗ trợ tăng cường sinh lý nam, bổ thận",
+      "Chứa nhân sâm Hàn Quốc",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/alps-mens-ginseng-1.jpg",
+      "images/alps-mens-ginseng-1.jpg",
+      "images/alps-mens-ginseng-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "750.000₫",
+    "brand": "Alps (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST001",
+    "name": "Thuốc phám bảo vệ sức khỏe Golden Dila",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, nâng cao thể lực",
+      "Chứa sâm và thảo dược tự nhiên",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/golden-dila-1.jpg",
+      "images/golden-dila-1.jpg",
+      "images/golden-dila-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 20 gói x 5g",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "270.000₫",
+    "brand": "Golden Dila (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST002",
+    "name": "Tenken",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, cải thiện sinh lực",
+      "Chứa nhân sâm và đông trùng hạ thảo",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/tenken-1.jpg",
+      "images/tenken-1.jpg",
+      "images/tenken-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "317.000₫",
+    "brand": "Tenken (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST003",
+    "name": "Ích Mẫu Lợi Nhi",
+    "description": [
+      "Hỗ trợ sức khỏe phụ nữ sau sinh",
+      "Chứa ích mẫu và thảo dược",
+      "Phù hợp cho phụ nữ"
+    ],
+    "images": [
+      "images/ich-mau-loi-nhi-1.jpg",
+      "images/ich-mau-loi-nhi-1.jpg",
+      "images/ich-mau-loi-nhi-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 2 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "245.000₫",
+    "brand": "Ích Mẫu (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST004",
+    "name": "Viên Uống Tăng Đề Kháng Seedcoms Đông Trùng Hạ Thảo",
+    "description": [
+      "Hỗ trợ tăng cường đề kháng, cải thiện sức khỏe",
+      "Chứa đông trùng hạ thảo",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/seedcoms-dong-trung-ha-thao-1.jpg",
+      "images/seedcoms-dong-trung-ha-thao-1.jpg",
+      "images/seedcoms-dong-trung-ha-thao-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Gói 30 viên",
+    "unit": "Gói",
+    "promotion": "",
+    "originalPrice": "234.000₫",
+    "brand": "Seedcoms (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST005",
+    "name": "Thuốc phám bảo vệ sức khỏe Red Reishi Mushroom (Ganoderma)...",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, hỗ trợ gan",
+      "Chứa nấm linh chi đỏ",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/red-reishi-mushroom-1.jpg",
+      "images/red-reishi-mushroom-1.jpg",
+      "images/red-reishi-mushroom-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 x 240 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "810.000₫",
+    "brand": "Reishi (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST006",
+    "name": "Nước sâm củ nhân Quốc Achimmdang BIOK Korea",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, giải nhiệt",
+      "Chứa nhân sâm và thảo dược",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nuoc-sam-cu-nhan-biok-korea-1.jpg",
+      "images/nuoc-sam-cu-nhan-biok-korea-1.jpg",
+      "images/nuoc-sam-cu-nhan-biok-korea-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 10 chai x 20ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "400.000₫",
+    "brand": "Biok Korea (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST007",
+    "name": "Nước sâm củ nhân Quốc Achimmdang BIOK Korea",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, giải nhiệt",
+      "Chứa nhân sâm và thảo dược",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nuoc-sam-cu-nhan-biok-korea-1.jpg",
+      "images/nuoc-sam-cu-nhan-biok-korea-1.jpg",
+      "images/nuoc-sam-cu-nhan-biok-korea-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Chai 120ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "40.000₫",
+    "brand": "Biok Korea (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST008",
+    "name": "Nước đông trùng hạ thảo BIOK Dongchughacho Plus",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, cải thiện thể lực",
+      "Chứa đông trùng hạ thảo",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nuoc-dong-trung-ha-thao-biok-1.jpg",
+      "images/nuoc-dong-trung-ha-thao-biok-1.jpg",
+      "images/nuoc-dong-trung-ha-thao-biok-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 10 chai x 100ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "120.000₫",
+    "brand": "Biok (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST009",
+    "name": "Cordyceps Calli USA Động Trùng Hạ Thảo",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, cải thiện sinh lực",
+      "Chứa đông trùng hạ thảo",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/cordyceps-calli-usa-1.jpg",
+      "images/cordyceps-calli-usa-1.jpg",
+      "images/cordyceps-calli-usa-1.jpg"
+    ],
+    "discount": "50%",
+    "packaging": "Hộp 1 x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "177.000₫",
+    "brand": "Calli USA (Mỹ)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST010",
+    "name": "Nước hồng sâm Hongsamjin Plus",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, giảm mệt mỏi",
+      "Chứa hồng sâm Hàn Quốc",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/nuoc-hong-sam-hongsamjin-plus-1.jpg",
+      "images/nuoc-hong-sam-hongsamjin-plus-1.jpg",
+      "images/nuoc-hong-sam-hongsamjin-plus-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 15 gói x 70ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "490.000₫",
+    "brand": "Hongsamjin (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST011",
+    "name": "Viên uống Black Bull",
+    "description": [
+      "Hỗ trợ tăng cường sinh lực, cải thiện sức khỏe",
+      "Chứa nhân sâm và thảo dược",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/vien-uong-black-bull-1.jpg",
+      "images/vien-uong-black-bull-1.jpg",
+      "images/vien-uong-black-bull-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 6 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "247.500₫",
+    "brand": "Black Bull (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST012",
+    "name": "Cordyceps",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, cải thiện thể lực",
+      "Chứa đông trùng hạ thảo",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/cordyceps-1.jpg",
+      "images/cordyceps-1.jpg",
+      "images/cordyceps-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 20 gói x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "280.500₫",
+    "brand": "Cordyceps (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST013",
+    "name": "Pure cordyceps",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, hỗ trợ miễn dịch",
+      "Chứa đông trùng hạ thảo tinh khiết",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/pure-cordyceps-1.jpg",
+      "images/pure-cordyceps-1.jpg",
+      "images/pure-cordyceps-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "550.000₫",
+    "brand": "Pure (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST014",
+    "name": "Thuốc phám bổ sung Hồng Sâm C&Đ Đông Trùng Hạ Thảo Everystick Ex",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, cải thiện sinh lực",
+      "Chứa hồng sâm và đông trùng",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/hong-sam-cd-everystick-ex-1.jpg",
+      "images/hong-sam-cd-everystick-ex-1.jpg",
+      "images/hong-sam-cd-everystick-ex-1.jpg"
+    ],
+    "discount": "20%",
+    "packaging": "Hộp 30 gói x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "1.200.000₫",
+    "brand": "C&Đ (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST015",
+    "name": "Xích Linh Chi",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, hỗ trợ gan",
+      "Chứa nấm linh chi đỏ",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/xich-linh-chi-1.jpg",
+      "images/xich-linh-chi-1.jpg",
+      "images/xich-linh-chi-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 1 gói x 60 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "1.714.000₫",
+    "brand": "Xích Linh (Trung Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST016",
+    "name": "Tenken Động Trùng Hạ Thảo",
+    "description": [
+      "Hỗ trợ tăng cường sinh lực, cải thiện sức khỏe",
+      "Chứa đông trùng hạ thảo",
+      "Phù hợp cho nam giới"
+    ],
+    "images": [
+      "images/tenken-dong-trung-ha-thao-1.jpg",
+      "images/tenken-dong-trung-ha-thao-1.jpg",
+      "images/tenken-dong-trung-ha-thao-1.jpg"
+    ],
+    "discount": "10%",
+    "packaging": "Hộp 6 x 10 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "1.867.000₫",
+    "brand": "Tenken (Hàn Quốc)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST017",
+    "name": "Thuần Linh Chi",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, hỗ trợ gan",
+      "Chứa nấm linh chi tinh khiết",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/thuan-linh-chi-1.jpg",
+      "images/thuan-linh-chi-1.jpg",
+      "images/thuan-linh-chi-1.jpg"
+    ],
+    "discount": "15%",
+    "packaging": "Hộp 5 gói x 2 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "275.000₫",
+    "brand": "Thuan Linh (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "ST018",
+    "name": "Thuần Linh Chi Nissan",
+    "description": [
+      "Hỗ trợ tăng cường sức khỏe, hỗ trợ gan",
+      "Chứa nấm linh chi Nhật Bản",
+      "Phù hợp cho người lớn"
+    ],
+    "images": [
+      "images/thuan-linh-chi-nissan-1.jpg",
+      "images/thuan-linh-chi-nissan-1.jpg",
+      "images/thuan-linh-chi-nissan-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 50 gói x 2 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "2.744.000₫",
+    "brand": "Nissan (Nhật Bản)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP001",
+    "name": "Bocalex Multi tuýp 20 viên",
+    "description": [],
+    "images": [
+      "images/bocalex-multi-t-20v-mac-dinh-2.jpg",
+      "images/bocalex-multi-t-20v-mac-dinh-2.jpg",
+      "images/bocalex-multi-t-20v-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Tuýp 20 viên",
+    "unit": "Tuýp",
+    "promotion": "",
+    "originalPrice": "28.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP002",
+    "name": "Sữa Ong Chúa chai 30 viên",
+    "description": [],
+    "images": [
+      "images/sua-ong-chua-vitamin-c-3-2.jpg",
+      "images/sua-ong-chua-vitamin-c-3-2.jpg",
+      "images/sua-ong-chua-vitamin-c-3-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 30 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "9.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP003",
+    "name": "Lineabon K2 + D3 chai 10ml",
+    "description": [ ],
+    "images": [
+      "images/lineabon-k2-d3-10ml-1-2.jpg",
+      "images/lineabon-k2-d3-10ml-1-2.jpg",
+      "images/lineabon-k2-d3-10ml-1-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 10ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "295.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP004",
+    "name": "Vitabiotics Feroglobin B12 hộp 30 viên",
+    "description": [
+      "Bổ sung sắt, acid folic và vitamin B12 cho người thiếu máu",
+      "Hỗ trợ phụ nữ mang thai, người sau phẫu thuật",
+      "Thành phần: Sắt, Vitamin B12, Acid Folic, Vitamin C và các vitamin nhóm B"
+    ],
+    "images": [
+      "images/vitabiotics-feroglobin-b12-hop-30vien-2-1.jpg",
+      "images/vitabiotics-feroglobin-b12-hop-30vien-2-1.jpg",
+      "images/vitabiotics-feroglobin-b12-hop-30vien-2-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "363.000₫",
+    "brand": "Vitabiotics (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP005",
+    "name": "Vitabiotics Osteocare hộp 30 viên",
+    "description": [
+ ],
+    "images": [
+      "images/vitabiotics-osteocare-hop-30vien-1-2.jpg",
+      "images/vitabiotics-osteocare-hop-30vien-1-2.jpg",
+      "images/vitabiotics-osteocare-hop-30vien-1-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Hộp 30 viên",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "258.000₫",
+    "brand": "Vitabiotics (Anh)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP006",
+    "name": "Thực phẩm bảo vệ sức khỏe Vitamin E Đỏ Kawa hộp 30 viên",
+    "description": [
+   ],
+    "images": [
+      "images/vitamin-e-do-kawa-han-che-lao-hoa-lam-dep-da-mac-dinh-2.jpg",
+      "images/vitamin-e-do-kawa-han-che-lao-hoa-lam-dep-da-mac-dinh-2.jpg",
+      "images/vitamin-e-do-kawa-han-che-lao-hoa-lam-dep-da-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Chai 75ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "135.200₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP007",
+    "name": "Cốm Unikids Kẽm chai 50g",
+    "description": [],
+    "images": [
+      "images/com-unikids-kem-c-50g-2.jpg",
+      "images/com-unikids-kem-c-50g-2.jpg",
+      "images/com-unikids-kem-c-50g-2.jpg"
+    ],
+    "discount": "",
+    "packaging": "Chai 50g",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "20.000₫",
+    "brand": "",
+    "quantity": 2000
+  },
+  {
+    "id": "SP008",
+    "name": "Thực phẩm bảo vệ sức khỏe Bioamicus Vitamin K2 & D3 hộp 10ml",
+    "description": [],
+    "images": [
+      "images/bioamicus-vitamin-k2-d3-ho-tro-tot-suc-khoe-xuong-rang-cho-be-10ml-1-7.jpg",
+      "images/bioamicus-vitamin-k2-d3-ho-tro-tot-suc-khoe-xuong-rang-cho-be-10ml-1-7.jpg",
+      "images/bioamicus-vitamin-k2-d3-ho-tro-tot-suc-khoe-xuong-rang-cho-be-10ml-1-7.jpg"
+    ],
+    "discount": "-10%",
+    "packaging": "1 chai x 10 ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "330.000₫",
+    "brand": "Blackmores (Úc)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP009",
+    "name": "Thực phẩm bảo vệ sức khỏe Siro Ăn Ngon Hapi Gold Baby Plus hộp 30 gói",
+    "description": [],
+    "images": [
+      "images/siro-an-ngon-hapi-gold-baby-plus-hop-30-goi-mac-dinh-2.jpg",
+      "images/siro-an-ngon-hapi-gold-baby-plus-hop-30-goi-mac-dinh-2.jpg",
+      "images/siro-an-ngon-hapi-gold-baby-plus-hop-30-goi-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "30 gói  x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "365.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP010",
+    "name": "Thực phẩm bảo vệ sức khỏe Menacal hộp 60 viên",
+    "description": [],
+    "images": [
+      "images/thuc-pham-bao-ve-suc-khoe-menacal-1-1.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-menacal-1-1.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-menacal-1-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "4 vỉ x 15 viên",
+    "unit": "Vỉ",
+    "promotion": "",
+    "originalPrice": "360.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP011",
+    "name": "Thực phẩm bảo vệ sức khỏe Feramax Bc hộp 20 ống x 10ml",
+    "description": [],
+    "images": [
+      "images/thuc-pham-bao-ve-suc-khoe-feramax-bc-ong-10ml-hop-20-1-1.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-feramax-bc-ong-10ml-hop-20-1-1.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-feramax-bc-ong-10ml-hop-20-1-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "20 ống x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "119.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP012",
+    "name": "Thực phẩm bảo vệ sức khỏe Biolizin hộp 50ml",
+    "description": [],
+    "images": [
+      "images/thuc-pham-bao-ve-suc-khoe-biolizin-hop-50ml-mac-dinh-2.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-biolizin-hop-50ml-mac-dinh-2.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-biolizin-hop-50ml-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 chai x 50ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "295.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP013",
+    "name": "Thực phẩm bảo vệ sức khỏe Canxi Mk7 For Kid Hộp 20 ống",
+    "description": [],
+    "images": [
+      "images/thuc-pham-bao-ve-suc-khoe-canxi-mk7-for-kid-hop-20-ong-mac-dinh-2-1.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-canxi-mk7-for-kid-hop-20-ong-mac-dinh-2-1.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-canxi-mk7-for-kid-hop-20-ong-mac-dinh-2-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "20 ống x 10ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "103.200₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP014",
+    "name": "Thực phẩm bảo vệ sức khỏe Ferrolip Baby chai 30ml",
+    "description": [],
+    "images": [
+      "images/thuc-pham-bao-ve-suc-khoe-ferrolip-baby-hop-30ml-2-7.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-ferrolip-baby-hop-30ml-2-7.jpg",
+      "images/thuc-pham-bao-ve-suc-khoe-ferrolip-baby-hop-30ml-2-7.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1chai x 30ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "295.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP015",
+    "name": "Siro Ăn Ngon Ngủ Ngon Bobbaby Gold hộp 20 ống x 10ml",
+    "description": [],
+    "images": [
+      "images/siro-an-ngu-ngon-bobbaby-gold-ho-tro-tang-cuong-tieu-hoa-ngu-ngon-hop-20-ong-x-10ml-1.jpg",
+      "images/siro-an-ngu-ngon-bobbaby-gold-ho-tro-tang-cuong-tieu-hoa-ngu-ngon-hop-20-ong-x-10ml-1.jpg",
+      "images/siro-an-ngu-ngon-bobbaby-gold-ho-tro-tang-cuong-tieu-hoa-ngu-ngon-hop-20-ong-x-10ml-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "20 ống x 10ml",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "126.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP016",
+    "name": "Vitabiotics Wellbaby 150Ml",
+    "description": [ ],
+    "images": [
+      "images/siro-vitabiotics-wellbaby-chai-150ml-mac-dinh-2.jpg",
+      "images/siro-vitabiotics-wellbaby-chai-150ml-mac-dinh-2.jpg",
+      "images/siro-vitabiotics-wellbaby-chai-150ml-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 x 75ml",
+    "unit": "Chai",
+    "promotion": "Mua 2 tặng 1",
+    "originalPrice": "100.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+    {
+    "id": "SP017",
+    "name": "Mega We Care Nat B hộp 30 viên",
+    "description": [],
+    "images": [
+      "images/nat-b-h-30v-2.jpg",
+      "images/nat-b-h-30v-2.jpg",
+      "images/nat-b-h-30v-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "3 vỉ x 10 viên",
+    "unit": "Vỉ",
+    "promotion": "",
+    "originalPrice": "179.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP018",
+    "name": "Megawe Care Nat C 1000Mg chai 30 viên",
+    "description": [ ],
+    "images": [
+      "images/thuoc-bo-sung-vitamin-c-nat-c-1000-30-vien-1-638705432797940127.jpg",
+      "images/thuoc-bo-sung-vitamin-c-nat-c-1000-30-vien-1-638705432797940127.jpg",
+      "images/thuoc-bo-sung-vitamin-c-nat-c-1000-30-vien-1-638705432797940127.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "Lọ 30 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "140.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  },
+  {
+    "id": "SP019",
+    "name": "Mega Activ Whole Food Multivitamin hộp 60 viên",
+    "description": [ ],
+    "images": [
+      "images/vien-uong-bo-sung-vitamin-va-khoang-chat-megaactiv-2-1.jpg",
+      "images/vien-uong-bo-sung-vitamin-va-khoang-chat-megaactiv-2-1.jpg",
+      "images/vien-uong-bo-sung-vitamin-va-khoang-chat-megaactiv-2-1.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 lọ 60 viên",
+    "unit": "Lọ",
+    "promotion": "",
+    "originalPrice": "466.000₫",
+    "brand": "pigeon",
+    "quantity": 2000
+  },
+  {
+    "id": "SP020",
+    "name": "Vitabiotics Osteocare Liquid 200Ml",
+    "description": [],
+    "images": [
+      "images/vitabiotics-osteocare-liquid-200ml-mac-dinh-2.jpg",
+      "images/vitabiotics-osteocare-liquid-200ml-mac-dinh-2.jpg",
+      "images/vitabiotics-osteocare-liquid-200ml-mac-dinh-2.jpg"
+    ],
+    "discount": "0%",
+    "packaging": "1 chai x 200ml",
+    "unit": "Chai",
+    "promotion": "",
+    "originalPrice": "312.000₫",
+    "brand": "Merap Group (Việt Nam)",
+    "quantity": 2000
+  }
+]

@@ -62,7 +62,7 @@ function renderProductCards({
 
       const countElement = document.getElementById(countproduct);
       if (countElement) {
-        countElement.textContent = `${products.length} Sản phẩm chăm sóc trẻ em`;
+        countElement.textContent = `${products.length} Sản phẩm`;
       }
     } catch (error) {
       console.error("Lỗi tải dữ liệu:", error);

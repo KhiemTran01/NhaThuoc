@@ -117,9 +117,9 @@ function renderCarouselProductCards({
 
         card.innerHTML = `
           <a href="product-detail.html?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
-            <img src="${
-              images?.[0] || ""
-            }" class="card-img-top" alt="${name}" />
+            <img style="width: 148px; height: 148px;" src="${
+              images && images.length > 0 ? images[0] : ""
+            }" class="card-img-top" alt="${name}"/>
             <div class="card-body">
               <span class="badge bg-primary position-absolute giam-gia ${
                 discountPercent === 0 ? "d-none" : ""

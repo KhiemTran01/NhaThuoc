@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pigeon",
+    "img": "images/pigeon-124x64.jpg",
+    "alt": "images/pigeon-124x64.jpg"
+  },
+  {
+    "id": "an-phuc",
+    "img": "images/an-phuc-124x64.jpg",
+    "alt": "images/an-phuc-124x64.jpg"
+  },
+  {
+    "id": "bayer",
+    "img": "images/bayer-248x128.jpg",
+    "alt": "images/bayer-248x128.jpg"
+  },
+  {
+    "id": "bisou",
+    "img": "images/bisou-124x64.jpg",
+    "alt": "images/bisou-124x64.jpg"
+  },
+  {
+    "id": "cetaphil",
+    "img": "images/cetaphil-248x128.jpg",
+    "alt": "images/cetaphil-248x128.jpg"
+  },
+  {
+    "id": "dizigone",
+    "img": "images/dizigone-124x64.jpg",
+    "alt": "images/dizigone-124x64.jpg"
+  },
+  {
+    "id": "lipzo",
+    "img": "images/logo-lipzo-124x64.jpg",
+    "alt": "images/logo-lipzo-124x64.jpg"
+  },
+  {
+    "id": "NamDuoc",
+    "img": "images/NamDuoc-124x64.jpg",
+    "alt": "images/NamDuoc-124x64.jpg"
+  },
+  {
+    "id": "sunderm",
+    "img": "images/sunderm-124x64.jpg",
+    "alt": "images/sunderm-124x64.jpg"
+  },
+  {
+    "id": "thcare",
+    "img": "images/th-124x64.jpg",
+    "alt": "images/th-124x64.jpg"
+  },
+  {
+    "id": "unicharm",
+    "img": "images/unicharm-124x64.jpg",
+    "alt": "images/unicharm-124x64.jpg"
+  },
+  {
+    "id": "hoa-linh",
+    "img": "images/hoa-linh-124x64.jpg",
+    "alt": "images/hoa-linh-124x64.jpg"
+  },
+  {
+    "id": "Starmed",
+    "img": "images/Starmed-124x64.jpg",
+    "alt": "images/Starmed-124x64.jpg"
+  },
+  {
+    "id": "aveeno",
+    "img": "images/aveeno-248x128.jpg",
+    "alt": "images/aveeno-248x128.jpg"
+  },
+  {
+    "id": "dau-tram-cung-dinh",
+    "img": "images/dau-tram-cung-dinh-248x128.jpg",
+    "alt": "images/dau-tram-cung-dinh-248x128.jpg"
+  },
+  {
+    "id": "lactacyd",
+    "img": "images/lactacyd-124x64.jpg",
+    "alt": "images/lactacyd-124x64.jpg"
+  },
+  {
+    "id": "kissy",
+    "img": "images/kissy.jpg",
+    "alt": "images/kissy.jpg"
+  }
+]
