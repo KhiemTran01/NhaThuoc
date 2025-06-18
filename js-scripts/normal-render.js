@@ -6,6 +6,7 @@ function renderCarouselProductCards({
   priceMin = null,
   priceMax = null,
   sortOrder = "asc",
+  productDetail,
 }) {
   const batchSize = 5;
   let products = [];
@@ -116,7 +117,7 @@ function renderCarouselProductCards({
         card.style.height = "25rem";
 
         card.innerHTML = `
-          <a href="product-detail.html?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
+          <a href="${productDetail}?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
             <img style="width: 148px; height: 148px;" src="${
               images && images.length > 0 ? images[0] : ""
             }" class="card-img-top" alt="${name}"/>

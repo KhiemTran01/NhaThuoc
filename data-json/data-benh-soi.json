@@ -115,30 +115,6 @@
     "quantity": 2000
   },
   {
-    "id": "CSTE011",
-    "name": "Kem Bepanthen Balm ngừa hăm tã, kích ứng da cho bé tuýp 30g",
-    "description": [
-      "Kem Bepanthen Balm là một sản phẩm được thiết kế để ngăn ngừa và điều trị hăm tã, kích ứng da do da của bé bị ướt, nhờn hoặc cọ sát liên tục. Đây là một sản phẩm chất lượng được nhiều bà mẹ tin dùng và đánh giá cao.",
-      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
-      "Thay bàn chải ít nhất 3 tháng/lần.",
-      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
-      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
-      "Bảo quản Nơi khô ráo."
-    ],
-    "images": [
-      "images/bepanthen-balm-30g-0-638617483783248331.jpg",
-      "images/bepanthen-balm-30g-1-638617479246406810.jpg",
-      "images/bepanthen-balm-30g-2-638617479255528658.jpg"
-    ],
-    "discount": "-5%",
-    "packaging": "1 tuýp x 30g",
-    "unit": "Tube",
-    "promotion": "",
-    "originalPrice": "72.000₫",
-    "brand": "Bayer",
-    "quantity": 2000
-  },
-  {
     "id": "CSTE012",
     "name": "Kem đánh răng dược liệu Ngọc Châu trẻ em ngừa sâu răng tuýp 70g",
     "description": [
@@ -208,6 +184,30 @@
     "promotion": "",
     "originalPrice": "270.000₫",
     "brand": "Aveeno",
+    "quantity": 2000
+  },
+  {
+    "id": "CSTE011",
+    "name": "Kem Bepanthen Balm ngừa hăm tã, kích ứng da cho bé tuýp 30g",
+    "description": [
+      "Kem Bepanthen Balm là một sản phẩm được thiết kế để ngăn ngừa và điều trị hăm tã, kích ứng da do da của bé bị ướt, nhờn hoặc cọ sát liên tục. Đây là một sản phẩm chất lượng được nhiều bà mẹ tin dùng và đánh giá cao.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/bepanthen-balm-30g-2-638617479255528658.jpg",
+      "images/bepanthen-balm-30g-1-638617479246406810.jpg",
+      "images/bepanthen-balm-30g-0-638617483783248331.jpg"
+    ],
+    "discount": "",
+    "packaging": "1 tuýp x 30g",
+    "unit": "Tube",
+    "promotion": "",
+    "originalPrice": "72.000₫",
+    "brand": "Bayer",
     "quantity": 2000
   },
   {

@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title id="title-name">
+      Nhà thuốc An Khang - Hệ thống bán thuốc Team 9 design 100%
+    </title>
+    <!--Bootstrap-->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <!--CSS-->
+    <link rel="stylesheet" href="styles.css" />
+    <!--Font Awesome-->
+    <script
+      src="https://kit.fontawesome.com/eb0b30c124.js"
+      crossorigin="anonymous"
+    ></script>
+    <!--Font Roboto-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <!--JS-->
+    <script src="js-scripts/get-profile-product.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <div class="container d-flex justify-content-end align-items-center">
+        <button class="btn text-light text-truncate btn-top-nav">
+          <span class="fa-solid fa-expand"></span> Tra giá thuốc
+        </button>
+        <button
+          class="btn text-light text-truncate btn-top-nav"
+          data-bs-toggle="modal"
+          data-bs-target="#gioHangModal"
+        >
+          <span class="fa-solid fa-cart-shopping"></span> Giỏ hàng
+        </button>
+        <button class="btn text-light text-truncate btn-top-nav">
+          <span class="fa-solid fa-user"></span> Tài khoản
+        </button>
+      </div>
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+          <a class="navbar-brand" href="index.html"
+            ><img src="images/logo_ankhang.png" alt="logo"
+          /></a>
+          <button
+            class="navbar-toggler border-0"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="fa-solid fa-bars fa-xl text-white"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mb-2 mb-lg-0 mx-auto align-items-lg-center">
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="thuc-pham-chuc-nang.html"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  thực phẩm chức năng
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li>
+                    <a
+                      class="dropdown-item text-uppercase"
+                      href="thuc-pham-chuc-nang.html"
+                      style="color: #4cb551 !important"
+                      >Xem tất cả</a
+                    >
+                  </li>
+                  <li><a class="dropdown-item" href="#">Coming soon...</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="thiet-bi-y-te.html"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  thiết bị dụng cụ y tế
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li>
+                    <a
+                      class="dropdown-item text-uppercase"
+                      href="thiet-bi-y-te.html"
+                      style="color: #4cb551 !important"
+                      >Xem tất cả</a
+                    >
+                  </li>
+                  <li><a class="dropdown-item" href="#">Coming soon...</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="duoc-my-pham.html"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  dược mỹ phẩm
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li>
+                    <a
+                      class="dropdown-item text-uppercase"
+                      href="duoc-my-pham.html"
+                      style="color: #4cb551 !important"
+                      >Xem tất cả</a
+                    >
+                  </li>
+                  <li><a class="dropdown-item" href="#">Coming soon...</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="cham-soc-ca-nhan.html"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  chăm sóc cá nhân
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li>
+                    <a
+                      class="dropdown-item text-uppercase"
+                      href="cham-soc-ca-nhan.html"
+                      style="color: #4cb551 !important"
+                      >Xem tất cả</a
+                    >
+                  </li>
+                  <li><a class="dropdown-item" href="#">Coming soon...</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown fs-5">
+                <a
+                  class="nav-link text-white text-uppercase fw-bold"
+                  href="cham-soc-tre-em.html"
+                  id="navbarDropdown"
+                  role="button"
+                  aria-expanded="false"
+                >
+                  chăm sóc trẻ em
+                  <span class="fa-solid fa-angle-down"></span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <li>
+                    <a
+                      class="dropdown-item text-uppercase"
+                      href="cham-soc-tre-em.html"
+                      style="color: #4cb551 !important"
+                      >Xem tất cả</a
+                    >
+                  </li>
+                  <li><a class="dropdown-item" href="#">Coming soon...</a></li>
+                </ul>
+              </li>
+            </ul>
+            <form class="d-flex bg-light p-0 fs-5" style="border-radius: 15px">
+              <input
+                class="form-control me-2 bg-transparent border-0"
+                type="search"
+                placeholder="Bạn muốn tìm gì?"
+                aria-label="Search"
+              />
+              <button
+                class="btn w-25"
+                type="submit"
+                style="
+                  border-radius: 15px;
+                  background-color: #4cb551;
+                  transform: scale(0.85);
+                "
+              >
+                <span class="fa-solid fa-search text-white"></span>
+              </button>
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <div class="container mt-4">
+          <div class="row d-flex justify-content-center gap-3">
+            <div class="col-md-5 col-5">
+              <div class="row">
+                <div
+                  id="carouselExampleIndicators"
+                  class="carousel slide position-relative"
+                  data-bs-ride="carousel"
+                >
+                  <div class="carousel-indicators">
+                    <button
+                      type="button"
+                      data-bs-target="#carouselExampleIndicators"
+                      data-bs-slide-to="0"
+                      class="active"
+                      aria-current="true"
+                      aria-label="Slide 1"
+                    ></button>
+                    <button
+                      type="button"
+                      data-bs-target="#carouselExampleIndicators"
+                      data-bs-slide-to="1"
+                      aria-label="Slide 2"
+                    ></button>
+                    <button
+                      type="button"
+                      data-bs-target="#carouselExampleIndicators"
+                      data-bs-slide-to="2"
+                      aria-label="Slide 3"
+                    ></button>
+                  </div>
+                  <span
+                    class="badge bg-primary position-absolute packaging2 d-block"
+                    id="packaging"
+                    >packaging</span
+                  >
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img
+                        id="img1"
+                        src="..."
+                        class="d-block w-100"
+                        alt="..."
+                        style="border-radius: 10px; width: 455px; height: 455px"
+                      />
+                    </div>
+                    <div class="carousel-item">
+                      <img
+                        id="img2"
+                        src="..."
+                        class="d-block w-100"
+                        alt="..."
+                        style="border-radius: 10px; width: 455px; height: 455px"
+                      />
+                    </div>
+                    <div class="carousel-item">
+                      <img
+                        id="img3"
+                        src="..."
+                        class="d-block w-100"
+                        alt="..."
+                        style="border-radius: 10px; width: 455px; height: 455px"
+                      />
+                    </div>
+                  </div>
+                  <button
+                    class="carousel-control-prev"
+                    type="button"
+                    data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="prev"
+                  >
+                    <span
+                      class="carousel-control-prev-icon"
+                      aria-hidden="true"
+                    ></span>
+                    <span class="visually-hidden">Previous</span>
+                  </button>
+                  <button
+                    class="carousel-control-next"
+                    type="button"
+                    data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="next"
+                  >
+                    <span
+                      class="carousel-control-next-icon"
+                      aria-hidden="true"
+                    ></span>
+                    <span class="visually-hidden">Next</span>
+                  </button>
+                </div>
+              </div>
+              <div class="row d-flex justify-content-start px-0 mt-5">
+                <h5 class="fs-4 text-uppercase fw-bold text-truncate">
+                  THÔNG TIN SẢN PHẨM
+                </h5>
+                <h6 class="fw-bold fs-5 text-success">Giới thiệu sản phẩm</h6>
+                <p id="description1"></p>
+                <h6 class="fw-bold fs-5 text-success">Thành phần</h6>
+                <p id="description2"></p>
+                <h6 class="fw-bold fs-5 text-success">Công dụng</h6>
+                <p id="description3"></p>
+                <h6 class="fw-bold fs-5 text-success">Cách dùng</h6>
+                <p id="description4"></p>
+                <h6 class="fw-bold fs-5 text-danger">Lưu ý</h6>
+                <p id="description5"></p>
+                <h6 class="fw-bold fs-5 text-success">Thông tin thêm</h6>
+                <p id="description6"></p>
+              </div>
+            </div>
+            <div class="col-md-5 col-6">
+              <h5 class="fw-bold fs-3" id="name">
+                Khẩu trang trẻ em Unicharm 3D Mask Kids màu trắng gói 5 cái
+              </h5>
+              <div class="d-flex align-items-center gap-1 mt-1 mt-md-3">
+                <span
+                  id="logo-quantity"
+                  class="fa-solid fa-spinner fa-spin-pulse"
+                ></span>
+                <span class="fw-normal" id="quantity" style="font-size: 1.2rem"
+                  >Error...</span
+                >
+                |
+                <span
+                  class="fw-normal text-dark"
+                  id="ma-so"
+                  style="font-size: 1.2rem"
+                  >Mã:...</span
+                >
+              </div>
+              <div class="row d-flex justify-content-start align-items-center">
+                <div class="col-12 col-md-5">
+                  <span
+                    class="text-danger fw-bold fs-3"
+                    id="discountedPrice"
+                  ></span>
+                  /
+                  <span class="text-dark fs-4" id="unit"></span>
+                  <br />
+                  <span
+                    class="fs-5 text-decoration-line-through text-secondary mt-3"
+                    id="originalPrice"
+                  ></span>
+                </div>
+              </div>
+              <div class="col-8 col-md-4">
+                <a
+                  id="buy-btn"
+                  href="#"
+                  class="btn btn-buy w-100 mt-4"
+                  data-id=""
+                  >Thêm vào giỏ</a
+                >
+              </div>
+              <div class="mt-1 mt-md-3 fs-3"></div>
+              <div class="mt-1 mt-md-3"></div>
+              <div class="mt-4">
+                <a href="#" id="khuyen-mai-50k"
+                  ><img
+                    src="/images/khuyen-mai-50k.png"
+                    class="img-fluid"
+                    alt="khuyen-mai-50k.png"
+                /></a>
+              </div>
+              <div class="mt-4">
+                <ul>
+                  <h5 class="fs-5 fw-bold">Khuyến mãi (Đến 30/06)</h5>
+                  <li class="text-success ms-4">
+                    <p class="text-dark">
+                      Trả chậm 0 Đồng - 0% Lãi suất kỳ hạn 1- 3 tháng. Giảm đến
+                      50% tối đa 50,000đ khi thanh toán qua HOME PayLater
+                    </p>
+                  </li>
+
+                  <li class="text-success ms-4">
+                    <p class="text-dark">
+                      Nhập mã VNPAYAK2 giảm đến 25,000đ (áp dụng tùy giá trị đơn
+                      hàng) khi thanh toán qua VNPAY-QR
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--Modal-->
+      <!--gio hang-->
+      <section>
+        <div
+          class="modal fade"
+          id="gioHangModal"
+          tabindex="-1"
+          aria-labelledby="exampleModalLabel"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">
+                  <span class="fa-solid fa-cart-shopping"></span> Giỏ hàng
+                </h5>
+                <button
+                  type="button"
+                  class="btn-close"
+                  data-bs-dismiss="modal"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="modal-body">
+                <div id="cart-items"></div>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-bs-dismiss="modal"
+                >
+                  Đóng
+                </button>
+                <button id="paid" type="button" class="btn btn-success">
+                  Thanh toán
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--thong bao-->
+      <div class="modal" tabindex="-1" id="thongBaoModal">
+        <div class="modal-dialog modal-dialog-centered">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Thông báo</h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <p id="thongBaoNoiDung">Modal body text goes here.</p>
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Đóng
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <section>
+        <div
+          class="container-fluid px-5 mt-3 py-4"
+          style="background-color: #ebf8ed"
+        >
+          <div class="row">
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  tổng đài
+                </h5>
+                <li class="text-truncate">
+                  Gọi mua (8:00 - 21:30):
+                  <a
+                    style="text-decoration: none; font-weight: bold"
+                    href="tel:1900"
+                    >1900 1234</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  Khiếu nại (8:00 - 21:30):<a
+                    style="text-decoration: none; font-weight: bold"
+                    href="tel:1900"
+                    >1900 1234</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  Hệ thống nhà thuốc
+                </h5>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/noi-quy-nha-thuoc-an-khang"
+                    >Nội quy nhà thuốc</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/chat-luong-phuc-vu-nha-thuoc-an-khang"
+                    >Chất lượng phục vụ</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/chinh-sach-doi-tra-bao-hanh-an-khang"
+                    >Chính sách đổi trả, bảo hành</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/tin-khuyen-mai/tat-tan-tat-ve-chuong-trinh-uu-dai-app-qua-tang-vip-1481845#hmenuid1"
+                    >Tích điểm Quà tặng VIP</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  Hỗ trợ khách hàng
+                </h5>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/dieu-kien-giao-dich-chung-nha-thuoc-an-khang"
+                    >Điều kiện giao dịch chung</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/huong-dan-mua-hang-online-an-khang"
+                    >Hướng dẫn mua hàng online</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/chinh-sach-giao-hang-an-khang"
+                    >Chính sách giao hàng</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/chinh-sach-thanh-toan-an-khang"
+                    >Chính sách thanh toán</a
+                  >
+                </li>
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul class="footer-info">
+                <h5 class="text-uppercase fw-bold fs-5 text-truncate">
+                  Về nhà thuốc An Khang
+                </h5>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/gioi-thieu-nha-thuoc-an-khang"
+                    >Giới thiệu công ty</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/ban-dieu-hanh"
+                    >Ban Điều Hành</a
+                  >
+                </li>
+                <li class="text-truncate">
+                  <a
+                    style="text-decoration: none; color: #515151"
+                    href="https://www.nhathuocankhang.com/chinh-sach-bao-mat-an-khang"
+                    >Chính sách xử lý dữ liệu cá nhân</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6 col-md-3">
+              <ul style="list-style: none">
+                <li>
+                  <h5
+                    class="text-uppercase fw-bold fs-5 text-truncate footer-info"
+                  >
+                    kết nối với chúng tôi
+                  </h5>
+                </li>
+                <li class="d-flex gap-2 justify-content-start">
+                  <span>
+                    <a href="youtube.com">
+                      <img
+                        src="images/youtube-icon.png"
+                        alt="youtube-icon"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                  <span>
+                    <a href="facebook.com">
+                      <img
+                        src="images/2023_Facebook_icon.png"
+                        alt="facebook-icon"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                  <span>
+                    <a
+                      href="https://zalo.me/2650939002850547338?itm_source=nhathuocankhang&itm_medium=Tu_van_thuoc&itm_campaign=Zalo_chat"
+                    >
+                      <img
+                        src="images/zalo-icon.png"
+                        alt="zalo-icon"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                </li>
+              </ul>
+            </div>
+            <div class="col-6 col-md-3">
+              <ul style="list-style: none">
+                <li>
+                  <h5
+                    class="text-uppercase fw-bold fs-5 text-truncate footer-info"
+                  >
+                    Chứng nhận bởi
+                  </h5>
+                </li>
+                <li class="d-flex gap-2 justify-content-start">
+                  <span>
+                    <a
+                      href="http://online.gov.vn/Home/WebDetails/41612?AspxAutoDetectCookieSupport=1"
+                    >
+                      <img
+                        src="images/bocongthuong.png"
+                        alt="bocongthuong.png"
+                        style="width: 30px; height: auto"
+                      />
+                    </a>
+                  </span>
+                  <span class="rounded-pill">
+                    <a
+                      href="https://www.dmca.com/Protection/Status.aspx?ID=79385c01-eec9-4157-9e93-322fae8b1562&refurl=https://www.nhathuocankhang.com/dung-cu-y-te"
+                    >
+                      <img
+                        src="images/dmca-badge-w100-2x1-02.png"
+                        alt="dmca-badge-w100-2x1-02.png"
+                        style="width: 50px; height: 20px; border-radius: 8px"
+                      />
+                    </a>
+                  </span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!--Call Zalo Icon-->
+      <section class="container-fluid">
+        <a
+          href="http://zalo.me/0914892412"
+          class="zalo-Icon"
+          data-bs-toggle="tooltip"
+          data-bs-placement="top"
+          title="Chat với chúng tôi trên Zalo"
+        >
+          <i
+            style="
+              color: white;
+              text-align: center;
+              font-size: 15px;
+              font-weight: bold;
+            "
+            >Zalo</i
+          >
+        </a>
+        <a
+          href="tel:0914892412"
+          class="call-Icon"
+          data-bs-toggle="tooltip"
+          data-bs-placement="top"
+          title="Liên hệ với chúng tôi qua điện thoại"
+        >
+          <i class="fa-solid fa-phone" style="color: white"></i>
+        </a>
+      </section>
+    </footer>
+    <div id="product-detail-container"></div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        GetProfileProduct("data-json/data-csgd-noibat.json");
+        AddCart();
+        AddCartThanhToan();
+        KhuyenMai50K();
+      });
+    </script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
