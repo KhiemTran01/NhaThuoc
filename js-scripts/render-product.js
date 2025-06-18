@@ -7,6 +7,7 @@ function renderProductCards({
   priceMin = null,
   priceMax = null,
   sortOrder = "asc",
+  productDetail,
 }) {
   let products = [];
   let currentIndex = 0;
@@ -123,7 +124,7 @@ function renderProductCards({
       card.style.height = "25rem";
 
       card.innerHTML = `
-        <a href="product-detail.html?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
+        <a href="${productDetail}?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
           <img style="width: 148px; height: 148px;" src="${
             images && images.length > 0 ? images[0] : ""
           }" class="card-img-top" alt="${name}"/>

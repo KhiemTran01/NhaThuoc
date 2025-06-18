@@ -1,5 +1,29 @@
 [
   {
+    "id": "CSTE018",
+    "name": "Khẩu trang vải trẻ em Kissy 3 lớp có họa tiết hộp 1 cái",
+    "description": [
+      "Cấu trúc 3 lớp: Ngoài cùng là vải Cotton, lớp giữa là sợi hoạt tính có tác dụng lọc khí, lớp trong cùng là lưới mỏng có tác dụng tạo độ thoáng khí, bảo vệ da mặt khỏi khói, bụi, khí ô nhiễm, tia cực tím. khí độc như SO2, CO2, H2S...đảm bảo an toàn khi làm khẩu trang cho bé.",
+      "Phòng tránh các bệnh lây nhiễm qua đường hô hấp. Chống khói bụi xe cộ, mùi hôi. Dùng nơi công trường, nhà máy, khu công nghiệp.",
+      "Thay bàn chải ít nhất 3 tháng/lần.",
+      "Đánh răng ít nhất 2 lần/ngày vào sáng và tối. ",
+      "Trẻ em dưới 6 tuổi phải đánh răng dưới sự giám sát của người lớn. Nên thay bàn chải 3 tháng 1 lần hoặc khi lông bàn chải bị mòn. Vệ sinh thật sạch bàn chải sau khi sử dụng.",
+      "Bảo quản Nơi khô ráo."
+    ],
+    "images": [
+      "images/khau-trang-soi-hoat-tinh-tre-em-kissy-baby-mac-dinh-2.jpg",
+      "images/khau-trang-soi-hoat-tinh-tre-em-kissy-baby-mac-dinh-4.jpg",
+      "images/khau-trang-soi-hoat-tinh-tre-em-kissy-baby-mac-dinh-5.jpg"
+    ],
+    "discount": "-40%",
+    "packaging": "Hộp 1 cái",
+    "unit": "Hộp",
+    "promotion": "",
+    "originalPrice": "242.000₫",
+    "brand": "Kissy",
+    "quantity": 2000
+  },
+  {
     "id": "DMP001",
     "name": "Kem Dizigone Nano Bạc kháng khuẩn, ngừa sẹo tuýp 25g",
     "description": [
@@ -10,7 +34,7 @@
       "Dung tích: 75ml,Bảo ,quản: Nơi khô ráo, tránh ánh nắng trực tiếp.Hạn sử dụng: Xem trên bao bì sản phẩm."
     ],
     "images": [
-      "images/bepanthen-balm-30g-thumb-600x600.jpg",
+      "https://cdn.thegioididong.com/Products/Images/12018/230859/dizigone-nano-bac-tuyp-25g-mac-dinh-4.jpg",
       "https://cdn.thegioididong.com/Products/Images/12018/230859/dizigone-nano-bac-tuyp-25g-mac-dinh-4.jpg",
       "https://cdn.thegioididong.com/Products/Images/12018/230859/dizigone-nano-bac-tuyp-25g-mac-dinh-5.jpg"
     ],
@@ -265,7 +289,7 @@
       "https://cdnv2.tgdd.vn/mwg-static/ankhang/Products/Images/6658/286929/sua-chong-nang-anessa-spf50-pa-diu-nhe-cho-da-nhay-cam-chai-60ml-2-638819947588041652.jpg",
       "https://cdnv2.tgdd.vn/mwg-static/ankhang/Products/Images/6658/286929/sua-chong-nang-anessa-spf50-pa-diu-nhe-cho-da-nhay-cam-chai-60ml-3-638819947594401347.jpg"
     ],
-    "discount": "20%",
+    "discount": "-20%",
     "packaging": "1 chai x 60ml",
     "unit": "chai",
     "promotion": "",
@@ -327,18 +351,19 @@
       "Dùng hàng ngày vào mỗi sáng sau bước làm sạch với sữa rửa mặt, cân bằng với nước dưỡng da (nước hoa hồng), làm dịu với nước khoáng dưỡng da và sau bước đặc trị với Serum (Tinh chất)..",
       "Dành cho mọi loại da, ngay cả da nhạy cảm.",
       "tránh tiếp xúc với mắt và xa tầm tay trẻ em",
-      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng.."
+      "3 năm kể từ ngày sản xuất, in trên chai.Mở nắp dùng trong 12 tháng..",
+      ""
     ],
     "images": [
       "https://cdn.thegioididong.com/Products/Images/6562/222923/kem-duong-vichy-liftactiv-collagen-specialist-50ml-2.jpg",
       "https://cdn.thegioididong.com/Products/Images/6562/222923/kem-duong-vichy-liftactiv-collagen-specialist-50ml-3.jpg",
       "https://cdn.thegioididong.com/Products/Images/6562/222923/kem-duong-vichy-liftactiv-collagen-specialist-50ml-4.jpg"
     ],
-    "discount": "20%",
+    "discount": "-20%",
     "packaging": "1 chai x 50ml",
     "unit": "chai",
     "promotion": "",
-    "originalPrice": "1.230.000₫",
+    "originalPrice": "1230000₫",
     "brand": "Vichy",
     "quantity": 2000
   },
