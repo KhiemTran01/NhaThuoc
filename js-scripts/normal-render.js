@@ -128,7 +128,7 @@ function renderCarouselProductCards({
         discountPercent === 0 ? "d-none" : ""
       }">-${discountPercent}%</span>
       ${promotionCheck}
-      <span class="badge bg-primary position-absolute packaging d-none d-lg-block">${packaging}</span>
+      <span class="badge bg-primary position-absolute packaging">${packaging}</span>
       <h5 class="card-title text-truncate">${name}</h5>
       <p class="card-text h-25 fs-5">
         <span class="text-danger fw-bold fs-5">${formatCurrency(

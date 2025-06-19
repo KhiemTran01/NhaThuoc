@@ -153,7 +153,7 @@ body {
 .packaging {
   background-color: #e8f1fb !important;
   border-radius: 10px;
-  width: 45%;
+  width: 65%;
   height: 7%;
   align-items: center;
   text-align: center;
@@ -179,12 +179,23 @@ body {
   line-height: 1.5;
 }
 
+.info-card-product {
+  position: absolute;
+  align-items: center;
+  text-align: start;
+  bottom: 20px;
+}
+
+.info-card-product .discountedPrice {
+  font-size: 1.2rem;
+}
+
 .promotion {
   background: linear-gradient(165deg, #9fc7ff, #163ece, #01ffff);
   border-radius: 10px;
-  width: 55%;
+  width: auto;
   height: 7%;
-  align-items: center;
+
   text-align: center;
   font-size: 0.8rem;
   color: #ffffff;
@@ -192,6 +203,12 @@ body {
   top: 120px;
   left: 12px;
   transform: scale(0.8);
+}
+
+.promotion-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .giam-gia {

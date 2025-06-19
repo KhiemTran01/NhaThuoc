@@ -115,8 +115,8 @@ function renderProductCards({
 
       const promotionCheck =
         promotion !== ""
-          ? `<span class="badge bg-primary position-absolute promotion d-block"><span class="fa-solid fa-gift text-white fa-sm"></span> ${promotion}</span>`
-          : `<span class="badge bg-primary position-absolute promotion d-none"><span class="fa-solid fa-gift text-white fa-sm"></span> ${promotion}</span>`;
+          ? `<span class="badge bg-primary position-absolute promotion d-block text-capitalize"><span class="fa-solid fa-gift text-white fa-sm"></span> ${promotion}</span>`
+          : `<span class="badge bg-primary position-absolute promotion d-none text-capitalize"><span class="fa-solid fa-gift text-white fa-sm"></span> ${promotion}</span>`;
 
       const card = document.createElement("div");
       card.className = "card position-relative";
@@ -126,7 +126,7 @@ function renderProductCards({
       card.innerHTML = `
   <div class="d-flex flex-column h-100">
     <a href="${productDetail}?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
-      <img style="width: 148px; height: 148px;" src="${
+      <img onerror="this.onerror=null;this.src='images/errorPicture.jpg';" style="width: 148px; height: 148px;" src="${
         images && images.length > 0 ? images[0] : ""
       }" class="card-img-top" alt="${name}"/>
     </a>
@@ -137,8 +137,8 @@ function renderProductCards({
       ${promotionCheck}
       <span class="badge bg-primary position-absolute packaging">${packaging}</span>
       <h5 class="card-title text-truncate">${name}</h5>
-      <p class="card-text h-25 fs-5">
-        <span class="text-danger fw-bold fs-5">${formatCurrency(
+      <p class="card-text h-25 fs-5 info-card-product">
+        <span class="text-danger fw-bold discountedPrice">${formatCurrency(
           discountedPrice
         )}</span>
         /<span class="text-dark fs-5"> ${unit}</span><br />
