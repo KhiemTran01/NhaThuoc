@@ -137,7 +137,7 @@ function renderCarouselProductCards({
                   discountPercent === 0 ? "d-none" : ""
                 }">${formatCurrency(originalPrice)}</span>
               </p>
-              <a href="#" data-id="${id}" class="btn btn-buy w-100 mt-4">Thêm vào giỏ</a>
+              <button type="button" data-id="${id}" class="btn btn-buy w-100 mt-4">Xem chi tiết</button>
             </div>
           </a>
         `;
@@ -150,7 +150,14 @@ function renderCarouselProductCards({
     }
 
     // Optional: gọi AddCartPage() nếu cần tương tác thêm
-    if (typeof AddCartPage === "function") AddCartPage();
+
+    const loadMoreBtn = document.getElementById(loadMoreBtnId);
+    if (currentIndex >= products.length && loadMoreBtn) {
+      loadMoreBtn.style.display = "none";
+    } else if (loadMoreBtn) {
+      loadMoreBtn.style.display = "block";
+    }
+    AddCartPage();
   }
 
   fetchProducts();
