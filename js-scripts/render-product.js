@@ -124,30 +124,34 @@ function renderProductCards({
       card.style.height = "25rem";
 
       card.innerHTML = `
-        <a href="${productDetail}?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
-          <img style="width: 148px; height: 148px;" src="${
-            images && images.length > 0 ? images[0] : ""
-          }" class="card-img-top" alt="${name}"/>
-          <div class="card-body">
-            <span class="badge bg-primary position-absolute giam-gia ${
-              discountPercent === 0 ? "d-none" : ""
-            }">-${discountPercent}%</span>
-            ${promotionCheck}
-            <span class="badge bg-primary position-absolute packaging">${packaging}</span>
-            <h5 class="card-title text-truncate">${name}</h5>
-            <p class="card-text h-25 fs-5 mt-3">
-              <span class="text-danger fw-bold fs-5">${formatCurrency(
-                discountedPrice
-              )}</span>
-              /<span class="text-dark fs-5"> ${unit}</span><br />
-              <span class="fs-5 text-decoration-line-through text-secondary ${
-                discountPercent === 0 ? "d-none" : ""
-              }">${formatCurrency(originalPrice)}</span>
-            </p>
-            <a href="#" data-id="${id}" class="btn btn-buy w-100 mt-4">Thêm vào giỏ</a>
-          </div>
-        </a>
-      `;
+  <div class="d-flex flex-column h-100">
+    <a href="${productDetail}?id=${id}" style="text-decoration: none; color: black" class="p-0 m-0">
+      <img style="width: 148px; height: 148px;" src="${
+        images && images.length > 0 ? images[0] : ""
+      }" class="card-img-top" alt="${name}"/>
+    </a>
+    <div class="card-body d-flex flex-column flex-grow-1">
+      <span class="badge bg-primary position-absolute giam-gia ${
+        discountPercent === 0 ? "d-none" : ""
+      }">-${discountPercent}%</span>
+      ${promotionCheck}
+      <span class="badge bg-primary position-absolute packaging">${packaging}</span>
+      <h5 class="card-title text-truncate">${name}</h5>
+      <p class="card-text h-25 fs-5">
+        <span class="text-danger fw-bold fs-5">${formatCurrency(
+          discountedPrice
+        )}</span>
+        /<span class="text-dark fs-5"> ${unit}</span><br />
+        <span class="fs-5 text-decoration-line-through text-secondary ${
+          discountPercent === 0 ? "d-none" : ""
+        }">${formatCurrency(originalPrice)}</span>
+      </p>
+      <div class="mt-auto">
+        <button href="${productDetail}?id=${id}" data-id="${id}" class="btn btn-buy w-100">Thêm vào giỏ</button>
+      </div>
+    </div>
+  </div>
+`;
 
       container.appendChild(card);
     });
